@@ -1,0 +1,17 @@
+1) Scrap des tables
+Extract_historique: permet de scrappé la table au choix(équipes,selections,transferts..) en précisant le code date. Place le scrap dans le dossier Extraction Folder/nom_table
+Les codes dates se situent dans le fichier texte 'Code_Dates'
+Une fois toute les tables scrappées (2012 à 2022 ou ajout d'une nouvelle table après 1 mois ):
+2) extract_nomtable_agrege: récupère dans Extraction Folder/nom_table toute les tables et effectue l'aggregation ET le traitement.
+Créé ensuite la table correspondante aggrégée dans le dossier Extraction Folder/Agrégé_retraité/
+
+PS: extract_transferts_agrege: créer également dans Extraction Folder/retraité/transferts_retraité la table avec les ID d'equipes qui servira pour les bases de données.
+
+Remplacer une ligne:
+Pour cela,il faut ouvrir en direct le fichier Excel  "remplace" et modifier les lignes à la main puis les enregistrer.
+Surtout ne pas modifier en faisant Données/Importer données mais bien en ouvrant directement le fichier (présence de virgules dans la table).
+Enregistrer sans modifier le nom.
+Lancer extract_transferts_agregé pour que la modification soit prise en compte.
+
+Detection de nouvelle_blessure:
+Dans le cas d'une nouvelle blessure trouvée signalée dans extraction_blessures_agrégés,il faudra également rajouter une ligne avec le nom de blessure en sortie et la traduction.

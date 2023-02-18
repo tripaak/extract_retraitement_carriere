@@ -1,0 +1,136 @@
+Update_Date_Team,Competition_ID,Competiton,Team_ID,Team,Overall_Comp,Attack_Comp,Milieu_Comp,Defense_Comp,NbJoueurs_Team,pays
+"Jun 2, 2022",13, [England] Premier League,5,Chelsea,83,83,79,83,33,England
+"Jun 2, 2022",10, [Netherlands] Eredivisie,246,Feyenoord,75,73,77,74,27,Netherlands
+"Jun 2, 2022",13, [England] Premier League,1808,Brighton & Hove Albion,76,75,76,77,29,England
+"Jun 2, 2022",68, [Turkey] Super Lig,325,Galatasaray,76,79,76,74,28,Turkey
+"Jun 2, 2022",13, [England] Premier League,1,Arsenal,81,82,82,81,31,England
+"Jun 2, 2022",19, [Germany] Bundesliga,22,Borussia Dortmund,81,78,80,81,32,Germany
+"Jun 2, 2022",10, [Netherlands] Eredivisie,245,Ajax,77,79,78,76,27,Netherlands
+"Jun 2, 2022",53, [Spain] La Liga,243,Real Madrid,85,85,86,84,33,Spain
+"Jun 2, 2022",13, [England] Premier League,11,Manchester United,82,82,83,81,33,England
+"Jun 2, 2022",31, [Italy] Serie A,48,Napoli,80,80,81,80,26,Italy
+"Jun 2, 2022",13, [England] Premier League,10,Manchester City,85,85,87,84,26,England
+"Jun 2, 2022",350, [Saudi Arabia] Pro League,112139,Al Nassr,73,88,71,72,30,Saudi Arabia
+"Jun 2, 2022",13, [England] Premier League,110,Wolverhampton Wanderers,78,78,80,74,33,England
+"Jun 2, 2022",53, [Spain] La Liga,241,FC Barcelona,83,83,85,82,31,Spain
+"Jun 2, 2022",13, [England] Premier League,9,Liverpool,84,84,82,85,33,England
+"Jun 2, 2022",16, [France] Ligue 1,73,Paris Saint Germain,84,91,83,83,23,France
+"Jun 2, 2022",53, [Spain] La Liga,480,Rayo Vallecano,76,79,75,75,29,Spain
+"Jun 2, 2022",308, [Portugal] Liga Portugal,237,Sporting CP,78,77,79,78,30,Portugal
+"Jun 2, 2022",53, [Spain] La Liga,483,Villarreal,80,82,80,79,22,Spain
+"Jun 2, 2022",13, [England] Premier League,144,Fulham,76,79,76,75,32,England
+"Jun 2, 2022",53, [Spain] La Liga,457,Real Sociedad,79,78,80,78,33,Spain
+"Jun 2, 2022",13, [England] Premier League,95,Leicester City,79,80,80,77,33,England
+"Jun 2, 2022",353, [Argentina] Liga Profesional,110406,Colón,70,70,69,71,24,Argentina
+"Jun 2, 2022",14, [England] Championship,1796,Burnley,73,72,73,73,30,England
+"Jun 2, 2022",13, [England] Premier League,1943,AFC Bournemouth,74,74,74,73,29,England
+"Jun 2, 2022",19, [Germany] Bundesliga,1831,FC Union Berlin,75,76,74,75,28,Germany
+"Jun 2, 2022",31, [Italy] Serie A,1837,Sampdoria,73,74,72,74,28,Italy
+"Jun 2, 2022",16, [France] Ligue 1,74,Rennes,77,77,77,76,27,France
+"Jun 2, 2022",353, [Argentina] Liga Profesional,1877,Boca Juniors,75,75,75,75,28,Argentina
+"Jun 2, 2022",13, [England] Premier League,1925,Brentford,75,76,75,74,31,England
+"Jun 2, 2022",10, [Netherlands] Eredivisie,247,PSV,76,76,77,74,28,Netherlands
+"Jun 2, 2022",308, [Portugal] Liga Portugal,236,Porto,78,80,78,76,30,Portugal
+"Jun 2, 2022",13, [England] Premier League,1799,Crystal Palace,76,77,76,76,30,England
+"Jun 2, 2022",50, [Scotland] Premiership,78,Celtic,74,74,75,73,28,Scotland
+"Jun 2, 2022",350, [Saudi Arabia] Pro League,605,Al Hilal,73,75,74,70,30,Saudi Arabia
+"Jun 2, 2022",68, [Turkey] Super Lig,327,Beşiktaş,74,73,74,73,24,Turkey
+"Jun 2, 2022",14, [England] Championship,1795,Watford,73,72,71,74,30,England
+"Jun 2, 2022",54, [Spain] La Liga 2,472,Las Palmas,72,72,73,72,30,Spain
+"Jun 2, 2022",19, [Germany] Bundesliga,34,Schalke 04,73,74,72,72,33,Germany
+"Jun 2, 2022",19, [Germany] Bundesliga,23,Borussia Mönchengladbach,77,79,78,76,33,Germany
+"Jun 2, 2022",14, [England] Championship,1801,Preston North End,70,65,70,69,30,England
+"Jun 2, 2022",14, [England] Championship,1794,Sheffield United,72,71,73,72,30,England
+"Jun 2, 2022",14, [England] Championship,1792,Norwich City,72,72,71,72,28,England
+"Jun 2, 2022",16, [France] Ligue 1,1809,Toulouse,72,71,74,71,28,France
+"Jun 2, 2022",16, [France] Ligue 1,72,Nice,76,78,75,76,25,France
+"Jun 2, 2022",1, [Denmark] Superliga,1788,Nordsjælland,67,65,69,67,26,Denmark
+"Jun 2, 2022",78, [World] Friendly International,1318,England,84,85,83,83,23,England
+"Jun 2, 2022",68, [Turkey] Super Lig,436,Trabzonspor,76,74,76,75,29,Turkey
+"Jun 2, 2022",14, [England] Championship,1952,Hull City,70,71,70,68,30,England
+"Jun 2, 2022",10, [Netherlands] Eredivisie,1906,AZ,74,75,75,71,30,Netherlands
+"Jun 2, 2022",31, [Italy] Serie A,110374,Fiorentina,78,77,78,78,26,Italy
+"Jun 2, 2022",14, [England] Championship,1939,Huddersfield Town,70,67,68,69,30,England
+"Jun 2, 2022",31, [Italy] Serie A,1746,Empoli,73,74,73,72,28,Italy
+"Jun 2, 2022",10, [Netherlands] Eredivisie,1908,FC Twente,71,72,71,71,24,Netherlands
+"Jun 2, 2022",4, [Belgium] Jupiler Pro League,231,Club Brugge,75,75,75,74,27,Belgium
+"Jun 2, 2022",19, [Germany] Bundesliga,166,Hertha BSC,74,74,75,73,31,Germany
+"Jun 2, 2022",53, [Spain] La Liga,1860,Getafe,77,76,78,76,29,Spain
+"Jun 2, 2022",32, [Italy] Serie B,50,Parma,70,70,70,68,28,Italy
+"Jun 2, 2022",66, [Poland] Ekstraklasa,1871,Legia Warszawa,68,67,69,67,27,Poland
+"Jun 2, 2022",53, [Spain] La Liga,453,Mallorca,75,75,75,75,33,Spain
+"Jun 2, 2022",50, [Scotland] Premiership,86,Rangers,73,74,72,74,28,Scotland
+"Jun 2, 2022",19, [Germany] Bundesliga,25,SC Freiburg,76,75,77,76,26,Germany
+"Jun 2, 2022",31, [Italy] Serie A,46,Lazio,79,80,79,78,25,Italy
+"Jun 2, 2022",14, [England] Championship,15,Queens Park Rangers,70,71,68,71,30,England
+"Jun 2, 2022",78, [World] Friendly International,1337,Germany,85,82,85,82,23,Germany
+"Jun 2, 2022",19, [Germany] Bundesliga,38,Werder Bremen,73,75,72,74,26,Germany
+"Jun 2, 2022",54, [Spain] La Liga 2,573,Málaga,68,71,68,67,30,Spain
+"Jun 2, 2022",16, [France] Ligue 1,65,Lille,75,76,75,76,23,France
+"Jun 2, 2022",17, [France] Ligue 2,59,Bordeaux,68,68,68,71,26,France
+"Jun 2, 2022",14, [England] Championship,12,Middlesbrough,71,68,69,72,30,England
+"Jun 2, 2022",14, [England] Championship,3,Blackburn Rovers,70,71,69,70,30,England
+"Jun 2, 2022",31, [Italy] Serie A,39,Atalanta,79,80,79,77,24,Italy
+"Jun 2, 2022",14, [England] Championship,88,Birmingham City,69,70,69,68,30,England
+"Jun 2, 2022",7, [Brazil] Serie A,383,Palmeiras,76,78,77,74,20,Brazil
+"Jun 2, 2022",10, [Netherlands] Eredivisie,1909,Vitesse,69,68,70,70,29,Netherlands
+"Jun 2, 2022",53, [Spain] La Liga,479,Osasuna,76,75,77,76,30,Spain
+"Jun 2, 2022",14, [England] Championship,1919,Bristol City,69,67,70,69,27,England
+"Jun 2, 2022",14, [England] Championship,1806,Stoke City,69,69,69,69,30,England
+"Jun 2, 2022",31, [Italy] Serie A,111811,Monza,75,75,76,75,31,Italy
+"Jun 2, 2022",2020, [Peru] Primera Division,111334,Melgar,68,71,67,67,19,Peru
+"Jun 2, 2022",350, [Saudi Arabia] Pro League,111674,Al Shabab,71,74,71,68,30,Saudi Arabia
+"Jun 2, 2022",54, [Spain] La Liga 2,110832,Granada,73,75,73,71,30,Spain
+"Jun 2, 2022",39, [United States] Major League Soccer,112885,Atlanta United,69,63,71,65,25,United States
+"Jun 2, 2022",61, [England] League Two,113926,Salford City,63,63,63,63,28,England
+"Jun 2, 2022",61, [England] League Two,112254,Newport County,61,61,60,61,28,Wales
+"Jun 2, 2022",350, [Saudi Arabia] Pro League,112392,Al Raed,66,68,65,65,28,Saudi Arabia
+"Jun 2, 2022",68, [Turkey] Super Lig,111117,Fatih Karagümrük,70,71,71,65,26,Turkey
+"Jun 2, 2022",353, [Argentina] Liga Profesional,110395,Lanús,71,73,71,71,28,Argentina
+"Jun 2, 2022",31, [Italy] Serie A,111434,Cremonese,71,71,71,72,26,Italy
+"Jun 2, 2022",10, [Netherlands] Eredivisie,100646,Sparta Rotterdam,67,66,68,66,30,Netherlands
+"Jun 2, 2022",19, [Germany] Bundesliga,100409,FC Augsburg,74,73,74,74,33,Germany
+"Jun 2, 2022",32, [Italy] Serie B,110738,Pisa,69,69,69,71,25,Italy
+"Jun 2, 2022",1, [Denmark] Superliga,1516,Midtjylland,70,69,71,71,27,Denmark
+"Jun 2, 2022",78, [World] Friendly International,1343,Italy,83,83,84,82,23,Italy
+"Jun 2, 2022",4, [Belgium] Jupiler Pro League,2014,Union Saint-Gilloise,71,71,71,71,27,Belgium
+"Jun 2, 2022",16, [France] Ligue 1,1530,Angers SCO,71,72,70,71,31,France
+"Jun 2, 2022",7, [Brazil] Serie A,1035,Atlético Mineiro,75,73,77,76,20,Brazil
+"Jun 2, 2022",317, [Croatia] 1. HNL,211,Dinamo Zagreb,72,72,72,72,27,Croatia
+"Jun 2, 2022",54, [Spain] La Liga 2,2023,Ponferradina,68,64,68,68,27,Spain
+"Jun 2, 2022",308, [Portugal] Liga Portugal,1893,Marítimo,70,68,69,71,30,Portugal
+"Jun 2, 2022",32, [Italy] Serie B,1848,Bari 1908,69,69,69,68,28,Italy
+"Jun 2, 2022",61, [England] League Two,1934,Swindon Town,62,64,60,61,28,England
+"Jun 2, 2022",32, [Italy] Serie B,1843,Palermo,69,69,67,68,28,Italy
+"Jun 2, 2022",68, [Turkey] Super Lig,101041,Sivasspor,69,71,69,67,28,Turkey
+"Jun 2, 2022",39, [United States] Major League Soccer,111144,Seattle Sounders,70,72,71,69,27,United States
+"Jun 2, 2022",350, [Saudi Arabia] Pro League,113057,Al Feiha,67,70,69,62,29,Saudi Arabia
+"Jun 2, 2022",68, [Turkey] Super Lig,101028,Hatayspor,69,72,69,68,28,Turkey
+"Jun 2, 2022",39, [United States] Major League Soccer,112606,Orlando City,69,70,71,67,26,United States
+"Jun 2, 2022",350, [Saudi Arabia] Pro League,113217,Dhamk,67,67,67,67,28,Saudi Arabia
+"Jun 2, 2022",39, [United States] Major League Soccer,111065,Real Salt Lake,67,71,67,66,26,United States
+"Jun 2, 2022",61, [England] League Two,112259,AFC Wimbledon,62,63,61,61,28,England
+"Jun 2, 2022",65, [Republic of Ireland] Premier Division,111132,UCD,54,51,53,56,18,Republic of Ireland
+"Jun 2, 2022",54, [Spain] La Liga 2,110827,Real Oviedo,70,72,69,69,30,Spain
+"Jun 2, 2022",20, [Germany] 2. Bundesliga,110329,St. Pauli,69,68,70,69,30,Germany
+"Jun 2, 2022",31, [Italy] Serie A,110741,Spezia,73,74,72,72,28,Italy
+"Jun 2, 2022",17, [France] Ligue 2,111817,Paris,69,70,69,69,26,France
+"Jun 2, 2022",54, [Spain] La Liga 2,114554,FC Andorra,66,68,66,65,26,Spain
+"Jun 2, 2022",60, [England] League One,110313,Accrington Stanley,63,62,64,61,28,England
+"Jun 2, 2022",2076, [Germany] 3. Liga,110691,Freiburg II,62,63,62,63,26,Germany
+"Jun 2, 2022",332, [Ukraine] Premier League,101047,Dynamo Kyiv,72,70,73,71,28,Ukraine
+"Jun 2, 2022",68, [Turkey] Super Lig,101033,Konyaspor,69,70,69,69,24,Turkey
+"Jun 2, 2022",319, [Czech Republic] Fortuna Liga,267,Sparta Praha,73,74,73,72,28,Czech Republic
+"Jun 2, 2022",54, [Spain] La Liga 2,260,Tenerife,69,68,68,68,30,Spain
+"Jun 2, 2022",4, [Belgium] Jupiler Pro League,230,Antwerp,72,75,70,73,28,Belgium
+"Jun 2, 2022",61, [England] League Two,142,Doncaster Rovers,62,62,62,61,27,England
+"Jun 2, 2022",65, [Republic of Ireland] Premier Division,1572,Drogheda United,56,54,56,56,28,Republic of Ireland
+"Jun 2, 2022",68, [Turkey] Super Lig,113142,Alanyaspor,70,71,68,69,26,Turkey
+"Jun 2, 2022",336, [Colombia] Liga BetPlay,101100,Atlético Nacional,70,71,71,70,28,Colombia
+"Jun 2, 2022",14, [England] Championship,1961,Cardiff City,68,68,68,68,30,Wales
+"Jun 2, 2022",78, [World] Friendly International,1356,Romania,72,70,74,69,23,Romania
+"Jun 2, 2022",2012, [China PR] Super League,112540,Shanghai SIPG,68,66,63,66,28,China PR
+"Jun 2, 2022",308, [Portugal] Liga Portugal,1438,Santa Clara,70,70,68,69,30,Portugal
+"Jun 2, 2022",2149, [India] Indian Super League,113257,Odisha FC,58,60,59,58,28,India
+"Jun 2, 2022",68, [Turkey] Super Lig,101016,Adana Demirspor,71,73,71,72,30,Turkey
+"Jun 2, 2022",4, [Belgium] Jupiler Pro League,674,Gent,73,71,73,73,28,Belgium

@@ -1,0 +1,318 @@
+Update_Date_Team,Competition_ID,Competiton,Team_ID,Team,Overall_Comp,Attack_Comp,Milieu_Comp,Defense_Comp,NbJoueurs_Team,pays
+"Aug 18, 2022",13, [England] Premier League,5,Chelsea,83,83,79,83,33,England
+"Aug 18, 2022",13, [England] Premier League,9,Liverpool,84,84,82,84,33,England
+"Aug 18, 2022",13, [England] Premier League,13,Newcastle United,79,79,78,79,30,England
+"Aug 18, 2022",13, [England] Premier League,10,Manchester City,85,85,87,84,26,England
+"Aug 18, 2022",13, [England] Premier League,14,Nottingham Forest,77,75,76,77,33,England
+"Aug 18, 2022",19, [Germany] Bundesliga,21,FC Bayern München,85,83,85,84,29,Germany
+"Aug 18, 2022",31, [Italy] Serie A,47,Milan,81,80,81,81,30,Italy
+"Aug 18, 2022",53, [Spain] La Liga,241,FC Barcelona,83,83,85,82,31,Spain
+"Aug 18, 2022",13, [England] Premier League,11,Manchester United,82,82,83,81,33,England
+"Aug 18, 2022",13, [England] Premier League,17,Southampton,76,76,72,76,31,England
+"Aug 18, 2022",13, [England] Premier League,1,Arsenal,81,81,83,80,31,England
+"Aug 18, 2022",53, [Spain] La Liga,243,Real Madrid,85,85,85,84,33,Spain
+"Aug 18, 2022",13, [England] Premier League,144,Fulham,76,77,76,74,32,England
+"Aug 18, 2022",68, [Turkey] Super Lig,101028,Hatayspor,69,75,69,68,29,Turkey
+"Aug 18, 2022",16, [France] Ligue 1,73,Paris Saint Germain,84,91,83,83,25,France
+"Aug 18, 2022",19, [Germany] Bundesliga,1824,Eintracht Frankfurt,78,78,78,77,33,Germany
+"Aug 18, 2022",19, [Germany] Bundesliga,10029,TSG Hoffenheim,77,77,77,76,33,Germany
+"Aug 18, 2022",16, [France] Ligue 1,66,Olympique Lyonnais,77,75,76,77,27,France
+"Aug 18, 2022",80, [Austria] Bundesliga,191,Salzburg,72,74,72,72,28,Austria
+"Aug 18, 2022",13, [England] Premier League,110,Wolverhampton Wanderers,78,78,80,74,33,England
+"Aug 18, 2022",50, [Scotland] Premiership,78,Celtic,74,74,75,73,28,Scotland
+"Aug 18, 2022",68, [Turkey] Super Lig,326,Fenerbahçe,76,77,76,74,27,Turkey
+"Aug 18, 2022",14, [England] Championship,106,Sunderland,68,71,68,67,30,England
+"Aug 18, 2022",16, [France] Ligue 1,72,Nice,76,77,75,76,24,France
+"Aug 18, 2022",16, [France] Ligue 1,69,Monaco,77,81,77,77,26,Monaco
+"Aug 18, 2022",31, [Italy] Serie A,52,Roma,80,82,77,81,30,Italy
+"Aug 18, 2022",19, [Germany] Bundesliga,36,VfB Stuttgart,74,74,74,76,33,Germany
+"Aug 18, 2022",19, [Germany] Bundesliga,175,VfL Wolfsburg,76,76,76,76,27,Germany
+"Aug 18, 2022",53, [Spain] La Liga,481,Sevilla,81,79,82,79,28,Spain
+"Aug 18, 2022",16, [France] Ligue 1,379,Reims,72,71,72,71,24,France
+"Aug 18, 2022",68, [Turkey] Super Lig,325,Galatasaray,76,79,76,74,27,Turkey
+"Aug 18, 2022",16, [France] Ligue 1,74,Rennes,77,77,77,76,28,France
+"Aug 18, 2022",2076, [Germany] 3. Liga,110676,Borussia Dortmund II,63,64,63,63,23,Germany
+"Aug 18, 2022",32, [Italy] Serie B,110556,Genoa,72,73,71,72,28,Italy
+"Aug 18, 2022",62, [England] National League,1947,Wrexham,63,65,63,62,28,Wales
+"Aug 18, 2022",17, [France] Ligue 2,1819,Saint-Étienne,71,73,69,70,30,France
+"Aug 18, 2022",60, [England] League One,1798,Milton Keynes Dons,64,64,64,64,27,England
+"Aug 18, 2022",78, [World] Friendly International,1318,England,84,85,83,83,23,England
+"Aug 18, 2022",1, [Denmark] Superliga,819,København,72,71,74,70,28,Denmark
+"Aug 18, 2022",31, [Italy] Serie A,110373,Salernitana,74,76,73,72,29,Italy
+"Aug 18, 2022",10, [Netherlands] Eredivisie,1906,AZ,74,75,75,71,30,Netherlands
+"Aug 18, 2022",53, [Spain] La Liga,1860,Getafe,77,76,78,76,29,Spain
+"Aug 18, 2022",14, [England] Championship,1806,Stoke City,69,69,69,69,30,England
+"Aug 18, 2022",14, [England] Championship,1801,Preston North End,70,66,70,69,30,England
+"Aug 18, 2022",78, [World] Friendly International,1362,Spain,83,82,83,83,23,Spain
+"Aug 18, 2022",53, [Spain] La Liga,448,Athletic Club,79,80,78,79,29,Spain
+"Aug 18, 2022",14, [England] Championship,109,West Bromwich Albion,72,73,72,71,30,England
+"Aug 18, 2022",31, [Italy] Serie A,54,Torino,74,76,74,73,31,Italy
+"Aug 18, 2022",332, [Ukraine] Premier League,101047,Dynamo Kyiv,72,70,73,71,28,Ukraine
+"Aug 18, 2022",54, [Spain] La Liga 2,100888,Leganés,68,67,68,69,27,Spain
+"Aug 18, 2022",14, [England] Championship,1952,Hull City,70,71,70,68,30,England
+"Aug 18, 2022",14, [England] Championship,1919,Bristol City,69,67,70,69,28,England
+"Aug 18, 2022",63, [Greece] Super League,1884,Panathinaikos,73,72,73,72,28,Greece
+"Aug 18, 2022",53, [Spain] La Liga,1861,Almería,74,73,74,73,29,Spain
+"Aug 18, 2022",61, [England] League Two,1804,Bradford City,63,62,63,62,28,England
+"Aug 18, 2022",78, [World] Friendly International,1386,Mexico,77,79,77,76,23,Mexico
+"Aug 18, 2022",78, [World] Friendly International,1370,Brazil,80,81,80,80,23,Brazil
+"Aug 18, 2022",78, [World] Friendly International,1354,Portugal,83,85,82,84,23,Portugal
+"Aug 18, 2022",39, [United States] Major League Soccer,695,Dallas,68,75,69,65,25,United States
+"Aug 18, 2022",16, [France] Ligue 1,614,Ajaccio,70,70,71,70,29,France
+"Aug 18, 2022",350, [Saudi Arabia] Pro League,605,Al Hilal,73,75,74,70,30,Saudi Arabia
+"Aug 18, 2022",53, [Spain] La Liga,480,Rayo Vallecano,76,79,75,76,29,Spain
+"Aug 18, 2022",54, [Spain] La Liga 2,110832,Granada,73,75,73,71,30,Spain
+"Aug 18, 2022",31, [Italy] Serie A,110741,Spezia,73,74,72,72,28,Italy
+"Aug 18, 2022",61, [England] League Two,113926,Salford City,63,63,63,63,28,England
+"Aug 18, 2022",2149, [India] Indian Super League,113300,Mumbai City,62,63,65,60,28,India
+"Aug 18, 2022",39, [United States] Major League Soccer,112996,Los Angeles FC,72,73,73,72,27,United States
+"Aug 18, 2022",308, [Portugal] Liga Portugal,112809,Famalicão,70,69,70,69,28,Portugal
+"Aug 18, 2022",353, [Argentina] Liga Profesional,112713,Sarmiento,68,69,68,68,28,Argentina
+"Aug 18, 2022",350, [Saudi Arabia] Pro League,112392,Al Raed,67,70,65,65,28,Saudi Arabia
+"Aug 18, 2022",351, [Australia] A-League,112224,Melbourne City,67,75,68,65,23,Australia
+"Aug 18, 2022",353, [Argentina] Liga Profesional,111711,Huracán,70,71,70,69,28,Argentina
+"Aug 18, 2022",39, [United States] Major League Soccer,111651,Toronto,70,74,70,68,29,Canada
+"Aug 18, 2022",66, [Poland] Ekstraklasa,114326,Raków Częstochowa,68,69,68,68,26,Poland
+"Aug 18, 2022",54, [Spain] La Liga 2,113981,UD Ibiza,68,69,67,68,26,Spain
+"Aug 18, 2022",39, [United States] Major League Soccer,112893,Inter Miami,70,71,70,69,30,United States
+"Aug 18, 2022",39, [United States] Major League Soccer,112606,Orlando City,69,72,70,67,26,United States
+"Aug 18, 2022",353, [Argentina] Liga Profesional,113044,Barracas Central,67,65,69,65,28,Argentina
+"Aug 18, 2022",39, [United States] Major League Soccer,114161,Austin,69,69,72,67,28,United States
+"Aug 18, 2022",351, [Australia] A-League,111400,Sydney,66,69,65,66,24,Australia
+"Aug 18, 2022",351, [Australia] A-League,111397,Melbourne Victory,67,68,68,65,28,Australia
+"Aug 18, 2022",2020, [Peru] Primera Division,111334,Melgar,68,71,67,67,19,Peru
+"Aug 18, 2022",39, [United States] Major League Soccer,111139,Montreal Impact,68,69,68,69,27,Canada
+"Aug 18, 2022",32, [Italy] Serie B,111657,Frosinone,69,69,69,68,28,Italy
+"Aug 18, 2022",78, [World] Friendly International,111462,Ghana,76,81,76,75,23,Ghana
+"Aug 18, 2022",68, [Turkey] Super Lig,111117,Fatih Karagümrük,70,71,71,65,26,Turkey
+"Aug 18, 2022",347, [South Africa] Premier League,110929,Kaizer Chiefs,68,69,65,67,28,South Africa
+"Aug 18, 2022",54, [Spain] La Liga 2,110831,Lugo,67,68,66,67,30,Spain
+"Aug 18, 2022",54, [Spain] La Liga 2,110827,Real Oviedo,70,72,69,69,30,Spain
+"Aug 18, 2022",68, [Turkey] Super Lig,110776,Gaziantep F.K.,69,68,70,68,25,Turkey
+"Aug 18, 2022",308, [Portugal] Liga Portugal,114510,Casa Pia,70,71,69,70,26,Portugal
+"Aug 18, 2022",349, [Japan] J-League,113161,Shonan Bellmare,65,66,65,63,30,Japan
+"Aug 18, 2022",31, [Italy] Serie A,111434,Cremonese,71,71,71,72,26,Italy
+Update_Date_Team,Competition_ID,Competiton,Team_ID,Team,Overall_Comp,Attack_Comp,Milieu_Comp,Defense_Comp,NbJoueurs_Team,pays
+"Aug 18, 2022",13, [England] Premier League,9,Liverpool,84,84,82,84,33,England
+"Aug 18, 2022",13, [England] Premier League,13,Newcastle United,79,79,78,79,30,England
+"Aug 18, 2022",19, [Germany] Bundesliga,21,FC Bayern München,85,83,85,84,29,Germany
+"Aug 18, 2022",13, [England] Premier League,17,Southampton,76,76,72,76,31,England
+"Aug 18, 2022",31, [Italy] Serie A,47,Milan,81,80,81,81,30,Italy
+"Aug 18, 2022",13, [England] Premier League,14,Nottingham Forest,77,75,76,77,33,England
+"Aug 18, 2022",53, [Spain] La Liga,241,FC Barcelona,83,83,85,82,31,Spain
+"Aug 18, 2022",13, [England] Premier League,11,Manchester United,82,82,83,81,33,England
+"Aug 18, 2022",13, [England] Premier League,1,Arsenal,81,81,83,80,31,England
+"Aug 18, 2022",13, [England] Premier League,5,Chelsea,83,83,79,83,33,England
+"Aug 18, 2022",16, [France] Ligue 1,73,Paris Saint Germain,84,91,83,83,25,France
+"Aug 18, 2022",13, [England] Premier League,18,Tottenham Hotspur,82,84,83,80,28,England
+"Aug 18, 2022",19, [Germany] Bundesliga,22,Borussia Dortmund,81,82,80,81,32,Germany
+"Aug 18, 2022",31, [Italy] Serie A,48,Napoli,80,80,81,80,26,Italy
+"Aug 18, 2022",13, [England] Premier League,10,Manchester City,85,85,87,84,26,England
+"Aug 18, 2022",68, [Turkey] Super Lig,101028,Hatayspor,69,75,69,68,29,Turkey
+"Aug 18, 2022",53, [Spain] La Liga,483,Villarreal,80,82,80,79,22,Spain
+"Aug 18, 2022",31, [Italy] Serie A,1746,Empoli,74,74,73,72,28,Italy
+"Aug 18, 2022",53, [Spain] La Liga,453,Mallorca,75,75,75,75,32,Spain
+"Aug 18, 2022",53, [Spain] La Liga,461,Valencia,76,78,75,77,33,Spain
+"Aug 18, 2022",68, [Turkey] Super Lig,325,Galatasaray,76,79,76,74,27,Turkey
+"Aug 18, 2022",50, [Scotland] Premiership,78,Celtic,74,74,75,73,28,Scotland
+"Aug 18, 2022",14, [England] Championship,1794,Sheffield United,72,71,73,72,30,England
+"Aug 18, 2022",308, [Portugal] Liga Portugal,236,Porto,78,80,78,76,30,Portugal
+"Aug 18, 2022",31, [Italy] Serie A,39,Atalanta,79,78,79,77,24,Italy
+"Aug 18, 2022",19, [Germany] Bundesliga,36,VfB Stuttgart,74,74,74,76,33,Germany
+"Aug 18, 2022",60, [England] League One,1790,Portsmouth,66,65,65,65,28,England
+"Aug 18, 2022",53, [Spain] La Liga,481,Sevilla,81,79,82,79,28,Spain
+"Aug 18, 2022",53, [Spain] La Liga,449,Real Betis,79,80,81,76,33,Spain
+"Aug 18, 2022",13, [England] Premier League,1799,Crystal Palace,76,77,76,76,30,England
+"Aug 18, 2022",14, [England] Championship,12,Middlesbrough,72,68,70,72,30,England
+"Aug 18, 2022",10, [Netherlands] Eredivisie,245,Ajax,77,79,78,76,27,Netherlands
+"Aug 18, 2022",31, [Italy] Serie A,110373,Salernitana,74,76,73,72,29,Italy
+"Aug 18, 2022",60, [England] League One,1933,Wycombe Wanderers,66,66,65,66,26,England
+"Aug 18, 2022",14, [England] Championship,1919,Bristol City,69,67,70,69,28,England
+"Aug 18, 2022",14, [England] Championship,1917,Wigan Athletic,69,66,69,69,30,England
+"Aug 18, 2022",10, [Netherlands] Eredivisie,1915,FC Groningen,67,69,67,63,30,Netherlands
+"Aug 18, 2022",60, [England] League One,1807,Sheffield Wednesday,67,67,68,67,24,England
+"Aug 18, 2022",39, [United States] Major League Soccer,112996,Los Angeles FC,72,73,73,72,27,United States
+"Aug 18, 2022",31, [Italy] Serie A,111974,Sassuolo,75,77,75,73,29,Italy
+"Aug 18, 2022",78, [World] Friendly International,105035,Netherlands,82,83,82,82,23,Netherlands
+"Aug 18, 2022",308, [Portugal] Liga Portugal,10020,Estoril,70,70,70,70,28,Portugal
+"Aug 18, 2022",60, [England] League One,1929,Plymouth Argyle,66,66,65,67,28,England
+"Aug 18, 2022",308, [Portugal] Liga Portugal,1896,Sporting Braga,76,75,77,74,29,Portugal
+"Aug 18, 2022",308, [Portugal] Liga Portugal,1887,Vitória SC,70,70,70,68,30,Portugal
+"Aug 18, 2022",353, [Argentina] Liga Profesional,1876,River Plate,76,76,76,75,28,Argentina
+"Aug 18, 2022",53, [Spain] La Liga,1861,Almería,74,73,74,73,29,Spain
+"Aug 18, 2022",31, [Italy] Serie A,110741,Spezia,73,74,72,72,28,Italy
+"Aug 18, 2022",32, [Italy] Serie B,110556,Genoa,72,73,71,72,28,Italy
+"Aug 18, 2022",353, [Argentina] Liga Profesional,110093,Independiente,70,70,70,70,28,Argentina
+"Aug 18, 2022",332, [Ukraine] Premier League,101059,Shakhtar Donetsk,70,69,70,70,24,Ukraine
+"Aug 18, 2022",32, [Italy] Serie B,1843,Palermo,69,69,68,68,28,Italy
+"Aug 18, 2022",60, [England] League One,1962,Bristol Rovers,64,64,64,62,28,England
+"Aug 18, 2022",14, [England] Championship,1960,Swansea City,69,69,70,68,30,Wales
+"Aug 18, 2022",10, [Netherlands] Eredivisie,100646,Sparta Rotterdam,67,66,68,66,29,Netherlands
+"Aug 18, 2022",60, [England] League One,1928,Port Vale,63,63,64,63,25,England
+"Aug 18, 2022",10, [Netherlands] Eredivisie,1909,Vitesse,69,68,69,70,29,Netherlands
+"Aug 18, 2022",308, [Portugal] Liga Portugal,1892,Paços de Ferreira,69,68,69,70,30,Portugal
+"Aug 18, 2022",63, [Greece] Super League,1884,Panathinaikos,73,72,73,72,28,Greece
+"Aug 18, 2022",61, [England] League Two,110799,Sutton United,61,61,62,62,27,England
+"Aug 18, 2022",2076, [Germany] 3. Liga,110676,Borussia Dortmund II,63,64,63,63,23,Germany
+"Aug 18, 2022",20, [Germany] 2. Bundesliga,110329,St. Pauli,69,67,70,68,30,Germany
+"Aug 18, 2022",14, [England] Championship,1939,Huddersfield Town,69,67,67,69,30,England
+"Aug 18, 2022",54, [Spain] La Liga 2,113981,UD Ibiza,68,69,67,68,26,Spain
+"Aug 18, 2022",39, [United States] Major League Soccer,112885,Atlanta United,68,63,70,69,23,United States
+"Aug 18, 2022",39, [United States] Major League Soccer,111928,SJ Earthquakes,69,72,69,68,24,United States
+"Aug 18, 2022",350, [Saudi Arabia] Pro League,111674,Al Shabab,71,72,71,69,30,Saudi Arabia
+"Aug 18, 2022",353, [Argentina] Liga Profesional,101085,Racing Club,74,72,74,73,28,Argentina
+"Aug 18, 2022",332, [Ukraine] Premier League,101047,Dynamo Kyiv,72,70,73,71,28,Ukraine
+"Aug 18, 2022",353, [Argentina] Liga Profesional,101088,Vélez Sarsfield,72,74,70,72,28,Argentina
+"Aug 18, 2022",54, [Spain] La Liga 2,100888,Leganés,68,67,68,69,27,Spain
+"Aug 18, 2022",4, [Belgium] Jupiler Pro League,2014,Union Saint-Gilloise,71,68,71,71,26,Belgium
+"Aug 18, 2022",308, [Portugal] Liga Portugal,1898,Boavista,70,70,69,70,29,Portugal
+"Aug 18, 2022",10, [Netherlands] Eredivisie,1910,NEC,69,67,72,68,27,Netherlands
+"Aug 18, 2022",308, [Portugal] Liga Portugal,1888,Gil Vicente,70,75,70,69,26,Portugal
+"Aug 18, 2022",54, [Spain] La Liga 2,1853,Levante,73,72,75,72,26,Spain
+"Aug 18, 2022",61, [England] League Two,1804,Bradford City,63,62,63,62,28,England
+"Aug 18, 2022",1, [Denmark] Superliga,1788,Nordsjælland,67,65,69,67,26,Denmark
+"Aug 18, 2022",39, [United States] Major League Soccer,114161,Austin,69,69,72,67,28,United States
+"Aug 18, 2022",61, [England] League Two,113926,Salford City,63,63,63,63,28,England
+"Aug 18, 2022",31, [Italy] Serie A,111434,Cremonese,71,71,71,72,26,Italy
+"Aug 18, 2022",39, [United States] Major League Soccer,112893,Inter Miami,70,71,70,69,30,United States
+"Aug 18, 2022",39, [United States] Major League Soccer,112828,New York City,68,73,69,67,24,United States
+"Aug 18, 2022",350, [Saudi Arabia] Pro League,112392,Al Raed,67,70,65,65,28,Saudi Arabia
+"Aug 18, 2022",17, [France] Ligue 2,112552,Quevilly Rouen,65,66,65,65,27,France
+"Aug 18, 2022",78, [World] Friendly International,111455,Canada,73,74,75,71,23,Canada
+"Aug 18, 2022",2020, [Peru] Primera Division,111334,Melgar,68,71,67,67,19,Peru
+"Aug 18, 2022",2076, [Germany] 3. Liga,111239,Ingolstadt,66,66,66,66,28,Germany
+"Aug 18, 2022",39, [United States] Major League Soccer,111144,Seattle Sounders,70,72,71,69,27,United States
+"Aug 18, 2022",39, [United States] Major League Soccer,111139,Montreal Impact,68,69,68,69,27,Canada
+"Aug 18, 2022",308, [Portugal] Liga Portugal,114510,Casa Pia,70,71,69,70,26,Portugal
+"Aug 18, 2022",56, [Sweden] Allsvenskan,113892,Degerfors,62,62,63,62,23,Sweden
+"Aug 18, 2022",39, [United States] Major League Soccer,114162,Nashville SC,69,72,69,70,30,United States
+"Aug 18, 2022",32, [Italy] Serie B,112791,SPAL,68,66,69,65,27,Italy
+"Aug 18, 2022",56, [Sweden] Allsvenskan,113743,Varberg BoIS,62,59,61,62,28,Sweden
+"Aug 18, 2022",56, [Sweden] Allsvenskan,113458,Sirius,63,63,63,63,24,Sweden
+"Aug 18, 2022",353, [Argentina] Liga Profesional,111715,Tigre,71,72,71,69,26,Argentina
+"Aug 18, 2022",2149, [India] Indian Super League,113257,Odisha FC,58,60,58,58,28,India
+"Aug 18, 2022",2018, [Ecuador] Liga Pro,112908,Independiente del Valle,68,68,70,67,19,Ecuador
+"Aug 18, 2022",2019, [Venezuela] Primera Division,112853,Deportivo La Guaira,65,64,65,64,18,Venezuela
+"Aug 18, 2022",308, [Portugal] Liga Portugal,112809,Famalicão,70,69,70,69,28,Portugal
+"Aug 18, 2022",353, [Argentina] Liga Profesional,112689,Platense,68,68,68,68,26,Argentina
+"Aug 18, 2022",78, [World] Friendly International,111111,Morocco,77,77,74,78,23,Morocco
+"Aug 18, 2022",2012, [China PR] Super League,112540,Shanghai SIPG,68,66,63,66,28,China PR
+"Aug 18, 2022",308, [Portugal] Liga Portugal,112513,Arouca,69,69,69,69,27,Portugal
+"Aug 18, 2022",7, [Brazil] Serie A,112472,Bragantino,74,74,74,75,20,Brazil
+"Aug 18, 2022",337, [Paraguay] Primera División,116007,General Caballero JLM,63,58,63,62,19,Paraguay
+"Aug 18, 2022",330, [Romania] Liga 1,115716,U Craiova 1948,64,63,65,64,28,Romania
+"Aug 18, 2022",2019, [Venezuela] Primera Division,115694,Hermanos Colmenares,64,64,65,65,18,Venezuela
+"Aug 18, 2022",2017, [Bolivia] Liga De Futbol Prof,115517,Independiente Petrolero,65,66,65,65,18,Bolivia
+"Aug 18, 2022",351, [Australia] A-League,114604,Macarthur,64,61,65,63,27,Australia
+"Aug 18, 2022",50, [Scotland] Premiership,100805,St. Mirren,64,65,65,64,22,Scotland
+"Aug 18, 2022",80, [Austria] Bundesliga,15009,Rheindorf Altach,64,66,64,64,27,Austria
+"Aug 18, 2022",54, [Spain] La Liga 2,100851,FC Cartagena,70,68,71,69,30,Spain
+"Aug 18, 2022",189, [Switzerland] Super League,10032,Lugano,67,66,69,65,28,Switzerland
+"Aug 18, 2022",20, [Germany] 2. Bundesliga,10030,Paderborn,69,70,69,67,27,Germany
+"Aug 18, 2022",4, [Belgium] Jupiler Pro League,15005,Zulte-Waregem,68,70,69,67,28,Belgium
+"Aug 18, 2022",53, [Spain] La Liga,1968,Cádiz,75,75,74,75,33,Spain
+"Aug 18, 2022",61, [England] League Two,1955,Rochdale,61,60,62,60,26,England
+"Aug 18, 2022",60, [England] League One,1936,Cheltenham Town,64,63,62,63,24,England
+"Aug 18, 2022",61, [England] League Two,1934,Swindon Town,62,64,60,61,28,England
+"Aug 18, 2022",351, [Australia] A-League,114023,Western United,66,67,65,67,27,Australia
+"Aug 18, 2022",17, [France] Ligue 2,115494,Annecy,65,67,65,63,27,France
+"Aug 18, 2022",2018, [Ecuador] Liga Pro,114581,Universidad Católica,67,69,66,67,21,Ecuador
+"Aug 18, 2022",54, [Spain] La Liga 2,113356,Amorebieta,66,67,67,65,27,Spain
+"Aug 18, 2022",341, [Mexico] Liga MX,113134,Juárez,69,70,65,67,30,Mexico
+"Aug 18, 2022",353, [Argentina] Liga Profesional,112965,Central Cordoba SdE,69,71,67,69,28,Argentina
+"Aug 18, 2022",2019, [Venezuela] Primera Division,112914,Metropolitanos,65,64,66,65,20,Venezuela
+"Aug 18, 2022",337, [Paraguay] Primera División,112716,Cerro Porteño,68,71,69,65,24,Paraguay
+"Aug 18, 2022",353, [Argentina] Liga Profesional,112713,Sarmiento,68,69,68,68,28,Argentina
+"Aug 18, 2022",335, [Chile] Primera Division,112584,Everton,65,63,64,70,18,Chile
+"Aug 18, 2022",39, [United States] Major League Soccer,112606,Orlando City,69,72,70,67,26,United States
+"Aug 18, 2022",66, [Poland] Ekstraklasa,112511,Warta Poznań,64,64,63,66,24,Poland
+"Aug 18, 2022",330, [Romania] Liga 1,114147,Hermannstadt,65,64,64,65,24,Romania
+"Aug 18, 2022",66, [Poland] Ekstraklasa,110746,Pogoń Szczecin,68,67,67,68,27,Poland
+"Aug 18, 2022",68, [Turkey] Super Lig,113796,Ümraniyespor,68,70,66,67,26,Turkey
+"Aug 18, 2022",66, [Poland] Ekstraklasa,110745,Jagiellonia Białystok,66,68,67,64,28,Poland
+"Aug 18, 2022",353, [Argentina] Liga Profesional,112909,Crucero del Norte,61,58,57,60,30,Argentina
+"Aug 18, 2022",353, [Argentina] Liga Profesional,110581,Patronato,64,61,65,65,25,Argentina
+"Aug 18, 2022",353, [Argentina] Liga Profesional,110580,Rosario Central,68,67,67,69,28,Argentina
+"Aug 18, 2022",17, [France] Ligue 2,110569,Dijon,67,69,66,66,29,France
+"Aug 18, 2022",2076, [Germany] 3. Liga,110532,Waldhof Mannheim,66,65,66,66,28,Germany
+"Aug 18, 2022",336, [Colombia] Liga BetPlay,112526,Envigado,65,65,66,61,28,Colombia
+"Aug 18, 2022",2076, [Germany] 3. Liga,110482,Hallescher FC,64,65,63,64,28,Germany
+"Aug 18, 2022",319, [Czech Republic] Fortuna Liga,110468,Viktoria Plzeň,73,71,74,72,27,Czech Republic
+"Aug 18, 2022",80, [Austria] Bundesliga,1787,Austria Klagenfurt,65,68,65,66,26,Austria
+"Aug 18, 2022",54, [Spain] La Liga 2,110710,Real Madrid II,66,69,65,64,28,Spain
+"Aug 18, 2022",2076, [Germany] 3. Liga,110679,Bayern München II,63,65,64,61,28,Germany
+"Aug 18, 2022",20, [Germany] 2. Bundesliga,110596,FSV Frankfurt,67,67,67,65,28,Germany
+"Aug 18, 2022",2076, [Germany] 3. Liga,110591,Carl Zeiss Jena,63,64,62,64,28,Germany
+"Aug 18, 2022",7, [Brazil] Serie A,1629,Grêmio,73,72,72,74,20,Brazil
+"Aug 18, 2022",66, [Poland] Ekstraklasa,1569,Wisła Płock,65,65,65,63,28,Poland
+"Aug 18, 2022",61, [England] League Two,1480,Carlisle United,62,62,64,62,28,England
+"Aug 18, 2022",20, [Germany] 2. Bundesliga,110526,Koblenz,64,61,62,62,30,Germany
+"Aug 18, 2022",83, [Korea Republic] K League 1,1477,Jeonbuk Motors,69,72,67,70,28,Korea Republic
+"Aug 18, 2022",80, [Austria] Bundesliga,1785,Mattersburg,64,65,65,63,26,Austria
+"Aug 18, 2022",2076, [Germany] 3. Liga,115820,Viktoria Berlin,63,62,62,63,28,Germany
+"Aug 18, 2022",338, [Uruguay] Primera Division,115536,Cerro Largo,66,67,65,66,18,Uruguay
+"Aug 18, 2022",7, [Brazil] Serie A,115530,Cuiabá,70,69,70,71,20,Brazil
+"Aug 18, 2022",32, [Italy] Serie B,1744,Modena,68,69,67,67,27,Italy
+"Aug 18, 2022",189, [Switzerland] Super League,1715,Thun,64,65,65,64,27,Switzerland
+"Aug 18, 2022",1990, [World] World Cup,1667,Senegal,78,79,77,77,33,Sierra Leone
+"Aug 18, 2022",2018, [Ecuador] Liga Pro,115487,9 de Octubre,64,65,65,64,18,Ecuador
+"Aug 18, 2022",341, [Mexico] Liga MX,114899,Mazatlán,69,67,70,68,29,Mexico
+"Aug 18, 2022",337, [Paraguay] Primera División,114688,Guaireña,65,64,66,64,18,Paraguay
+"Aug 18, 2022",1, [Denmark] Superliga,1446,Horsens,64,66,63,64,28,Denmark
+"Aug 18, 2022",1, [Denmark] Superliga,1445,Esbjerg,66,67,67,65,25,Denmark
+"Aug 18, 2022",2012, [China PR] Super League,116361,Wuhan Three Towns,68,72,67,67,28,China PR
+"Aug 18, 2022",338, [Uruguay] Primera Division,115535,Rentistas,63,65,61,64,20,Uruguay
+"Aug 18, 2022",2018, [Ecuador] Liga Pro,114615,Mushuc Runa,64,64,64,64,18,Ecuador
+"Aug 18, 2022",2017, [Bolivia] Liga De Futbol Prof,114600,Guabirá,62,59,62,62,18,Bolivia
+"Aug 18, 2022",41, [Norway] Eliteserien,115489,Jerv,61,62,61,60,18,Norway
+"Aug 18, 2022",2017, [Bolivia] Liga De Futbol Prof,115358,Municipal Vinto,63,65,63,63,20,Bolivia
+"Aug 18, 2022",2018, [Ecuador] Liga Pro,114580,Delfin,65,65,65,64,18,Ecuador
+"Aug 18, 2022",2017, [Bolivia] Liga De Futbol Prof,114579,Royal Pari,64,63,65,63,18,Bolivia
+"Aug 18, 2022",2012, [China PR] Super League,114628,Meizhou Hakka,60,61,59,63,28,China PR
+"Aug 18, 2022",2017, [Bolivia] Liga De Futbol Prof,114577,Always Ready,65,67,66,65,18,Bolivia
+"Aug 18, 2022",2019, [Venezuela] Primera Division,114623,Llaneros de Guanare,60,59,59,60,20,Venezuela
+"Aug 18, 2022",2020, [Peru] Primera Division,114619,Carlos Manucci,64,64,64,63,20,Peru
+"Aug 18, 2022",2020, [Peru] Primera Division,114617,UTC Cajamarca,65,64,64,65,20,Peru
+"Aug 18, 2022",2020, [Peru] Primera Division,114512,Ayacucho,64,63,65,63,18,Peru
+"Aug 18, 2022",2019, [Venezuela] Primera Division,114611,Academia Puerto Cabello,61,63,62,61,20,Venezuela
+"Aug 18, 2022",2076, [Germany] 3. Liga,114398,Türkgücü-Ataspor,62,63,63,61,18,Germany
+"Aug 18, 2022",2020, [Peru] Primera Division,114598,Atlético Grau,62,63,61,61,20,Peru
+"Aug 18, 2022",2149, [India] Indian Super League,114168,Jamshedpur,58,61,57,57,25,India
+"Aug 18, 2022",2020, [Peru] Primera Division,114582,Deportivo Binacional,66,64,65,65,20,Peru
+"Aug 18, 2022",2018, [Ecuador] Liga Pro,114578,Macará,63,64,63,62,20,Ecuador
+"Aug 18, 2022",66, [Poland] Ekstraklasa,114004,Stal Mielec,64,63,64,64,27,Poland
+"Aug 18, 2022",337, [Paraguay] Primera División,114575,River Plate,64,63,65,64,20,Paraguay
+"Aug 18, 2022",2020, [Peru] Primera Division,114511,Sport Huancayo,64,64,64,63,20,Peru
+"Aug 18, 2022",41, [Norway] Eliteserien,113459,Kristiansund,62,63,62,62,22,Norway
+"Aug 18, 2022",330, [Romania] Liga 1,113391,Academica Clinceni,60,62,61,61,27,Romania
+"Aug 18, 2022",330, [Romania] Liga 1,113387,Chindia Târgovişte,64,65,64,63,28,Romania
+"Aug 18, 2022",350, [Saudi Arabia] Pro League,114143,Al-Ain,65,62,67,64,27,Saudi Arabia
+"Aug 18, 2022",338, [Uruguay] Primera Division,114024,Plaza Colonia,64,63,64,61,20,Uruguay
+"Aug 18, 2022",330, [Romania] Liga 1,113380,Mioveni,63,63,63,63,28,Romania
+"Aug 18, 2022",32, [Italy] Serie B,113958,Pordenone,68,68,67,69,25,Italy
+"Aug 18, 2022",17, [France] Ligue 2,113948,Béziers,65,62,64,65,28,France
+"Aug 18, 2022",330, [Romania] Liga 1,113378,Sepsi,66,65,66,65,24,Romania
+"Aug 18, 2022",56, [Sweden] Allsvenskan,113876,Dalkurd,60,60,59,59,18,Sweden
+"Aug 18, 2022",2018, [Ecuador] Liga Pro,113723,Guayaquil City,64,65,64,63,20,Ecuador
+"Aug 18, 2022",1, [Denmark] Superliga,113720,FC Helsingør,59,59,60,59,27,Denmark
+"Aug 18, 2022",67, [Russia] Premier League,113704,Tosno,68,67,67,68,27,Russia
+"Aug 18, 2022",2149, [India] Indian Super League,113302,Bengaluru,61,65,59,61,27,India
+"Aug 18, 2022",7, [Brazil] Serie A,113677,CSA,71,71,72,71,20,Brazil
+"Aug 18, 2022",2149, [India] Indian Super League,113301,Hyderabad,61,60,64,59,28,India
+"Aug 18, 2022",2149, [India] Indian Super League,113300,Mumbai City,62,63,65,60,28,India
+"Aug 18, 2022",2149, [India] Indian Super League,113299,Kerala Blasters,61,66,62,60,26,India
+"Aug 18, 2022",2149, [India] Indian Super League,113298,Goa,60,66,60,59,27,India
+"Aug 18, 2022",2149, [India] Indian Super League,113297,Chennaiyin,59,61,60,57,28,India
+"Aug 18, 2022",68, [Turkey] Super Lig,113259,Yeni Malatyaspor,66,72,65,66,23,Turkey
+"Aug 18, 2022",61, [England] League Two,142,Doncaster Rovers,62,62,62,61,28,England
+"Aug 18, 2022",350, [Saudi Arabia] Pro League,113345,Al Adalh,65,70,63,61,30,Saudi Arabia
+"Aug 18, 2022",1, [Denmark] Superliga,1443,Viborg,65,64,67,65,24,Denmark
+Update_Date_Team,Competition_ID,Competiton,Team_ID,Team,Overall_Comp,Attack_Comp,Milieu_Comp,Defense_Comp,NbJoueurs_Team,pays
+"Aug 18, 2022",13, [England] Premier League,5,Chelsea,83,83,79,83,33,England
+"Aug 18, 2022",13, [England] Premier League,9,Liverpool,84,84,82,84,33,England
+"Aug 18, 2022",13, [England] Premier League,13,Newcastle United,79,79,78,79,30,England
+"Aug 18, 2022",31, [Italy] Serie A,47,Milan,81,80,81,81,30,Italy
+"Aug 18, 2022",19, [Germany] Bundesliga,21,FC Bayern München,85,83,85,84,29,Germany
+"Aug 18, 2022",13, [England] Premier League,17,Southampton,76,76,72,76,31,England
+"Aug 18, 2022",13, [England] Premier League,14,Nottingham Forest,77,75,76,77,33,England
+"Aug 18, 2022",53, [Spain] La Liga,241,FC Barcelona,83,83,85,82,31,Spain

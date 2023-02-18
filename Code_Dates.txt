@@ -1,0 +1,51 @@
+Mi fevrier Mi septembre
+
+_Date
+
+
+1:h120001   30 Février 2011
+2:https://sofifa.com/players/?r=120002&set=true   22 Février 2012
+3:https://sofifa.com/players/?r=130001&set=true   31 Août 2012
+https://sofifa.com/players/?r=130002&set=true   15 Février 2013
+https://sofifa.com/players/?r=130033&set=true   13 Septembre 2013
+https://sofifa.com/players/?r=140023&set=true   14 Février 2014
+https://sofifa.com/players/?r=140051&set=true   12 Septembre 2014
+https://sofifa.com/players/?r=150027&set=true	13 Février 2015
+https://sofifa.com/players/?r=150059&set=true   10 Septembre 2015
+https://sofifa.com/players/?r=160025&set=true   13 Février 2016
+https://sofifa.com/players/?r=160057&set=true   14 Septembre 2016
+https://sofifa.com/players/?r=170037&set=true   14 Février 2017
+https://sofifa.com/players/?r=170097&set=true   13 Septembre 2017
+https://sofifa.com/players/?r=180043&set=true	15 Février 2018
+https://sofifa.com/players/?r=180084&set=true   12 Septembre 2018
+https://sofifa.com/players/?r=190038&set=true   14 Février 2019
+https://sofifa.com/players/?r=190075&set=true	11 Septembre 2019
+https://sofifa.com/players/?r=200026&set=true   13 Février 2020
+https://sofifa.com/players/?r=200060&set=true   17 Septembre 2020
+https://sofifa.com/players/?r=210027&set=true	18 Février 2021
+https://sofifa.com/players/?r=210062&set=true	17 Septembre 2021
+https://sofifa.com/players/?r=220033&set=true	14 Février 2022
+
+1:120001   30 Février 2011
+2:120002   22 Février 2012
+3:130001   31 Août 2012
+4:130002   15 Février 2013
+5:130033   13 Septembre 2013
+6:140023   14 Février 2014
+7:140051   12 Septembre 2014
+8:150027	13 Février 2015
+9:150059   10 Septembre 2015
+10:160025   13 Février 2016
+11:160057   14 Septembre 2016
+12:170037   14 Février 2017
+13:170097   13 Septembre 2017
+14:180043	15 Février 2018
+15:180084   12 Septembre 2018
+16:190038   14 Février 2019
+17:190075	11 Septembre 2019
+18:200026   13 Février 2020
+19:200060   17 Septembre 2020
+20:210027	18 Février 2021
+21:210062	17 Septembre 2021
+22:220033	
+

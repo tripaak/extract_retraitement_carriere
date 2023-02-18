@@ -1,0 +1,90 @@
+,A,FR,Type
+0,Calf/Shin Injury,Blessure au mollet,1
+1,Groin/Pelvis Injury,Blessure à l'aine/au bassin,1
+2,Knock,Coup,1
+3,Hamstring,Ischio-jambier,1
+4,Knee Injury,Blessure au genou,1
+5,Illness,Maladie,0
+6,Virus,Virus,0
+7,Thigh Muscle Strain,Entorse du muscle de la cuisse,1
+8,Back Injury,Blessure au dos,1
+9,Groin Strain,Entorse de l'aine,1
+10,Concussion,Commotion cérébrale,1
+11,MCL Knee Ligament Injury,Lésion du ligament latéral interne du genou,1
+12,Calf Muscle Strain,Entorse du mollet,1
+13,Rib Injury,Blessure à la côte,1
+14,Broken Hand,Main cassée,1
+15,Ankle/Foot Injury,Blessure à la cheville ou au pied,1
+16,Appendicitis,Appendicite,0
+17,Hip/Thigh Injury,Blessure à la hanche/cuisse,1
+18,Neck Injury,Blessure au cou,1
+19,LCL Knee Ligament Injury,Lésion du ligament latéral interne du genou,1
+20,Broken Arm,Bras cassé,1
+21,Renal Colic,Colique néphrétique,0
+22,Ankle Ligaments,Ligaments de la cheville,1
+23,Gluteal Strain,Entorse du fessier,1
+24,Pubalgia,Pubalgie,1
+25,Sprained Ankle,Entorse de la cheville,1
+26,Overtired,Fatigue,1
+27,Broken Leg,Jambe cassée,1
+28,Abdominal Strain,Entorse abdominale,1
+29,Toe Injury,Blessure à l'orteil,1
+30,Shoulder Injury,Blessure à l'épaule,1
+31,Broken Collarbone,Fracture de la clavicule,1
+32,Thumb / Wrist Injury,Blessure au pouce ou au poignet,1
+33,Nose Injury, Blessure au nez,1
+34,Fibula fracture,Fracture du péroné,1
+35,Arm/Elbow injury,Blessure au bras/coude,1
+36,Cartilage Knee Injury,Blessure au cartilage du genou,1
+37,Hip Labrum Tear,Déchirure du labrum de la hanche,1
+38,ACL Knee Ligament Injury,Lésion du ligament croisé antérieur du genou,1
+39,Broken Shinbone,Fracture du tibia,1
+40,Ankle Fracture,Fracture de la cheville,1
+41,Rib Fracture,Fracture de la côte,1
+42,Facial Injury,Blessure au visage,1
+43,Achilles tendonitis,Blessure du tendon d'Achille,1
+44,Metatarsal Fracture,Fracture du métatarse,1
+45,Eye Injury,Blessure à l'œil,1
+46,Head Injury,Traumatisme crânien,1
+47,Unknown,Inconnu,2
+48,Medical Condition,État pathologique,0
+49,Bowel Disease,Maladie intestinale,0
+50,Gashed Leg,Coupure à la jambe,1
+51,Inguinal Hernia,Hernie inguinale,1
+52,Foot Injury,Blessure au pied,1
+53,Dislocated Shoulder,Epaule luxée,1
+54,Sciatica,Sciatique,1
+55,Chest Injury,Blessure au thorax,1
+56,Broken Toe,Orteil cassé,1
+57,Achilles tendon rupture,Rupture du tendon d'Achille,1
+58,Broken Finger,Doigt cassé,1
+59,Heel Injury,Blessure au talon,1
+60,Wisdom Teeth,Dents de sagesse,0
+61,Viral Meningitis,Méningite virale,0
+62,Twisted Knee,Torsion du genou,1
+63,Jumpers Knee,Tendinite du tendon rotulien,1
+64,Kidney Injury,Blessure au rein,1
+65,Testicular Cancer,Cancer du testicule,0
+66,Hand Injury,Blessure à la main,1
+67,Chin Injury,Blessure au menton,1
+68,Broken Jaw,Mâchoire cassée,1
+69,Heart Condition,Problème cardiaque,0
+70,Thigh Muscle Rupture,Déchirure du muscle de la cuisse,1
+71,Tonsillitis,Amygdalite,0
+72,Broken Nose,Nez cassé,1
+73,Broken Wrist,Poignet cassé,1
+74,Plantaris Injury,Lésion des vertèbres plantaires,1
+75,Fractured Cheekbone,Fracture de la pommette,1
+76,Pneumothorax,Pneumothorax,0
+77,Ear Infection,Infection de l'oreille,0
+78,Spinal Disc Herniation,Hernie discale,1
+79,Chicken pox,Varicelle,0
+80,Pneumonia,Pneumonie,0
+81,PCL Knee Ligament Injury,Lésion du ligament du genou LCP,1
+82,Stress,Stress,0
+83,Patella Fracture,Fracture de la rotule,1
+84,Leukemia,Leucémie,0
+85,Vertebral Fracture,Fracture vertébrale,1
+86,Oesophagitis,Oesophagite,0
+87,Sprained Finger,Entorse du doigt,1
+88,Dead Leg,Béquille,1

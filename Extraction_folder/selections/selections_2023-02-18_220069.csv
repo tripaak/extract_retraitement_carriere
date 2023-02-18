@@ -1,0 +1,700 @@
+ID_Player,Name,birth_date,Saison,Team,Competition,Minutes_Jouées,Apparition,Titulaire,Remplacé_xfois,A Remplacé_xfois,Sur le banc,Saison_trait
+188545,Robert Lewandowski,"Aug 21, 1988",2022/2023, Poland,UEFA Nations League,429 ,5 ,5 ,0 ,1 ,0 ,2022/2023
+188545,Robert Lewandowski,"Aug 21, 1988",2022, Poland,WC Qualification Europe,715 ,9 ,9 ,0 ,3 ,0 ,2022/2023
+188545,Robert Lewandowski,"Aug 21, 1988",2020/2021, Poland,UEFA Nations League,276 ,4 ,4 ,0 ,3 ,0 ,2020/2021
+188545,Robert Lewandowski,"Aug 21, 1988",2020, Poland,European Championship,270 ,3 ,3 ,0 ,0 ,0 ,2020/2021
+188545,Robert Lewandowski,"Aug 21, 1988",2020, Poland,Euro Qualification,837 ,10 ,9 ,1 ,0 ,1 ,2020/2021
+188545,Robert Lewandowski,"Aug 21, 1988",2018/2019, Poland,UEFA Nations League,0 ,3 ,3 ,0 ,0 ,0 ,2018/2019
+188545,Robert Lewandowski,"Aug 21, 1988",2018, Poland,WC Qualification Europe,900 ,10 ,10 ,0 ,0 ,0 ,2018/2019
+188545,Robert Lewandowski,"Aug 21, 1988",2016, Poland,Euro Qualification,876 ,10 ,10 ,0 ,1 ,0 ,2016/2017
+188545,Robert Lewandowski,"Aug 21, 1988",2016, Poland,European Championship,450 ,5 ,5 ,0 ,0 ,0 ,2016/2017
+188545,Robert Lewandowski,"Aug 21, 1988",2014, Poland,Euro Qualification,0 ,10 ,9 ,1 ,0 ,0 ,2014/2015
+188545,Robert Lewandowski,"Aug 21, 1988",2012, Poland,European Championship,0 ,3 ,3 ,0 ,0 ,0 ,2012/2013
+188545,Robert Lewandowski,"Aug 21, 1988",2012, Poland,Euro Qualification,270 ,3 ,3 ,0 ,0 ,0 ,2012/2013
+188545,Robert Lewandowski,"Aug 21, 1988",2010, Poland,WC Qualification Europe,314 ,9 ,2 ,7 ,1 ,8 ,2010/2011
+188545,Robert Lewandowski,"Aug 21, 1988",2008, Poland,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+188545,Robert Lewandowski,"Aug 21, 1988",2008, Poland,Euro Qualification,0 ,3 ,2 ,1 ,0 ,7 ,2008/2009
+202126,Harry Kane,"Jul 28, 1993",2022/2023, England,UEFA Nations League,478 ,6 ,5 ,1 ,0 ,1 ,2022/2023
+202126,Harry Kane,"Jul 28, 1993",2022, England,WC Qualification Europe,591 ,8 ,7 ,1 ,4 ,3 ,2022/2023
+202126,Harry Kane,"Jul 28, 1993",2020/2021, England,UEFA Nations League,453 ,6 ,5 ,1 ,2 ,1 ,2020/2021
+202126,Harry Kane,"Jul 28, 1993",2020, England,European Championship,589 ,7 ,7 ,0 ,3 ,0 ,2020/2021
+202126,Harry Kane,"Jul 28, 1993",2020, England,Euro Qualification,667 ,8 ,8 ,0 ,3 ,0 ,2020/2021
+202126,Harry Kane,"Jul 28, 1993",2018/2019, England,UEFA Nations League,150 ,6 ,5 ,1 ,1 ,1 ,2018/2019
+202126,Harry Kane,"Jul 28, 1993",2018, England,WC Qualification Europe,540 ,7 ,6 ,1 ,0 ,1 ,2018/2019
+202126,Harry Kane,"Jul 28, 1993",2016, England,Euro Qualification,232 ,5 ,2 ,3 ,1 ,3 ,2016/2017
+202126,Harry Kane,"Jul 28, 1993",2016, England,European Championship,240 ,4 ,3 ,1 ,1 ,1 ,2016/2017
+202126,Harry Kane,"Jul 28, 1993",2012, England,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+208722,Sadio Mané,"Apr 10, 1992",2022, Senegal,WC Qualification Africa,568 ,7 ,7 ,0 ,1 ,0 ,2022/2023
+208722,Sadio Mané,"Apr 10, 1992",2018, Senegal,WC Qualification Africa,629 ,7 ,7 ,0 ,1 ,0 ,2018/2019
+208722,Sadio Mané,"Apr 10, 1992",2014, Senegal,WC Qualification Africa,0 ,8 ,7 ,1 ,2 ,1 ,2014/2015
+208722,Sadio Mané,"Apr 10, 1992",2012, Senegal U23,Olympic Games,0 ,5 ,4 ,1 ,0 ,0 ,2012/2013
+210257,Ederson Santana de Moraes,"Aug 17, 1993",2022, Brazil,WC Qualification South America,450 ,5 ,5 ,0 ,0 ,8 ,2022/2023
+210257,Ederson Santana de Moraes,"Aug 17, 1993",2021, Brazil,Copa America,360 ,4 ,4 ,0 ,0 ,3 ,2021/2022
+210257,Ederson Santana de Moraes,"Aug 17, 1993",2018, Brazil,WC Qualification South America,90 ,1 ,1 ,0 ,0 ,5 ,2018/2019
+212622,Joshua Kimmich,"Feb 8, 1995",2022/2023, Germany,UEFA Nations League,540 ,6 ,6 ,0 ,0 ,0 ,2022/2023
+212622,Joshua Kimmich,"Feb 8, 1995",2022, Germany,WC Qualification Europe,683 ,8 ,8 ,0 ,2 ,0 ,2022/2023
+212622,Joshua Kimmich,"Feb 8, 1995",2020/2021, Germany,UEFA Nations League,180 ,2 ,2 ,0 ,0 ,0 ,2020/2021
+212622,Joshua Kimmich,"Feb 8, 1995",2020, Germany,European Championship,360 ,4 ,4 ,0 ,0 ,0 ,2020/2021
+212622,Joshua Kimmich,"Feb 8, 1995",2020, Germany,Euro Qualification,720 ,8 ,8 ,0 ,0 ,0 ,2020/2021
+212622,Joshua Kimmich,"Feb 8, 1995",2018/2019, Germany,UEFA Nations League,0 ,4 ,4 ,0 ,0 ,0 ,2018/2019
+212622,Joshua Kimmich,"Feb 8, 1995",2018, Germany,WC Qualification Europe,900 ,10 ,10 ,0 ,0 ,0 ,2018/2019
+212622,Joshua Kimmich,"Feb 8, 1995",2017, Germany U21,Euro U21,442 ,5 ,5 ,0 ,1 ,0 ,2017/2018
+212622,Joshua Kimmich,"Feb 8, 1995",2017, Germany,Confederations Cup,90 ,5 ,5 ,0 ,0 ,0 ,2017/2018
+212622,Joshua Kimmich,"Feb 8, 1995",2016, Germany,Euro Qualification,390 ,4 ,4 ,0 ,0 ,2 ,2016/2017
+212622,Joshua Kimmich,"Feb 8, 1995",2016, Germany,European Championship,360 ,4 ,4 ,0 ,0 ,2 ,2016/2017
+212622,Joshua Kimmich,"Feb 8, 1995",2012, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+212622,Joshua Kimmich,"Feb 8, 1995",2008, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+167495,Manuel Neuer,"Mar 27, 1986",2022/2023, Germany,UEFA Nations League,360 ,4 ,4 ,0 ,0 ,0 ,2022/2023
+167495,Manuel Neuer,"Mar 27, 1986",2022, Germany,WC Qualification Europe,540 ,6 ,6 ,0 ,0 ,0 ,2022/2023
+167495,Manuel Neuer,"Mar 27, 1986",2020/2021, Germany,UEFA Nations League,360 ,4 ,4 ,0 ,0 ,0 ,2020/2021
+167495,Manuel Neuer,"Mar 27, 1986",2020, Germany,European Championship,360 ,4 ,4 ,0 ,0 ,0 ,2020/2021
+167495,Manuel Neuer,"Mar 27, 1986",2020, Germany,Euro Qualification,630 ,7 ,7 ,0 ,0 ,1 ,2020/2021
+167495,Manuel Neuer,"Mar 27, 1986",2018/2019, Germany,UEFA Nations League,0 ,4 ,4 ,0 ,0 ,0 ,2018/2019
+167495,Manuel Neuer,"Mar 27, 1986",2018, Germany,WC Qualification Europe,270 ,3 ,3 ,0 ,0 ,0 ,2018/2019
+167495,Manuel Neuer,"Mar 27, 1986",2016, Germany,Euro Qualification,810 ,9 ,9 ,0 ,0 ,0 ,2016/2017
+167495,Manuel Neuer,"Mar 27, 1986",2016, Germany,European Championship,540 ,6 ,6 ,0 ,0 ,0 ,2016/2017
+167495,Manuel Neuer,"Mar 27, 1986",2014, Germany,Euro Qualification,0 ,10 ,10 ,0 ,0 ,0 ,2014/2015
+167495,Manuel Neuer,"Mar 27, 1986",2012, Germany,European Championship,0 ,5 ,5 ,0 ,0 ,0 ,2012/2013
+167495,Manuel Neuer,"Mar 27, 1986",2012, Germany,Euro Qualification,0 ,10 ,10 ,0 ,0 ,0 ,2012/2013
+167495,Manuel Neuer,"Mar 27, 1986",2008, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+212831,Alisson Ramses Becker,"Oct 2, 1992",2022, Brazil,WC Qualification South America,720 ,8 ,8 ,0 ,0 ,5 ,2022/2023
+212831,Alisson Ramses Becker,"Oct 2, 1992",2021, Brazil,Copa America,180 ,2 ,2 ,0 ,0 ,5 ,2021/2022
+212831,Alisson Ramses Becker,"Oct 2, 1992",2019, Brazil,Copa America,540 ,6 ,6 ,0 ,0 ,0 ,2019/2020
+212831,Alisson Ramses Becker,"Oct 2, 1992",2018, Brazil,WC Qualification South America,1080 ,16 ,16 ,0 ,0 ,2 ,2018/2019
+212831,Alisson Ramses Becker,"Oct 2, 1992",2016, Brazil,Copa America,270 ,3 ,3 ,0 ,0 ,0 ,2016/2017
+190871,Neymar da Silva Santos Jr.,"Feb 5, 1992",2022, Brazil,WC Qualification South America,900 ,10 ,10 ,0 ,0 ,0 ,2022/2023
+190871,Neymar da Silva Santos Jr.,"Feb 5, 1992",2021, Brazil,Copa America,540 ,6 ,6 ,0 ,0 ,1 ,2021/2022
+190871,Neymar da Silva Santos Jr.,"Feb 5, 1992",2018, Brazil,WC Qualification South America,874 ,14 ,14 ,0 ,2 ,0 ,2018/2019
+190871,Neymar da Silva Santos Jr.,"Feb 5, 1992",2016, Brazil U23,Olympic Games,540 ,6 ,6 ,0 ,0 ,0 ,2016/2017
+190871,Neymar da Silva Santos Jr.,"Feb 5, 1992",2015, Brazil,Copa America,180 ,2 ,2 ,0 ,0 ,0 ,2015/2016
+190871,Neymar da Silva Santos Jr.,"Feb 5, 1992",2012, Brazil U23,Olympic Games,0 ,7 ,6 ,1 ,0 ,0 ,2012/2013
+190871,Neymar da Silva Santos Jr.,"Feb 5, 1992",2011, Brazil,Copa America,332 ,4 ,4 ,0 ,3 ,0 ,2011/2012
+215914,N'Golo Kanté,"Mar 29, 1991",2022/2023, France,UEFA Nations League,90 ,1 ,1 ,0 ,0 ,0 ,2022/2023
+215914,N'Golo Kanté,"Mar 29, 1991",2022, France,WC Qualification Europe,161 ,2 ,2 ,0 ,1 ,2 ,2022/2023
+215914,N'Golo Kanté,"Mar 29, 1991",2020/2021, France,UEFA Nations League,333 ,4 ,4 ,0 ,1 ,0 ,2020/2021
+215914,N'Golo Kanté,"Mar 29, 1991",2020, France,European Championship,360 ,4 ,4 ,0 ,0 ,0 ,2020/2021
+215914,N'Golo Kanté,"Mar 29, 1991",2020, France,Euro Qualification,260 ,3 ,3 ,0 ,1 ,2 ,2020/2021
+215914,N'Golo Kanté,"Mar 29, 1991",2018/2019, France,UEFA Nations League,0 ,4 ,4 ,0 ,1 ,0 ,2018/2019
+215914,N'Golo Kanté,"Mar 29, 1991",2018, France,WC Qualification Europe,394 ,5 ,5 ,0 ,3 ,4 ,2018/2019
+215914,N'Golo Kanté,"Mar 29, 1991",2016, France,Euro Qualification,245 ,4 ,3 ,1 ,1 ,3 ,2016/2017
+215914,N'Golo Kanté,"Mar 29, 1991",2016, France,European Championship,245 ,4 ,3 ,1 ,1 ,3 ,2016/2017
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2022/2023, Portugal,UEFA Nations League,391 ,5 ,4 ,1 ,0 ,1 ,2022/2023
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2022, Portugal,WC Qualification Europe,0 ,0 ,0 ,0 ,0 ,0 ,2022/2023
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2020/2021, Portugal,UEFA Nations League,351 ,4 ,4 ,0 ,1 ,0 ,2020/2021
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2020, Portugal,European Championship,360 ,4 ,4 ,0 ,0 ,0 ,2020/2021
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2020, Portugal,Euro Qualification,642 ,8 ,8 ,0 ,3 ,0 ,2020/2021
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2018/2019, Portugal,UEFA Nations League,180 ,2 ,2 ,0 ,0 ,0 ,2018/2019
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2018, Portugal,WC Qualification Europe,764 ,9 ,8 ,1 ,0 ,1 ,2018/2019
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2017, Portugal,Confederations Cup,0 ,3 ,3 ,0 ,1 ,2 ,2017/2018
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2016, Portugal,Euro Qualification,540 ,6 ,6 ,0 ,0 ,0 ,2016/2017
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2016, Portugal,European Championship,565 ,7 ,7 ,0 ,1 ,0 ,2016/2017
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2014, Portugal,WC Qualification Europe,180 ,10 ,9 ,1 ,0 ,0 ,2014/2015
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2012, Portugal,European Championship,0 ,5 ,5 ,0 ,0 ,0 ,2012/2013
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2012, Portugal,Euro Qualification,0 ,8 ,8 ,0 ,0 ,0 ,2012/2013
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2010, Portugal,WC Qualification Europe,567 ,7 ,7 ,0 ,1 ,0 ,2010/2011
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2008, Portugal,European Championship,0 ,3 ,3 ,0 ,0 ,0 ,2008/2009
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2008, Portugal,Euro Qualification,1107 ,13 ,13 ,0 ,3 ,0 ,2008/2009
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2006, Portugal,WC Qualification Europe,945 ,12 ,12 ,0 ,8 ,0 ,2006/2007
+20801,C. Ronaldo dos Santos Aveiro,"Feb 5, 1985",2004, Portugal,European Championship,388 ,6 ,4 ,2 ,2 ,2 ,2004/2005
+203376,Virgil van Dijk,"Jul 8, 1991",2022/2023, Netherlands,UEFA Nations League,360 ,4 ,4 ,0 ,0 ,0 ,2022/2023
+203376,Virgil van Dijk,"Jul 8, 1991",2022, Netherlands,WC Qualification Europe,540 ,6 ,6 ,0 ,0 ,1 ,2022/2023
+203376,Virgil van Dijk,"Jul 8, 1991",2020, Netherlands,Euro Qualification,630 ,7 ,7 ,0 ,0 ,0 ,2020/2021
+203376,Virgil van Dijk,"Jul 8, 1991",2018/2019, Netherlands,UEFA Nations League,180 ,6 ,6 ,0 ,0 ,0 ,2018/2019
+203376,Virgil van Dijk,"Jul 8, 1991",2018, Netherlands,WC Qualification Europe,540 ,6 ,6 ,0 ,0 ,0 ,2018/2019
+203376,Virgil van Dijk,"Jul 8, 1991",2013, Netherlands U21,Euro U21,90 ,1 ,1 ,0 ,0 ,3 ,2013/2014
+203376,Virgil van Dijk,"Jul 8, 1991",2012, Netherlands,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+203376,Virgil van Dijk,"Jul 8, 1991",2008, Netherlands,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+192985,Kevin De Bruyne,"Jun 28, 1991",2022/2023, Belgium,UEFA Nations League,417 ,5 ,5 ,0 ,3 ,0 ,2022/2023
+192985,Kevin De Bruyne,"Jun 28, 1991",2022, Belgium,WC Qualification Europe,353 ,4 ,4 ,0 ,1 ,1 ,2022/2023
+192985,Kevin De Bruyne,"Jun 28, 1991",2020/2021, Belgium,UEFA Nations League,458 ,6 ,5 ,1 ,2 ,1 ,2020/2021
+192985,Kevin De Bruyne,"Jun 28, 1991",2020, Belgium,European Championship,277 ,4 ,3 ,1 ,2 ,1 ,2020/2021
+192985,Kevin De Bruyne,"Jun 28, 1991",2020, Belgium,Euro Qualification,482 ,6 ,6 ,0 ,3 ,0 ,2020/2021
+192985,Kevin De Bruyne,"Jun 28, 1991",2018, Belgium,WC Qualification Europe,548 ,7 ,6 ,1 ,1 ,1 ,2018/2019
+192985,Kevin De Bruyne,"Jun 28, 1991",2016, Belgium,Euro Qualification,899 ,10 ,10 ,0 ,1 ,0 ,2016/2017
+192985,Kevin De Bruyne,"Jun 28, 1991",2016, Belgium,European Championship,450 ,5 ,5 ,0 ,0 ,0 ,2016/2017
+192985,Kevin De Bruyne,"Jun 28, 1991",2014, Belgium,Euro Qualification,0 ,11 ,8 ,3 ,2 ,2 ,2014/2015
+209331,Mohamed Salah,"Jun 15, 1992",2022, Egypt,WC Qualification Africa,571 ,7 ,6 ,1 ,0 ,1 ,2022/2023
+209331,Mohamed Salah,"Jun 15, 1992",2018, Egypt,WC Qualification Africa,450 ,5 ,5 ,0 ,0 ,0 ,2018/2019
+209331,Mohamed Salah,"Jun 15, 1992",2014, Egypt,WC Qualification Africa,0 ,8 ,8 ,0 ,0 ,0 ,2014/2015
+209331,Mohamed Salah,"Jun 15, 1992",2012, Egypt U23,Olympic Games,0 ,4 ,3 ,1 ,1 ,1 ,2012/2013
+231747,Kylian Mbappé,"Dec 20, 1998",2022/2023, France,UEFA Nations League,343 ,5 ,4 ,1 ,2 ,2 ,2022/2023
+231747,Kylian Mbappé,"Dec 20, 1998",2022, France,WC Qualification Europe,470 ,6 ,5 ,1 ,3 ,1 ,2022/2023
+231747,Kylian Mbappé,"Dec 20, 1998",2020/2021, France,UEFA Nations League,468 ,6 ,5 ,1 ,2 ,1 ,2020/2021
+231747,Kylian Mbappé,"Dec 20, 1998",2020, France,European Championship,360 ,4 ,4 ,0 ,0 ,0 ,2020/2021
+231747,Kylian Mbappé,"Dec 20, 1998",2020, France,Euro Qualification,450 ,5 ,5 ,0 ,0 ,1 ,2020/2021
+231747,Kylian Mbappé,"Dec 20, 1998",2018/2019, France,UEFA Nations League,0 ,4 ,4 ,0 ,1 ,0 ,2018/2019
+231747,Kylian Mbappé,"Dec 20, 1998",2018, France,WC Qualification Europe,202 ,5 ,2 ,3 ,3 ,4 ,2018/2019
+231747,Kylian Mbappé,"Dec 20, 1998",2016, France,Euro Qualification,155 ,2 ,2 ,0 ,1 ,1 ,2016/2017
+231747,Kylian Mbappé,"Dec 20, 1998",2016, France,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+231747,Kylian Mbappé,"Dec 20, 1998",2012, France,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+231747,Kylian Mbappé,"Dec 20, 1998",2008, France,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+158023,Lionel Messi,"Jun 24, 1987",2022, Argentina,WC Qualification South America,1274 ,15 ,14 ,1 ,0 ,1 ,2022/2023
+158023,Lionel Messi,"Jun 24, 1987",2021, Argentina,Copa America,630 ,7 ,7 ,0 ,0 ,0 ,2021/2022
+158023,Lionel Messi,"Jun 24, 1987",2019, Argentina,Copa America,540 ,6 ,6 ,0 ,0 ,0 ,2019/2020
+158023,Lionel Messi,"Jun 24, 1987",2018, Argentina,WC Qualification South America,630 ,10 ,10 ,0 ,0 ,0 ,2018/2019
+158023,Lionel Messi,"Jun 24, 1987",2016, Argentina,Copa America,343 ,5 ,3 ,2 ,0 ,3 ,2016/2017
+158023,Lionel Messi,"Jun 24, 1987",2015, Argentina,Copa America,540 ,6 ,6 ,0 ,0 ,0 ,2015/2016
+158023,Lionel Messi,"Jun 24, 1987",2014, Argentina,WC Qualification South America,1141 ,14 ,12 ,2 ,0 ,2 ,2014/2015
+158023,Lionel Messi,"Jun 24, 1987",2011, Argentina,Copa America,360 ,4 ,4 ,0 ,0 ,0 ,2011/2012
+158023,Lionel Messi,"Jun 24, 1987",2010, Argentina,WC Qualification South America,0 ,17 ,17 ,0 ,5 ,0 ,2010/2011
+158023,Lionel Messi,"Jun 24, 1987",2007, Argentina,Copa America,456 ,6 ,5 ,1 ,2 ,1 ,2007/2008
+165153,Karim Benzema,"Dec 19, 1987",2022/2023, France,UEFA Nations League,270 ,3 ,3 ,0 ,0 ,1 ,2022/2023
+165153,Karim Benzema,"Dec 19, 1987",2022, France,WC Qualification Europe,296 ,5 ,3 ,2 ,2 ,2 ,2022/2023
+165153,Karim Benzema,"Dec 19, 1987",2020/2021, France,UEFA Nations League,180 ,2 ,2 ,0 ,1 ,0 ,2020/2021
+165153,Karim Benzema,"Dec 19, 1987",2020, France,European Championship,345 ,4 ,4 ,0 ,3 ,0 ,2020/2021
+165153,Karim Benzema,"Dec 19, 1987",2014, France,WC Qualification Europe,110 ,11 ,7 ,4 ,2 ,3 ,2014/2015
+165153,Karim Benzema,"Dec 19, 1987",2012, France,European Championship,0 ,4 ,4 ,0 ,1 ,0 ,2012/2013
+165153,Karim Benzema,"Dec 19, 1987",2012, France,Euro Qualification,0 ,7 ,7 ,0 ,2 ,0 ,2012/2013
+165153,Karim Benzema,"Dec 19, 1987",2010, France,WC Qualification Europe,360 ,8 ,3 ,5 ,2 ,9 ,2010/2011
+165153,Karim Benzema,"Dec 19, 1987",2008, France,European Championship,0 ,2 ,2 ,0 ,1 ,0 ,2008/2009
+165153,Karim Benzema,"Dec 19, 1987",2008, France,Euro Qualification,193 ,5 ,2 ,3 ,1 ,3 ,2008/2009
+176580,Luis Suárez,"Jan 24, 1987",2022, Uruguay,WC Qualification South America,1107 ,14 ,12 ,2 ,3 ,2 ,2022/2023
+176580,Luis Suárez,"Jan 24, 1987",2021, Uruguay,Copa America,384 ,5 ,4 ,1 ,1 ,1 ,2021/2022
+176580,Luis Suárez,"Jan 24, 1987",2019, Uruguay,Copa America,360 ,4 ,4 ,0 ,0 ,0 ,2019/2020
+176580,Luis Suárez,"Jan 24, 1987",2018, Uruguay,WC Qualification South America,969 ,13 ,13 ,0 ,4 ,0 ,2018/2019
+176580,Luis Suárez,"Jan 24, 1987",2014, Uruguay,WC Qualification South America,1247 ,14 ,14 ,0 ,2 ,0 ,2014/2015
+176580,Luis Suárez,"Jan 24, 1987",2012, Uruguay U23,Olympic Games,0 ,3 ,3 ,0 ,0 ,0 ,2012/2013
+176580,Luis Suárez,"Jan 24, 1987",2011, Uruguay,Copa America,521 ,6 ,6 ,0 ,1 ,0 ,2011/2012
+176580,Luis Suárez,"Jan 24, 1987",2010, CS Uruguay de Coronado,WC Qualification Intercontinental Playoffs,0 ,2 ,2 ,0 ,2 ,0 ,2010/2011
+176580,Luis Suárez,"Jan 24, 1987",2010, CS Uruguay de Coronado,WC Qualification South America,0 ,17 ,15 ,2 ,10 ,2 ,2010/2011
+186153,Wojciech Szczęsny,"Apr 18, 1990",2022/2023, Poland,UEFA Nations League,270 ,3 ,3 ,0 ,0 ,2 ,2022/2023
+186153,Wojciech Szczęsny,"Apr 18, 1990",2022, Poland,WC Qualification Europe,856 ,10 ,10 ,0 ,1 ,0 ,2022/2023
+186153,Wojciech Szczęsny,"Apr 18, 1990",2020/2021, Poland,UEFA Nations League,270 ,3 ,3 ,0 ,0 ,3 ,2020/2021
+186153,Wojciech Szczęsny,"Apr 18, 1990",2020, Poland,European Championship,270 ,3 ,3 ,0 ,0 ,0 ,2020/2021
+186153,Wojciech Szczęsny,"Apr 18, 1990",2020, Poland,Euro Qualification,540 ,6 ,6 ,0 ,0 ,2 ,2020/2021
+186153,Wojciech Szczęsny,"Apr 18, 1990",2018/2019, Poland,UEFA Nations League,0 ,2 ,2 ,0 ,0 ,2 ,2018/2019
+186153,Wojciech Szczęsny,"Apr 18, 1990",2018, Poland,WC Qualification Europe,270 ,3 ,3 ,0 ,0 ,7 ,2018/2019
+186153,Wojciech Szczęsny,"Apr 18, 1990",2016, Poland,Euro Qualification,360 ,4 ,4 ,0 ,0 ,6 ,2016/2017
+186153,Wojciech Szczęsny,"Apr 18, 1990",2016, Poland,European Championship,90 ,1 ,1 ,0 ,0 ,2 ,2016/2017
+186153,Wojciech Szczęsny,"Apr 18, 1990",2012, Poland,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+186153,Wojciech Szczęsny,"Apr 18, 1990",2012, Poland,Euro Qualification,68 ,1 ,1 ,0 ,0 ,1 ,2012/2013
+186153,Wojciech Szczęsny,"Apr 18, 1990",2008, Poland,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+189509,Thiago Alcântara,"Apr 11, 1991",2022/2023, Spain,UEFA Nations League,0 ,0 ,0 ,0 ,0 ,0 ,2022/2023
+189509,Thiago Alcântara,"Apr 11, 1991",2022, Spain,WC Qualification Europe,53 ,2 ,0 ,2 ,0 ,3 ,2022/2023
+189509,Thiago Alcântara,"Apr 11, 1991",2020/2021, Spain,UEFA Nations League,180 ,2 ,2 ,0 ,0 ,0 ,2020/2021
+189509,Thiago Alcântara,"Apr 11, 1991",2020, Spain,European Championship,74 ,4 ,0 ,4 ,0 ,6 ,2020/2021
+189509,Thiago Alcântara,"Apr 11, 1991",2020, Spain,Euro Qualification,246 ,3 ,3 ,0 ,1 ,3 ,2020/2021
+189509,Thiago Alcântara,"Apr 11, 1991",2018/2019, Spain,UEFA Nations League,0 ,3 ,2 ,1 ,1 ,1 ,2018/2019
+189509,Thiago Alcântara,"Apr 11, 1991",2018, Spain,WC Qualification Europe,614 ,9 ,7 ,2 ,3 ,2 ,2018/2019
+189509,Thiago Alcântara,"Apr 11, 1991",2016, Spain,Euro Qualification,90 ,1 ,1 ,0 ,0 ,1 ,2016/2017
+189509,Thiago Alcântara,"Apr 11, 1991",2016, Spain,European Championship,26 ,2 ,0 ,2 ,0 ,4 ,2016/2017
+189509,Thiago Alcântara,"Apr 11, 1991",2013, Spain U21,Euro U21,620 ,7 ,7 ,0 ,1 ,0 ,2013/2014
+189509,Thiago Alcântara,"Apr 11, 1991",2012, Spain,Euro Qualification,0 ,2 ,0 ,2 ,0 ,3 ,2012/2013
+189513,Daniel Parejo Muñoz,"Apr 16, 1989",2020, Spain,Euro Qualification,257 ,3 ,3 ,0 ,1 ,3 ,2020/2021
+192387,Ciro Immobile,"Feb 20, 1990",2022, Italy,WC Qualification Europe,406 ,6 ,5 ,1 ,3 ,1 ,2022/2023
+192387,Ciro Immobile,"Feb 20, 1990",2020/2021, Italy,UEFA Nations League,197 ,3 ,2 ,1 ,0 ,2 ,2020/2021
+192387,Ciro Immobile,"Feb 20, 1990",2020, Italy,European Championship,444 ,6 ,6 ,0 ,5 ,1 ,2020/2021
+192387,Ciro Immobile,"Feb 20, 1990",2020, Italy,Euro Qualification,325 ,4 ,4 ,0 ,3 ,5 ,2020/2021
+192387,Ciro Immobile,"Feb 20, 1990",2018/2019, Italy,UEFA Nations League,0 ,2 ,2 ,0 ,2 ,2 ,2018/2019
+192387,Ciro Immobile,"Feb 20, 1990",2018, Italy,WC Qualification Europe,775 ,11 ,10 ,1 ,4 ,2 ,2018/2019
+192387,Ciro Immobile,"Feb 20, 1990",2016, Italy,Euro Qualification,387 ,5 ,5 ,0 ,2 ,2 ,2016/2017
+192387,Ciro Immobile,"Feb 20, 1990",2016, Italy,European Championship,89 ,2 ,1 ,1 ,1 ,4 ,2016/2017
+192387,Ciro Immobile,"Feb 20, 1990",2013, Italy U21,Euro U21,637 ,9 ,9 ,0 ,8 ,1 ,2013/2014
+192387,Ciro Immobile,"Feb 20, 1990",2012, Italy,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+192387,Ciro Immobile,"Feb 20, 1990",2008, Italy,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+192505,Romelu Lukaku,"May 13, 1993",2022/2023, Belgium,UEFA Nations League,27 ,1 ,1 ,0 ,1 ,0 ,2022/2023
+192505,Romelu Lukaku,"May 13, 1993",2022, Belgium,WC Qualification Europe,335 ,4 ,4 ,0 ,2 ,1 ,2022/2023
+192505,Romelu Lukaku,"May 13, 1993",2020/2021, Belgium,UEFA Nations League,540 ,6 ,6 ,0 ,0 ,0 ,2020/2021
+192505,Romelu Lukaku,"May 13, 1993",2020, Belgium,European Championship,444 ,5 ,5 ,0 ,1 ,0 ,2020/2021
+192505,Romelu Lukaku,"May 13, 1993",2020, Belgium,Euro Qualification,405 ,5 ,5 ,0 ,3 ,2 ,2020/2021
+192505,Romelu Lukaku,"May 13, 1993",2018/2019, Belgium,UEFA Nations League,0 ,2 ,2 ,0 ,0 ,0 ,2018/2019
+192505,Romelu Lukaku,"May 13, 1993",2018, Belgium,WC Qualification Europe,474 ,10 ,7 ,3 ,1 ,2 ,2018/2019
+192505,Romelu Lukaku,"May 13, 1993",2016, Belgium,Euro Qualification,272 ,5 ,3 ,2 ,3 ,5 ,2016/2017
+192505,Romelu Lukaku,"May 13, 1993",2016, Belgium,European Championship,401 ,5 ,5 ,0 ,5 ,0 ,2016/2017
+192505,Romelu Lukaku,"May 13, 1993",2014, Belgium,Euro Qualification,0 ,3 ,2 ,1 ,2 ,6 ,2014/2015
+192505,Romelu Lukaku,"May 13, 1993",2012, Belgium,Euro Qualification,0 ,6 ,4 ,2 ,4 ,3 ,2012/2013
+195864,Paul Pogba,"Mar 15, 1993",2022, France,WC Qualification Europe,446 ,6 ,5 ,1 ,1 ,1 ,2022/2023
+195864,Paul Pogba,"Mar 15, 1993",2020/2021, France,UEFA Nations League,466 ,6 ,5 ,1 ,0 ,1 ,2020/2021
+195864,Paul Pogba,"Mar 15, 1993",2020, France,European Championship,346 ,4 ,4 ,0 ,1 ,0 ,2020/2021
+195864,Paul Pogba,"Mar 15, 1993",2020, France,Euro Qualification,360 ,4 ,4 ,0 ,0 ,0 ,2020/2021
+195864,Paul Pogba,"Mar 15, 1993",2018/2019, France,UEFA Nations League,0 ,3 ,3 ,0 ,0 ,0 ,2018/2019
+195864,Paul Pogba,"Mar 15, 1993",2018, France,WC Qualification Europe,540 ,7 ,7 ,0 ,0 ,0 ,2018/2019
+195864,Paul Pogba,"Mar 15, 1993",2016, France,Euro Qualification,601 ,7 ,6 ,1 ,1 ,1 ,2016/2017
+195864,Paul Pogba,"Mar 15, 1993",2016, France,European Championship,571 ,7 ,6 ,1 ,1 ,1 ,2016/2017
+195864,Paul Pogba,"Mar 15, 1993",2014, France,WC Qualification Europe,180 ,6 ,6 ,0 ,0 ,0 ,2014/2015
+201024,Kalidou Koulibaly,"Jun 20, 1991",2022, Senegal,WC Qualification Africa,720 ,8 ,8 ,0 ,0 ,0 ,2022/2023
+201024,Kalidou Koulibaly,"Jun 20, 1991",2018, Senegal,WC Qualification Africa,534 ,6 ,6 ,0 ,0 ,1 ,2018/2019
+204485,Riyad Mahrez,"Feb 21, 1991",2022, Algeria,WC Qualification Africa,648 ,8 ,7 ,1 ,2 ,1 ,2022/2023
+204485,Riyad Mahrez,"Feb 21, 1991",2018, Algeria,WC Qualification Africa,512 ,6 ,6 ,0 ,2 ,0 ,2018/2019
+205452,Antonio Rüdiger,"Mar 3, 1993",2022/2023, Germany,UEFA Nations League,360 ,4 ,4 ,0 ,0 ,0 ,2022/2023
+205452,Antonio Rüdiger,"Mar 3, 1993",2022, Germany,WC Qualification Europe,630 ,7 ,7 ,0 ,0 ,1 ,2022/2023
+205452,Antonio Rüdiger,"Mar 3, 1993",2020/2021, Germany,UEFA Nations League,450 ,5 ,5 ,0 ,0 ,0 ,2020/2021
+205452,Antonio Rüdiger,"Mar 3, 1993",2020, Germany,European Championship,360 ,4 ,4 ,0 ,0 ,0 ,2020/2021
+205452,Antonio Rüdiger,"Mar 3, 1993",2020, Germany,Euro Qualification,90 ,1 ,1 ,0 ,0 ,0 ,2020/2021
+205452,Antonio Rüdiger,"Mar 3, 1993",2018/2019, Germany,UEFA Nations League,0 ,2 ,2 ,0 ,0 ,0 ,2018/2019
+205452,Antonio Rüdiger,"Mar 3, 1993",2018, Germany,WC Qualification Europe,187 ,3 ,1 ,2 ,0 ,5 ,2018/2019
+205452,Antonio Rüdiger,"Mar 3, 1993",2017, Germany,Confederations Cup,0 ,4 ,4 ,0 ,0 ,1 ,2017/2018
+205452,Antonio Rüdiger,"Mar 3, 1993",2016, Germany,Euro Qualification,173 ,2 ,2 ,0 ,1 ,3 ,2016/2017
+205452,Antonio Rüdiger,"Mar 3, 1993",2016, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+205452,Antonio Rüdiger,"Mar 3, 1993",2013, Germany U21,Euro U21,0 ,1 ,0 ,1 ,0 ,3 ,2013/2014
+205452,Antonio Rüdiger,"Mar 3, 1993",2012, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+205452,Antonio Rüdiger,"Mar 3, 1993",2008, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+208093,Gerard Moreno Balagueró,"Apr 7, 1992",2022, Spain,WC Qualification Europe,85 ,2 ,1 ,1 ,1 ,1 ,2022/2023
+208093,Gerard Moreno Balagueró,"Apr 7, 1992",2020/2021, Spain,UEFA Nations League,124 ,4 ,1 ,3 ,1 ,4 ,2020/2021
+208093,Gerard Moreno Balagueró,"Apr 7, 1992",2020, Spain,European Championship,283 ,5 ,2 ,3 ,2 ,4 ,2020/2021
+208093,Gerard Moreno Balagueró,"Apr 7, 1992",2020, Spain,Euro Qualification,236 ,3 ,3 ,0 ,1 ,1 ,2020/2021
+208830,Jamie Vardy,"Jan 11, 1987",2018, England,WC Qualification Europe,21 ,1 ,0 ,1 ,3 ,7 ,2018/2019
+208830,Jamie Vardy,"Jan 11, 1987",2016, England,Euro Qualification,187 ,3 ,2 ,1 ,0 ,3 ,2016/2017
+208830,Jamie Vardy,"Jan 11, 1987",2016, England,European Championship,164 ,3 ,1 ,2 ,0 ,3 ,2016/2017
+212218,Aymeric Laporte,"May 27, 1994",2022, Spain,WC Qualification Europe,406 ,5 ,5 ,0 ,1 ,0 ,2022/2023
+212218,Aymeric Laporte,"May 27, 1994",2020/2021, Spain,UEFA Nations League,180 ,2 ,2 ,0 ,0 ,0 ,2020/2021
+212218,Aymeric Laporte,"May 27, 1994",2020, Spain,European Championship,540 ,6 ,6 ,0 ,0 ,0 ,2020/2021
+212218,Aymeric Laporte,"May 27, 1994",2017, France U21,Euro U21,329 ,4 ,4 ,0 ,1 ,0 ,2017/2018
+222492,Leroy Sané,"Jan 11, 1996",2022/2023, Germany,UEFA Nations League,318 ,5 ,4 ,1 ,2 ,2 ,2022/2023
+222492,Leroy Sané,"Jan 11, 1996",2022, Germany,WC Qualification Europe,682 ,9 ,9 ,0 ,7 ,1 ,2022/2023
+222492,Leroy Sané,"Jan 11, 1996",2020/2021, Germany,UEFA Nations League,256 ,4 ,4 ,0 ,4 ,0 ,2020/2021
+222492,Leroy Sané,"Jan 11, 1996",2020, Germany,European Championship,127 ,4 ,1 ,3 ,0 ,3 ,2020/2021
+222492,Leroy Sané,"Jan 11, 1996",2020, Germany,Euro Qualification,270 ,3 ,3 ,0 ,0 ,0 ,2020/2021
+222492,Leroy Sané,"Jan 11, 1996",2018/2019, Germany,UEFA Nations League,0 ,4 ,2 ,2 ,2 ,2 ,2018/2019
+222492,Leroy Sané,"Jan 11, 1996",2018, Germany,WC Qualification Europe,108 ,2 ,1 ,1 ,1 ,2 ,2018/2019
+222492,Leroy Sané,"Jan 11, 1996",2017, Germany U21,Euro U21,629 ,7 ,7 ,0 ,2 ,0 ,2017/2018
+222492,Leroy Sané,"Jan 11, 1996",2017, Germany,Confederations Cup,0 ,0 ,0 ,0 ,0 ,3 ,2017/2018
+222492,Leroy Sané,"Jan 11, 1996",2016, Germany,European Championship,11 ,1 ,0 ,1 ,0 ,6 ,2016/2017
+222492,Leroy Sané,"Jan 11, 1996",2012, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+222492,Leroy Sané,"Jan 11, 1996",2008, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+232363,Milan Škriniar,"Feb 11, 1995",2022/2023, Slovakia,UEFA Nations League,313 ,4 ,4 ,0 ,1 ,0 ,2022/2023
+232363,Milan Škriniar,"Feb 11, 1995",2022, Slovakia,WC Qualification Europe,900 ,10 ,10 ,0 ,0 ,0 ,2022/2023
+232363,Milan Škriniar,"Feb 11, 1995",2020/2021, Slovakia,UEFA Nations League,360 ,4 ,4 ,0 ,0 ,0 ,2020/2021
+232363,Milan Škriniar,"Feb 11, 1995",2020, Slovakia,European Championship,270 ,3 ,3 ,0 ,0 ,0 ,2020/2021
+232363,Milan Škriniar,"Feb 11, 1995",2020, Slovakia,Euro Qualification,810 ,9 ,9 ,0 ,0 ,0 ,2020/2021
+232363,Milan Škriniar,"Feb 11, 1995",2018/2019, Slovakia,UEFA Nations League,0 ,4 ,4 ,0 ,0 ,0 ,2018/2019
+232363,Milan Škriniar,"Feb 11, 1995",2018, Slovakia,WC Qualification Europe,630 ,7 ,7 ,0 ,0 ,0 ,2018/2019
+232363,Milan Škriniar,"Feb 11, 1995",2017, Slovakia U21,Euro U21,90 ,1 ,1 ,0 ,0 ,0 ,2017/2018
+232363,Milan Škriniar,"Feb 11, 1995",2016, Slovakia,Euro Qualification,102 ,2 ,1 ,1 ,0 ,3 ,2016/2017
+232363,Milan Škriniar,"Feb 11, 1995",2016, Slovakia,European Championship,102 ,2 ,1 ,1 ,0 ,3 ,2016/2017
+198219,Lorenzo Insigne,"Jun 4, 1991",2022, Italy,WC Qualification Europe,549 ,7 ,7 ,0 ,6 ,1 ,2022/2023
+198219,Lorenzo Insigne,"Jun 4, 1991",2020/2021, Italy,UEFA Nations League,417 ,6 ,5 ,1 ,4 ,1 ,2020/2021
+198219,Lorenzo Insigne,"Jun 4, 1991",2020, Italy,European Championship,494 ,6 ,6 ,0 ,6 ,1 ,2020/2021
+198219,Lorenzo Insigne,"Jun 4, 1991",2020, Italy,Euro Qualification,356 ,4 ,4 ,0 ,1 ,2 ,2020/2021
+198219,Lorenzo Insigne,"Jun 4, 1991",2018/2019, Italy,UEFA Nations League,0 ,3 ,3 ,0 ,1 ,1 ,2018/2019
+198219,Lorenzo Insigne,"Jun 4, 1991",2018, Italy,WC Qualification Europe,554 ,7 ,6 ,1 ,2 ,3 ,2018/2019
+198219,Lorenzo Insigne,"Jun 4, 1991",2016, Italy,European Championship,6 ,3 ,0 ,3 ,0 ,5 ,2016/2017
+198219,Lorenzo Insigne,"Jun 4, 1991",2014, Italy,Euro Qualification,0 ,3 ,2 ,1 ,1 ,4 ,2014/2015
+198219,Lorenzo Insigne,"Jun 4, 1991",2013, Italy U21,Euro U21,755 ,9 ,9 ,0 ,2 ,0 ,2013/2014
+199434,Dušan Tadić,"Nov 20, 1988",2022/2023, Serbia,UEFA Nations League,488 ,6 ,5 ,1 ,2 ,1 ,2022/2023
+199434,Dušan Tadić,"Nov 20, 1988",2022, Serbia,WC Qualification Europe,612 ,8 ,7 ,1 ,5 ,1 ,2022/2023
+199434,Dušan Tadić,"Nov 20, 1988",2020/2021, Serbia,UEFA Nations League,349 ,4 ,4 ,0 ,1 ,0 ,2020/2021
+199434,Dušan Tadić,"Nov 20, 1988",2020, Serbia,Euro Qualification,711 ,8 ,8 ,0 ,2 ,0 ,2020/2021
+199434,Dušan Tadić,"Nov 20, 1988",2018/2019, Serbia,UEFA Nations League,0 ,5 ,5 ,0 ,0 ,1 ,2018/2019
+199434,Dušan Tadić,"Nov 20, 1988",2018, Serbia,WC Qualification Europe,777 ,10 ,10 ,0 ,4 ,0 ,2018/2019
+199434,Dušan Tadić,"Nov 20, 1988",2016, Serbia,Euro Qualification,479 ,7 ,6 ,1 ,3 ,1 ,2016/2017
+199434,Dušan Tadić,"Nov 20, 1988",2014, Serbia,Euro Qualification,0 ,11 ,7 ,4 ,3 ,3 ,2014/2015
+202811,Emiliano Martínez,"Sep 2, 1992",2022, Argentina,WC Qualification South America,850 ,10 ,10 ,0 ,1 ,3 ,2022/2023
+202811,Emiliano Martínez,"Sep 2, 1992",2021, Argentina,Copa America,540 ,6 ,6 ,0 ,0 ,0 ,2021/2022
+204639,Stefan Savić,"Jan 8, 1991",2022/2023, Montenegro,UEFA Nations League,0 ,0 ,0 ,0 ,0 ,0 ,2022/2023
+204639,Stefan Savić,"Jan 8, 1991",2022, Montenegro,WC Qualification Europe,463 ,6 ,6 ,0 ,2 ,0 ,2022/2023
+204639,Stefan Savić,"Jan 8, 1991",2020/2021, Montenegro,UEFA Nations League,270 ,3 ,3 ,0 ,0 ,0 ,2020/2021
+204639,Stefan Savić,"Jan 8, 1991",2020, Montenegro,Euro Qualification,129 ,2 ,2 ,0 ,1 ,0 ,2020/2021
+204639,Stefan Savić,"Jan 8, 1991",2018/2019, Montenegro,UEFA Nations League,0 ,2 ,2 ,0 ,1 ,0 ,2018/2019
+204639,Stefan Savić,"Jan 8, 1991",2018, Montenegro,WC Qualification Europe,810 ,9 ,9 ,0 ,0 ,0 ,2018/2019
+204639,Stefan Savić,"Jan 8, 1991",2016, Montenegro,Euro Qualification,720 ,8 ,8 ,0 ,0 ,1 ,2016/2017
+204639,Stefan Savić,"Jan 8, 1991",2014, Montenegro,Euro Qualification,0 ,9 ,8 ,1 ,0 ,0 ,2014/2015
+204639,Stefan Savić,"Jan 8, 1991",2012, Montenegro,Euro Qualification,0 ,8 ,8 ,0 ,0 ,1 ,2012/2013
+204963,Daniel Carvajal Ramos,"Jan 11, 1992",2022/2023, Spain,UEFA Nations League,270 ,3 ,3 ,0 ,0 ,2 ,2022/2023
+204963,Daniel Carvajal Ramos,"Jan 11, 1992",2022, Spain,WC Qualification Europe,90 ,1 ,1 ,0 ,0 ,1 ,2022/2023
+204963,Daniel Carvajal Ramos,"Jan 11, 1992",2020/2021, Spain,UEFA Nations League,90 ,1 ,1 ,0 ,0 ,1 ,2020/2021
+204963,Daniel Carvajal Ramos,"Jan 11, 1992",2020, Spain,Euro Qualification,351 ,4 ,4 ,0 ,1 ,4 ,2020/2021
+204963,Daniel Carvajal Ramos,"Jan 11, 1992",2018/2019, Spain,UEFA Nations League,0 ,2 ,2 ,0 ,1 ,0 ,2018/2019
+204963,Daniel Carvajal Ramos,"Jan 11, 1992",2018, Spain,WC Qualification Europe,450 ,5 ,5 ,0 ,0 ,2 ,2018/2019
+204963,Daniel Carvajal Ramos,"Jan 11, 1992",2016, Spain,Euro Qualification,180 ,2 ,2 ,0 ,0 ,4 ,2016/2017
+204963,Daniel Carvajal Ramos,"Jan 11, 1992",2016, Spain,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+204963,Daniel Carvajal Ramos,"Jan 11, 1992",2013, Spain U21,Euro U21,90 ,1 ,1 ,0 ,0 ,4 ,2013/2014
+204963,Daniel Carvajal Ramos,"Jan 11, 1992",2012, Spain,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+204963,Daniel Carvajal Ramos,"Jan 11, 1992",2008, Spain,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+206517,Jack Grealish,"Sep 10, 1995",2022/2023, England,UEFA Nations League,163 ,4 ,1 ,3 ,0 ,4 ,2022/2023
+206517,Jack Grealish,"Sep 10, 1995",2022, England,WC Qualification Europe,318 ,6 ,3 ,3 ,2 ,3 ,2022/2023
+206517,Jack Grealish,"Sep 10, 1995",2021, Republic of Ireland U21,Euro U21,192 ,4 ,2 ,2 ,0 ,2 ,2021/2022
+206517,Jack Grealish,"Sep 10, 1995",2020/2021, England,UEFA Nations League,184 ,3 ,2 ,1 ,1 ,4 ,2020/2021
+206517,Jack Grealish,"Sep 10, 1995",2020, England,European Championship,180 ,5 ,1 ,4 ,2 ,6 ,2020/2021
+206517,Jack Grealish,"Sep 10, 1995",2019, Republic of Ireland U21,Euro U21,192 ,4 ,2 ,2 ,0 ,2 ,2019/2020
+206517,Jack Grealish,"Sep 10, 1995",2017, Republic of Ireland U21,Euro U21,192 ,4 ,2 ,2 ,0 ,2 ,2017/2018
+206517,Jack Grealish,"Sep 10, 1995",2016, England,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+206517,Jack Grealish,"Sep 10, 1995",2012, England,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+207410,Mateo Kovačić,"May 6, 1994",2022/2023, Croatia,UEFA Nations League,445 ,6 ,5 ,1 ,5 ,1 ,2022/2023
+207410,Mateo Kovačić,"May 6, 1994",2022, Croatia,WC Qualification Europe,502 ,7 ,6 ,1 ,4 ,1 ,2022/2023
+207410,Mateo Kovačić,"May 6, 1994",2021, Croatia U21,Euro U21,246 ,3 ,3 ,0 ,2 ,0 ,2021/2022
+207410,Mateo Kovačić,"May 6, 1994",2020/2021, Croatia,UEFA Nations League,452 ,6 ,5 ,1 ,3 ,1 ,2020/2021
+207410,Mateo Kovačić,"May 6, 1994",2020, Croatia,European Championship,341 ,4 ,4 ,0 ,3 ,0 ,2020/2021
+207410,Mateo Kovačić,"May 6, 1994",2020, Croatia,Euro Qualification,233 ,5 ,3 ,2 ,3 ,3 ,2020/2021
+207410,Mateo Kovačić,"May 6, 1994",2019, Croatia U21,Euro U21,246 ,3 ,3 ,0 ,2 ,0 ,2019/2020
+207410,Mateo Kovačić,"May 6, 1994",2018/2019, Croatia,UEFA Nations League,0 ,2 ,2 ,0 ,1 ,1 ,2018/2019
+207410,Mateo Kovačić,"May 6, 1994",2018, Croatia,WC Qualification Europe,520 ,7 ,6 ,1 ,2 ,2 ,2018/2019
+207410,Mateo Kovačić,"May 6, 1994",2017, Croatia U21,Euro U21,90 ,1 ,1 ,0 ,0 ,0 ,2017/2018
+207410,Mateo Kovačić,"May 6, 1994",2016, Croatia,Euro Qualification,443 ,8 ,5 ,3 ,3 ,3 ,2016/2017
+207410,Mateo Kovačić,"May 6, 1994",2016, Croatia,European Championship,36 ,2 ,0 ,2 ,0 ,4 ,2016/2017
+207410,Mateo Kovačić,"May 6, 1994",2014, Croatia,WC Qualification Europe,90 ,5 ,4 ,1 ,3 ,3 ,2014/2015
+207410,Mateo Kovačić,"May 6, 1994",2012, Croatia,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+207410,Mateo Kovačić,"May 6, 1994",2008, Croatia,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+208418,Yannick Carrasco,"Sep 4, 1993",2022/2023, Belgium,UEFA Nations League,283 ,5 ,3 ,2 ,2 ,2 ,2022/2023
+208418,Yannick Carrasco,"Sep 4, 1993",2022, Belgium,WC Qualification Europe,211 ,3 ,3 ,0 ,3 ,1 ,2022/2023
+208418,Yannick Carrasco,"Sep 4, 1993",2021, Belgium U21,Euro U21,437 ,6 ,5 ,1 ,2 ,1 ,2021/2022
+208418,Yannick Carrasco,"Sep 4, 1993",2020/2021, Belgium,UEFA Nations League,407 ,5 ,5 ,0 ,3 ,0 ,2020/2021
+208418,Yannick Carrasco,"Sep 4, 1993",2020, Belgium,European Championship,144 ,3 ,2 ,1 ,2 ,3 ,2020/2021
+208418,Yannick Carrasco,"Sep 4, 1993",2020, Belgium,Euro Qualification,255 ,7 ,2 ,5 ,0 ,8 ,2020/2021
+208418,Yannick Carrasco,"Sep 4, 1993",2019, Belgium U21,Euro U21,437 ,6 ,5 ,1 ,2 ,1 ,2019/2020
+208418,Yannick Carrasco,"Sep 4, 1993",2018/2019, Belgium,UEFA Nations League,0 ,2 ,2 ,0 ,2 ,0 ,2018/2019
+208418,Yannick Carrasco,"Sep 4, 1993",2018, Belgium,WC Qualification Europe,627 ,10 ,9 ,1 ,1 ,0 ,2018/2019
+208418,Yannick Carrasco,"Sep 4, 1993",2017, Belgium U21,Euro U21,437 ,6 ,5 ,1 ,2 ,1 ,2017/2018
+208418,Yannick Carrasco,"Sep 4, 1993",2016, Belgium,Euro Qualification,34 ,2 ,0 ,2 ,0 ,5 ,2016/2017
+208418,Yannick Carrasco,"Sep 4, 1993",2016, Belgium,European Championship,216 ,5 ,3 ,2 ,3 ,2 ,2016/2017
+208574,Filip Kostić,"Nov 1, 1992",2022/2023, Serbia,UEFA Nations League,286 ,5 ,3 ,2 ,3 ,2 ,2022/2023
+208574,Filip Kostić,"Nov 1, 1992",2022, Serbia,WC Qualification Europe,591 ,8 ,7 ,1 ,6 ,1 ,2022/2023
+208574,Filip Kostić,"Nov 1, 1992",2021, Serbia U21,Euro U21,97 ,2 ,1 ,1 ,1 ,2 ,2021/2022
+208574,Filip Kostić,"Nov 1, 1992",2020/2021, Serbia,UEFA Nations League,180 ,2 ,2 ,0 ,0 ,0 ,2020/2021
+208574,Filip Kostić,"Nov 1, 1992",2020, Serbia,Euro Qualification,349 ,5 ,5 ,0 ,4 ,1 ,2020/2021
+208574,Filip Kostić,"Nov 1, 1992",2019, Serbia U21,Euro U21,97 ,2 ,1 ,1 ,1 ,2 ,2019/2020
+208574,Filip Kostić,"Nov 1, 1992",2018/2019, Serbia,UEFA Nations League,0 ,2 ,1 ,1 ,1 ,3 ,2018/2019
+208574,Filip Kostić,"Nov 1, 1992",2018, Serbia,WC Qualification Europe,320 ,14 ,8 ,6 ,5 ,2 ,2018/2019
+208574,Filip Kostić,"Nov 1, 1992",2017, Serbia U21,Euro U21,97 ,2 ,1 ,1 ,1 ,2 ,2017/2018
+208574,Filip Kostić,"Nov 1, 1992",2016, Serbia,Euro Qualification,109 ,2 ,1 ,1 ,1 ,2 ,2016/2017
+209989,Thomas Partey,"Jun 13, 1993",2022, Ghana,WC Qualification Africa,270 ,3 ,3 ,0 ,0 ,1 ,2022/2023
+209989,Thomas Partey,"Jun 13, 1993",2018, Ghana,WC Qualification Africa,328 ,4 ,4 ,0 ,2 ,1 ,2018/2019
+212190,Niklas Süle,"Sep 3, 1995",2022/2023, Germany,UEFA Nations League,447 ,5 ,5 ,0 ,1 ,1 ,2022/2023
+212190,Niklas Süle,"Sep 3, 1995",2022, Germany,WC Qualification Europe,419 ,5 ,5 ,0 ,1 ,0 ,2022/2023
+212190,Niklas Süle,"Sep 3, 1995",2020/2021, Germany,UEFA Nations League,378 ,5 ,5 ,0 ,2 ,1 ,2020/2021
+212190,Niklas Süle,"Sep 3, 1995",2020, Germany,European Championship,21 ,1 ,0 ,1 ,0 ,4 ,2020/2021
+212190,Niklas Süle,"Sep 3, 1995",2020, Germany,Euro Qualification,540 ,6 ,6 ,0 ,0 ,0 ,2020/2021
+212190,Niklas Süle,"Sep 3, 1995",2018/2019, Germany,UEFA Nations League,0 ,2 ,2 ,0 ,0 ,2 ,2018/2019
+212190,Niklas Süle,"Sep 3, 1995",2018, Germany,WC Qualification Europe,22 ,1 ,1 ,0 ,1 ,5 ,2018/2019
+212190,Niklas Süle,"Sep 3, 1995",2017, Germany U21,Euro U21,676 ,8 ,8 ,0 ,1 ,1 ,2017/2018
+212190,Niklas Süle,"Sep 3, 1995",2017, Germany,Confederations Cup,90 ,4 ,2 ,2 ,0 ,3 ,2017/2018
+212190,Niklas Süle,"Sep 3, 1995",2016, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+212190,Niklas Süle,"Sep 3, 1995",2016, Germany U23,Olympic Games,540 ,6 ,6 ,0 ,0 ,0 ,2016/2017
+212190,Niklas Süle,"Sep 3, 1995",2012, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+212190,Niklas Süle,"Sep 3, 1995",2008, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+215333,Duván Zapata,"Apr 1, 1991",2022, Colombia,WC Qualification South America,691 ,11 ,8 ,3 ,5 ,3 ,2022/2023
+215333,Duván Zapata,"Apr 1, 1991",2021, Colombia,Copa America,438 ,7 ,6 ,1 ,5 ,1 ,2021/2022
+215333,Duván Zapata,"Apr 1, 1991",2019, Colombia,Copa America,136 ,4 ,1 ,3 ,0 ,3 ,2019/2020
+215333,Duván Zapata,"Apr 1, 1991",2018, Colombia,WC Qualification South America,99 ,2 ,1 ,1 ,1 ,3 ,2018/2019
+216352,Marcelo Brozović,"Nov 16, 1992",2022/2023, Croatia,UEFA Nations League,468 ,6 ,6 ,0 ,1 ,0 ,2022/2023
+216352,Marcelo Brozović,"Nov 16, 1992",2022, Croatia,WC Qualification Europe,760 ,9 ,9 ,0 ,2 ,1 ,2022/2023
+216352,Marcelo Brozović,"Nov 16, 1992",2020/2021, Croatia,UEFA Nations League,209 ,3 ,2 ,1 ,0 ,1 ,2020/2021
+216352,Marcelo Brozović,"Nov 16, 1992",2020, Croatia,European Championship,255 ,4 ,3 ,1 ,1 ,1 ,2020/2021
+216352,Marcelo Brozović,"Nov 16, 1992",2020, Croatia,Euro Qualification,540 ,6 ,6 ,0 ,0 ,1 ,2020/2021
+216352,Marcelo Brozović,"Nov 16, 1992",2018/2019, Croatia,UEFA Nations League,0 ,3 ,3 ,0 ,1 ,0 ,2018/2019
+216352,Marcelo Brozović,"Nov 16, 1992",2018, Croatia,WC Qualification Europe,801 ,12 ,9 ,3 ,2 ,2 ,2018/2019
+216352,Marcelo Brozović,"Nov 16, 1992",2016, Croatia,Euro Qualification,654 ,9 ,7 ,2 ,1 ,3 ,2016/2017
+216352,Marcelo Brozović,"Nov 16, 1992",2016, Croatia,European Championship,270 ,3 ,3 ,0 ,0 ,1 ,2016/2017
+216352,Marcelo Brozović,"Nov 16, 1992",2012, Croatia,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+216352,Marcelo Brozović,"Nov 16, 1992",2008, Croatia,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+216393,Youri Tielemans,"May 7, 1997",2022/2023, Belgium,UEFA Nations League,361 ,5 ,4 ,1 ,1 ,2 ,2022/2023
+216393,Youri Tielemans,"May 7, 1997",2022, Belgium,WC Qualification Europe,370 ,5 ,4 ,1 ,1 ,1 ,2022/2023
+216393,Youri Tielemans,"May 7, 1997",2021, Belgium U21,Euro U21,71 ,2 ,0 ,2 ,0 ,4 ,2021/2022
+216393,Youri Tielemans,"May 7, 1997",2020/2021, Belgium,UEFA Nations League,576 ,7 ,7 ,0 ,3 ,1 ,2020/2021
+216393,Youri Tielemans,"May 7, 1997",2020, Belgium,European Championship,339 ,4 ,4 ,0 ,1 ,1 ,2020/2021
+216393,Youri Tielemans,"May 7, 1997",2020, Belgium,Euro Qualification,674 ,9 ,7 ,2 ,2 ,2 ,2020/2021
+216393,Youri Tielemans,"May 7, 1997",2019, Belgium U21,Euro U21,71 ,2 ,0 ,2 ,0 ,4 ,2019/2020
+216393,Youri Tielemans,"May 7, 1997",2018/2019, Belgium,UEFA Nations League,0 ,4 ,4 ,0 ,1 ,0 ,2018/2019
+216393,Youri Tielemans,"May 7, 1997",2018, Belgium,WC Qualification Europe,139 ,3 ,1 ,2 ,1 ,8 ,2018/2019
+216393,Youri Tielemans,"May 7, 1997",2017, Belgium U21,Euro U21,678 ,8 ,8 ,0 ,3 ,0 ,2017/2018
+216393,Youri Tielemans,"May 7, 1997",2016, Belgium,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+216460,José María Giménez,"Jan 20, 1995",2022, Uruguay,WC Qualification South America,1139 ,13 ,13 ,0 ,2 ,1 ,2022/2023
+216460,José María Giménez,"Jan 20, 1995",2021, Uruguay,Copa America,450 ,5 ,5 ,0 ,0 ,0 ,2021/2022
+216460,José María Giménez,"Jan 20, 1995",2019, Uruguay,Copa America,360 ,4 ,4 ,0 ,0 ,0 ,2019/2020
+216460,José María Giménez,"Jan 20, 1995",2018, Uruguay,WC Qualification South America,630 ,9 ,9 ,0 ,0 ,3 ,2018/2019
+216460,José María Giménez,"Jan 20, 1995",2016, Uruguay,Copa America,270 ,3 ,3 ,0 ,0 ,0 ,2016/2017
+216460,José María Giménez,"Jan 20, 1995",2015, Uruguay,Copa America,360 ,4 ,4 ,0 ,0 ,0 ,2015/2016
+216460,José María Giménez,"Jan 20, 1995",2014, Uruguay,WC Qualification South America,180 ,3 ,2 ,1 ,0 ,2 ,2014/2015
+220814,Lucas Hernández,"Feb 14, 1996",2022/2023, France,UEFA Nations League,90 ,1 ,1 ,0 ,0 ,2 ,2022/2023
+220814,Lucas Hernández,"Feb 14, 1996",2022, France,WC Qualification Europe,259 ,3 ,3 ,0 ,1 ,2 ,2022/2023
+220814,Lucas Hernández,"Feb 14, 1996",2020/2021, France,UEFA Nations League,413 ,6 ,5 ,1 ,1 ,3 ,2020/2021
+220814,Lucas Hernández,"Feb 14, 1996",2020, France,European Championship,136 ,2 ,2 ,0 ,1 ,2 ,2020/2021
+220814,Lucas Hernández,"Feb 14, 1996",2020, France,Euro Qualification,170 ,2 ,2 ,0 ,1 ,2 ,2020/2021
+220814,Lucas Hernández,"Feb 14, 1996",2019, France U21,Euro U21,270 ,3 ,3 ,0 ,0 ,0 ,2019/2020
+220814,Lucas Hernández,"Feb 14, 1996",2018/2019, France,UEFA Nations League,0 ,3 ,3 ,0 ,1 ,0 ,2018/2019
+220814,Lucas Hernández,"Feb 14, 1996",2017, France U21,Euro U21,142 ,2 ,1 ,1 ,0 ,2 ,2017/2018
+199845,Francesco Acerbi,"Feb 10, 1988",2022/2023, Italy,UEFA Nations League,316 ,4 ,4 ,0 ,1 ,1 ,2022/2023
+199845,Francesco Acerbi,"Feb 10, 1988",2022, Italy,WC Qualification Europe,451 ,6 ,5 ,1 ,0 ,3 ,2022/2023
+199845,Francesco Acerbi,"Feb 10, 1988",2020/2021, Italy,UEFA Nations League,450 ,5 ,5 ,0 ,0 ,3 ,2020/2021
+199845,Francesco Acerbi,"Feb 10, 1988",2020, Italy,European Championship,205 ,3 ,1 ,2 ,0 ,6 ,2020/2021
+199845,Francesco Acerbi,"Feb 10, 1988",2020, Italy,Euro Qualification,270 ,3 ,3 ,0 ,0 ,3 ,2020/2021
+199845,Francesco Acerbi,"Feb 10, 1988",2016, Italy,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+199845,Francesco Acerbi,"Feb 10, 1988",2012, Italy,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+199845,Francesco Acerbi,"Feb 10, 1988",2008, Italy,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+200458,Lucas Digne,"Jul 20, 1993",2022/2023, France,UEFA Nations League,180 ,2 ,2 ,0 ,0 ,2 ,2022/2023
+200458,Lucas Digne,"Jul 20, 1993",2022, France,WC Qualification Europe,360 ,4 ,4 ,0 ,0 ,4 ,2022/2023
+200458,Lucas Digne,"Jul 20, 1993",2020/2021, France,UEFA Nations League,221 ,3 ,2 ,1 ,1 ,5 ,2020/2021
+200458,Lucas Digne,"Jul 20, 1993",2020, France,European Championship,96 ,2 ,1 ,1 ,1 ,2 ,2020/2021
+200458,Lucas Digne,"Jul 20, 1993",2020, France,Euro Qualification,340 ,6 ,4 ,2 ,1 ,5 ,2020/2021
+200458,Lucas Digne,"Jul 20, 1993",2018, France,WC Qualification Europe,180 ,2 ,2 ,0 ,0 ,7 ,2018/2019
+200458,Lucas Digne,"Jul 20, 1993",2016, France,European Championship,0 ,0 ,0 ,0 ,0 ,7 ,2016/2017
+202884,Leonardo Spinazzola,"Mar 25, 1993",2022/2023, Italy,UEFA Nations League,140 ,2 ,2 ,0 ,2 ,0 ,2022/2023
+202884,Leonardo Spinazzola,"Mar 25, 1993",2022, Italy,WC Qualification Europe,139 ,3 ,1 ,2 ,0 ,2 ,2022/2023
+202884,Leonardo Spinazzola,"Mar 25, 1993",2020/2021, Italy,UEFA Nations League,180 ,2 ,2 ,0 ,0 ,2 ,2020/2021
+202884,Leonardo Spinazzola,"Mar 25, 1993",2020, Italy,European Championship,349 ,4 ,4 ,0 ,1 ,1 ,2020/2021
+202884,Leonardo Spinazzola,"Mar 25, 1993",2020, Italy,Euro Qualification,181 ,3 ,2 ,1 ,0 ,2 ,2020/2021
+202884,Leonardo Spinazzola,"Mar 25, 1993",2018, Italy,WC Qualification Europe,270 ,3 ,3 ,0 ,0 ,1 ,2018/2019
+203574,John Stones,"May 28, 1994",2022/2023, England,UEFA Nations League,242 ,4 ,3 ,1 ,1 ,2 ,2022/2023
+203574,John Stones,"May 28, 1994",2022, England,WC Qualification Europe,664 ,9 ,8 ,1 ,2 ,2 ,2022/2023
+203574,John Stones,"May 28, 1994",2020/2021, England,UEFA Nations League,0 ,0 ,0 ,0 ,0 ,0 ,2020/2021
+203574,John Stones,"May 28, 1994",2020, England,European Championship,619 ,7 ,7 ,0 ,1 ,0 ,2020/2021
+203574,John Stones,"May 28, 1994",2020, England,Euro Qualification,90 ,1 ,1 ,0 ,0 ,1 ,2020/2021
+203574,John Stones,"May 28, 1994",2018/2019, England,UEFA Nations League,90 ,4 ,4 ,0 ,0 ,1 ,2018/2019
+203574,John Stones,"May 28, 1994",2018, England,WC Qualification Europe,630 ,7 ,7 ,0 ,0 ,3 ,2018/2019
+203574,John Stones,"May 28, 1994",2016, England,Euro Qualification,202 ,3 ,2 ,1 ,0 ,1 ,2016/2017
+203574,John Stones,"May 28, 1994",2016, England,European Championship,0 ,0 ,0 ,0 ,0 ,4 ,2016/2017
+203574,John Stones,"May 28, 1994",2012, England,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+207862,Matthias Ginter,"Jan 19, 1994",2022/2023, Germany,UEFA Nations League,0 ,0 ,0 ,0 ,0 ,2 ,2022/2023
+207862,Matthias Ginter,"Jan 19, 1994",2022, Germany,WC Qualification Europe,377 ,5 ,4 ,1 ,1 ,3 ,2022/2023
+207862,Matthias Ginter,"Jan 19, 1994",2020/2021, Germany,UEFA Nations League,470 ,6 ,5 ,1 ,1 ,1 ,2020/2021
+207862,Matthias Ginter,"Jan 19, 1994",2020, Germany,European Championship,347 ,4 ,4 ,0 ,3 ,0 ,2020/2021
+207862,Matthias Ginter,"Jan 19, 1994",2020, Germany,Euro Qualification,484 ,6 ,6 ,0 ,2 ,1 ,2020/2021
+207862,Matthias Ginter,"Jan 19, 1994",2018/2019, Germany,UEFA Nations League,0 ,3 ,3 ,0 ,1 ,1 ,2018/2019
+207862,Matthias Ginter,"Jan 19, 1994",2018, Germany,WC Qualification Europe,144 ,2 ,1 ,1 ,0 ,4 ,2018/2019
+207862,Matthias Ginter,"Jan 19, 1994",2017, Germany U21,Euro U21,90 ,1 ,1 ,0 ,0 ,0 ,2017/2018
+207862,Matthias Ginter,"Jan 19, 1994",2017, Germany,Confederations Cup,90 ,4 ,4 ,0 ,0 ,1 ,2017/2018
+207862,Matthias Ginter,"Jan 19, 1994",2016, Germany,Euro Qualification,214 ,4 ,3 ,1 ,2 ,5 ,2016/2017
+207862,Matthias Ginter,"Jan 19, 1994",2016, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+207862,Matthias Ginter,"Jan 19, 1994",2016, Germany U23,Olympic Games,450 ,5 ,5 ,0 ,0 ,1 ,2016/2017
+207862,Matthias Ginter,"Jan 19, 1994",2013, Germany U21,Euro U21,270 ,3 ,3 ,0 ,0 ,0 ,2013/2014
+207862,Matthias Ginter,"Jan 19, 1994",2012, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+207862,Matthias Ginter,"Jan 19, 1994",2008, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+207863,Felipe Augusto de Almeida Monteiro,"May 16, 1989",2022, Brazil,WC Qualification South America,19 ,1 ,0 ,1 ,0 ,7 ,2022/2023
+207863,Felipe Augusto de Almeida Monteiro,"May 16, 1989",2021, Brazil,Copa America,0 ,0 ,0 ,0 ,0 ,1 ,2021/2022
+208670,Hakim Ziyech,"Mar 19, 1993",2021, Netherlands U21,Euro U21,32 ,2 ,0 ,2 ,0 ,2 ,2021/2022
+208670,Hakim Ziyech,"Mar 19, 1993",2019, Netherlands U21,Euro U21,32 ,2 ,0 ,2 ,0 ,2 ,2019/2020
+208670,Hakim Ziyech,"Mar 19, 1993",2018, Morocco,WC Qualification Africa,439 ,6 ,5 ,1 ,2 ,2 ,2018/2019
+208670,Hakim Ziyech,"Mar 19, 1993",2017, Netherlands U21,Euro U21,32 ,2 ,0 ,2 ,0 ,2 ,2017/2018
+209889,Raphaël Guerreiro,"Dec 22, 1993",2022/2023, Portugal,UEFA Nations League,180 ,2 ,2 ,0 ,0 ,1 ,2022/2023
+209889,Raphaël Guerreiro,"Dec 22, 1993",2022, Portugal,WC Qualification Europe,221 ,3 ,3 ,0 ,3 ,1 ,2022/2023
+209889,Raphaël Guerreiro,"Dec 22, 1993",2021, Portugal U21,Euro U21,180 ,2 ,2 ,0 ,0 ,2 ,2021/2022
+209889,Raphaël Guerreiro,"Dec 22, 1993",2020/2021, Portugal,UEFA Nations League,449 ,5 ,5 ,0 ,1 ,0 ,2020/2021
+209889,Raphaël Guerreiro,"Dec 22, 1993",2020, Portugal,European Championship,360 ,4 ,4 ,0 ,0 ,0 ,2020/2021
+209889,Raphaël Guerreiro,"Dec 22, 1993",2020, Portugal,Euro Qualification,630 ,7 ,7 ,0 ,0 ,1 ,2020/2021
+209889,Raphaël Guerreiro,"Dec 22, 1993",2019, Portugal U21,Euro U21,180 ,2 ,2 ,0 ,0 ,2 ,2019/2020
+209889,Raphaël Guerreiro,"Dec 22, 1993",2018/2019, Portugal,UEFA Nations League,180 ,4 ,3 ,1 ,1 ,1 ,2018/2019
+209889,Raphaël Guerreiro,"Dec 22, 1993",2018, Portugal,WC Qualification Europe,360 ,6 ,5 ,1 ,1 ,0 ,2018/2019
+209889,Raphaël Guerreiro,"Dec 22, 1993",2017, Portugal U21,Euro U21,180 ,2 ,2 ,0 ,0 ,2 ,2017/2018
+209889,Raphaël Guerreiro,"Dec 22, 1993",2017, Portugal,Confederations Cup,0 ,2 ,2 ,0 ,1 ,3 ,2017/2018
+209889,Raphaël Guerreiro,"Dec 22, 1993",2016, Portugal,Euro Qualification,90 ,1 ,1 ,0 ,0 ,1 ,2016/2017
+209889,Raphaël Guerreiro,"Dec 22, 1993",2016, Portugal,European Championship,450 ,5 ,5 ,0 ,0 ,0 ,2016/2017
+209889,Raphaël Guerreiro,"Dec 22, 1993",2012, Portugal,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+209889,Raphaël Guerreiro,"Dec 22, 1993",2008, Portugal,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+210243,Ricardo Barbosa Pereira,"Oct 6, 1993",2021, Portugal U21,Euro U21,305 ,6 ,3 ,3 ,3 ,3 ,2021/2022
+210243,Ricardo Barbosa Pereira,"Oct 6, 1993",2020, Portugal,Euro Qualification,180 ,2 ,2 ,0 ,0 ,2 ,2020/2021
+210243,Ricardo Barbosa Pereira,"Oct 6, 1993",2019, Portugal U21,Euro U21,305 ,6 ,3 ,3 ,3 ,3 ,2019/2020
+210243,Ricardo Barbosa Pereira,"Oct 6, 1993",2017, Portugal U21,Euro U21,305 ,6 ,3 ,3 ,3 ,3 ,2017/2018
+210935,Domenico Berardi,"Aug 1, 1994",2022, Italy,WC Qualification Europe,378 ,7 ,4 ,3 ,3 ,3 ,2022/2023
+210935,Domenico Berardi,"Aug 1, 1994",2020/2021, Italy,UEFA Nations League,205 ,4 ,2 ,2 ,2 ,4 ,2020/2021
+210935,Domenico Berardi,"Aug 1, 1994",2020, Italy,European Championship,382 ,6 ,3 ,3 ,3 ,3 ,2020/2021
+210935,Domenico Berardi,"Aug 1, 1994",2018/2019, Italy,UEFA Nations League,0 ,2 ,0 ,2 ,0 ,4 ,2018/2019
+210935,Domenico Berardi,"Aug 1, 1994",2017, Italy U21,Euro U21,90 ,1 ,1 ,0 ,1 ,0 ,2017/2018
+211688,José Luís Gayà Peña,"May 25, 1995",2022/2023, Spain,UEFA Nations League,90 ,1 ,1 ,0 ,0 ,1 ,2022/2023
+211688,José Luís Gayà Peña,"May 25, 1995",2022, Spain,WC Qualification Europe,254 ,3 ,3 ,0 ,1 ,4 ,2022/2023
+211688,José Luís Gayà Peña,"May 25, 1995",2020/2021, Spain,UEFA Nations League,270 ,3 ,3 ,0 ,0 ,2 ,2020/2021
+211688,José Luís Gayà Peña,"May 25, 1995",2020, Spain,European Championship,77 ,1 ,1 ,0 ,1 ,5 ,2020/2021
+211688,José Luís Gayà Peña,"May 25, 1995",2020, Spain,Euro Qualification,360 ,4 ,4 ,0 ,0 ,4 ,2020/2021
+211688,José Luís Gayà Peña,"May 25, 1995",2017, Spain U21,Euro U21,309 ,4 ,3 ,1 ,0 ,2 ,2017/2018
+211688,José Luís Gayà Peña,"May 25, 1995",2016, Spain,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+211688,José Luís Gayà Peña,"May 25, 1995",2012, Spain,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+211688,José Luís Gayà Peña,"May 25, 1995",2008, Spain,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+212188,Timo Werner,"Mar 6, 1996",2022/2023, Germany,UEFA Nations League,385 ,6 ,4 ,2 ,3 ,2 ,2022/2023
+212188,Timo Werner,"Mar 6, 1996",2022, Germany,WC Qualification Europe,469 ,8 ,5 ,3 ,2 ,3 ,2022/2023
+212188,Timo Werner,"Mar 6, 1996",2020/2021, Germany,UEFA Nations League,432 ,6 ,5 ,1 ,3 ,1 ,2020/2021
+212188,Timo Werner,"Mar 6, 1996",2020, Germany,European Championship,119 ,3 ,1 ,2 ,1 ,3 ,2020/2021
+212188,Timo Werner,"Mar 6, 1996",2020, Germany,Euro Qualification,245 ,5 ,3 ,2 ,3 ,5 ,2020/2021
+212188,Timo Werner,"Mar 6, 1996",2018/2019, Germany,UEFA Nations League,0 ,4 ,4 ,0 ,1 ,0 ,2018/2019
+212188,Timo Werner,"Mar 6, 1996",2018, Germany,WC Qualification Europe,179 ,3 ,2 ,1 ,2 ,1 ,2018/2019
+212188,Timo Werner,"Mar 6, 1996",2017, Germany U21,Euro U21,233 ,5 ,3 ,2 ,2 ,2 ,2017/2018
+212188,Timo Werner,"Mar 6, 1996",2017, Germany,Confederations Cup,0 ,4 ,3 ,1 ,1 ,2 ,2017/2018
+212188,Timo Werner,"Mar 6, 1996",2016, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+212188,Timo Werner,"Mar 6, 1996",2012, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+212188,Timo Werner,"Mar 6, 1996",2008, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+212616,Rodrigo Javier De Paul,"May 24, 1994",2022, Argentina,WC Qualification South America,1280 ,16 ,16 ,0 ,9 ,0 ,2022/2023
+212616,Rodrigo Javier De Paul,"May 24, 1994",2021, Argentina,Copa America,473 ,6 ,5 ,1 ,1 ,2 ,2021/2022
+212616,Rodrigo Javier De Paul,"May 24, 1994",2019, Argentina,Copa America,468 ,6 ,5 ,1 ,2 ,1 ,2019/2020
+213565,Thomas Lemar,"Nov 12, 1995",2022, France,WC Qualification Europe,226 ,3 ,3 ,0 ,2 ,2 ,2022/2023
+213565,Thomas Lemar,"Nov 12, 1995",2020/2021, France,UEFA Nations League,0 ,0 ,0 ,0 ,0 ,0 ,2020/2021
+213565,Thomas Lemar,"Nov 12, 1995",2020, France,European Championship,7 ,1 ,0 ,1 ,0 ,4 ,2020/2021
+213565,Thomas Lemar,"Nov 12, 1995",2020, France,Euro Qualification,162 ,7 ,1 ,6 ,1 ,9 ,2020/2021
+213565,Thomas Lemar,"Nov 12, 1995",2018, France,WC Qualification Europe,277 ,4 ,3 ,1 ,1 ,4 ,2018/2019
+213565,Thomas Lemar,"Nov 12, 1995",2017, France U21,Euro U21,418 ,6 ,4 ,2 ,2 ,2 ,2017/2018
+213565,Thomas Lemar,"Nov 12, 1995",2016, France,Euro Qualification,144 ,3 ,1 ,2 ,0 ,2 ,2016/2017
+213648,Pierre-Emile Højbjerg,"Aug 5, 1995",2022/2023, Denmark,UEFA Nations League,540 ,6 ,6 ,0 ,0 ,0 ,2022/2023
+213648,Pierre-Emile Højbjerg,"Aug 5, 1995",2022, Denmark,WC Qualification Europe,509 ,7 ,6 ,1 ,2 ,2 ,2022/2023
+213648,Pierre-Emile Højbjerg,"Aug 5, 1995",2020/2021, Denmark,UEFA Nations League,379 ,5 ,4 ,1 ,1 ,1 ,2020/2021
+213648,Pierre-Emile Højbjerg,"Aug 5, 1995",2020, Denmark,European Championship,540 ,6 ,6 ,0 ,0 ,0 ,2020/2021
+213648,Pierre-Emile Højbjerg,"Aug 5, 1995",2020, Denmark,Euro Qualification,429 ,8 ,3 ,5 ,1 ,5 ,2020/2021
+213648,Pierre-Emile Højbjerg,"Aug 5, 1995",2018, Denmark,WC Qualification Europe,270 ,5 ,3 ,2 ,0 ,1 ,2018/2019
+213648,Pierre-Emile Højbjerg,"Aug 5, 1995",2016, Denmark,Euro Qualification,665 ,9 ,8 ,1 ,2 ,2 ,2016/2017
+213648,Pierre-Emile Højbjerg,"Aug 5, 1995",2012, Denmark,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+214997,Ángel Correa,"Mar 9, 1995",2022, Argentina,WC Qualification South America,135 ,6 ,0 ,6 ,0 ,11 ,2022/2023
+214997,Ángel Correa,"Mar 9, 1995",2021, Argentina,Copa America,78 ,2 ,1 ,1 ,1 ,5 ,2021/2022
+214997,Ángel Correa,"Mar 9, 1995",2019, Argentina,Copa America,28 ,1 ,0 ,1 ,0 ,1 ,2019/2020
+214997,Ángel Correa,"Mar 9, 1995",2018, Argentina,WC Qualification South America,138 ,6 ,2 ,4 ,1 ,12 ,2018/2019
+214997,Ángel Correa,"Mar 9, 1995",2016, Argentina U23,Olympic Games,252 ,3 ,3 ,0 ,2 ,0 ,2016/2017
+253163,Ronald Araujo,"Mar 7, 1999",2022, Uruguay,WC Qualification South America,288 ,5 ,3 ,2 ,1 ,8 ,2022/2023
+253163,Ronald Araujo,"Mar 7, 1999",2021, Uruguay,Copa America,0 ,0 ,0 ,0 ,0 ,2 ,2021/2022
+205693,Sébastien Haller,"Jun 22, 1994",2022, Côte d'Ivoire,WC Qualification Africa,329 ,4 ,4 ,0 ,3 ,0 ,2022/2023
+205693,Sébastien Haller,"Jun 22, 1994",2021, France U21,Euro U21,199 ,5 ,2 ,3 ,2 ,3 ,2021/2022
+205693,Sébastien Haller,"Jun 22, 1994",2019, France U21,Euro U21,199 ,5 ,2 ,3 ,2 ,3 ,2019/2020
+205693,Sébastien Haller,"Jun 22, 1994",2017, France U21,Euro U21,199 ,5 ,2 ,3 ,2 ,3 ,2017/2018
+205988,Luke Shaw,"Jul 12, 1995",2022/2023, England,UEFA Nations League,108 ,2 ,1 ,1 ,0 ,1 ,2022/2023
+205988,Luke Shaw,"Jul 12, 1995",2022, England,WC Qualification Europe,360 ,4 ,4 ,0 ,0 ,3 ,2022/2023
+205988,Luke Shaw,"Jul 12, 1995",2020/2021, England,UEFA Nations League,0 ,0 ,0 ,0 ,0 ,0 ,2020/2021
+205988,Luke Shaw,"Jul 12, 1995",2020, England,European Championship,515 ,6 ,6 ,0 ,1 ,1 ,2020/2021
+205988,Luke Shaw,"Jul 12, 1995",2016, England,Euro Qualification,180 ,2 ,2 ,0 ,0 ,0 ,2016/2017
+205988,Luke Shaw,"Jul 12, 1995",2016, England,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+205988,Luke Shaw,"Jul 12, 1995",2012, England,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+208128,Hakan Çalhanoğlu,"Feb 8, 1994",2022/2023, Turkey,UEFA Nations League,288 ,4 ,4 ,0 ,3 ,0 ,2022/2023
+208128,Hakan Çalhanoğlu,"Feb 8, 1994",2022, Turkey,WC Qualification Europe,875 ,11 ,10 ,1 ,5 ,1 ,2022/2023
+208128,Hakan Çalhanoğlu,"Feb 8, 1994",2020/2021, Turkey,UEFA Nations League,446 ,5 ,5 ,0 ,2 ,1 ,2020/2021
+208128,Hakan Çalhanoğlu,"Feb 8, 1994",2020, Turkey,European Championship,266 ,3 ,3 ,0 ,1 ,0 ,2020/2021
+208128,Hakan Çalhanoğlu,"Feb 8, 1994",2020, Turkey,Euro Qualification,627 ,9 ,7 ,2 ,4 ,3 ,2020/2021
+208128,Hakan Çalhanoğlu,"Feb 8, 1994",2018/2019, Turkey,UEFA Nations League,0 ,4 ,4 ,0 ,1 ,0 ,2018/2019
+208128,Hakan Çalhanoğlu,"Feb 8, 1994",2018, Turkey,WC Qualification Europe,608 ,7 ,7 ,0 ,1 ,0 ,2018/2019
+208128,Hakan Çalhanoğlu,"Feb 8, 1994",2016, Turkey,Euro Qualification,451 ,7 ,5 ,2 ,2 ,2 ,2016/2017
+208128,Hakan Çalhanoğlu,"Feb 8, 1994",2016, Turkey,European Championship,136 ,2 ,2 ,0 ,1 ,1 ,2016/2017
+208333,Emre Can,"Jan 12, 1994",2022, Germany,WC Qualification Europe,270 ,3 ,3 ,0 ,0 ,0 ,2022/2023
+208333,Emre Can,"Jan 12, 1994",2021, Germany U21,Euro U21,197 ,3 ,2 ,1 ,1 ,1 ,2021/2022
+208333,Emre Can,"Jan 12, 1994",2020/2021, Germany,UEFA Nations League,123 ,4 ,1 ,3 ,0 ,3 ,2020/2021
+208333,Emre Can,"Jan 12, 1994",2020, Germany,European Championship,49 ,3 ,0 ,3 ,0 ,4 ,2020/2021
+208333,Emre Can,"Jan 12, 1994",2020, Germany,Euro Qualification,109 ,3 ,2 ,1 ,0 ,2 ,2020/2021
+208333,Emre Can,"Jan 12, 1994",2019, Germany U21,Euro U21,197 ,3 ,2 ,1 ,1 ,1 ,2019/2020
+208333,Emre Can,"Jan 12, 1994",2018, Germany,WC Qualification Europe,215 ,4 ,2 ,2 ,0 ,4 ,2018/2019
+208333,Emre Can,"Jan 12, 1994",2017, Germany U21,Euro U21,197 ,3 ,2 ,1 ,1 ,1 ,2017/2018
+208333,Emre Can,"Jan 12, 1994",2017, Germany,Confederations Cup,90 ,5 ,2 ,3 ,0 ,3 ,2017/2018
+208333,Emre Can,"Jan 12, 1994",2016, Germany,Euro Qualification,180 ,2 ,2 ,0 ,0 ,2 ,2016/2017
+208333,Emre Can,"Jan 12, 1994",2016, Germany,European Championship,67 ,1 ,1 ,0 ,1 ,5 ,2016/2017
+208333,Emre Can,"Jan 12, 1994",2013, Germany U21,Euro U21,20 ,1 ,0 ,1 ,0 ,3 ,2013/2014
+209981,Yassine Bounou,"Apr 5, 1991",2022, Morocco,WC Qualification Africa,673 ,8 ,8 ,0 ,1 ,0 ,2022/2023
+210315,Raúl De Tomás Gómez,"Oct 17, 1994",2022/2023, Spain,UEFA Nations League,84 ,2 ,1 ,1 ,1 ,1 ,2022/2023
+210315,Raúl De Tomás Gómez,"Oct 17, 1994",2022, Spain,WC Qualification Europe,116 ,2 ,2 ,0 ,2 ,0 ,2022/2023
+210406,Piotr Zieliński,"May 20, 1994",2022/2023, Poland,UEFA Nations League,503 ,6 ,6 ,0 ,2 ,0 ,2022/2023
+210406,Piotr Zieliński,"May 20, 1994",2022, Poland,WC Qualification Europe,557 ,7 ,6 ,1 ,4 ,2 ,2022/2023
+210406,Piotr Zieliński,"May 20, 1994",2021, Poland U21,Euro U21,176 ,2 ,2 ,0 ,1 ,0 ,2021/2022
+210406,Piotr Zieliński,"May 20, 1994",2020/2021, Poland,UEFA Nations League,277 ,4 ,3 ,1 ,3 ,1 ,2020/2021
+210406,Piotr Zieliński,"May 20, 1994",2020, Poland,European Championship,265 ,3 ,3 ,0 ,1 ,0 ,2020/2021
+210406,Piotr Zieliński,"May 20, 1994",2020, Poland,Euro Qualification,869 ,10 ,10 ,0 ,2 ,0 ,2020/2021
+210406,Piotr Zieliński,"May 20, 1994",2019, Poland U21,Euro U21,176 ,2 ,2 ,0 ,1 ,0 ,2019/2020
+210406,Piotr Zieliński,"May 20, 1994",2018/2019, Poland,UEFA Nations League,0 ,4 ,4 ,0 ,2 ,0 ,2018/2019
+210406,Piotr Zieliński,"May 20, 1994",2018, Poland,WC Qualification Europe,891 ,11 ,10 ,1 ,1 ,0 ,2018/2019
+210406,Piotr Zieliński,"May 20, 1994",2017, Poland U21,Euro U21,176 ,2 ,2 ,0 ,1 ,0 ,2017/2018
+210406,Piotr Zieliński,"May 20, 1994",2016, Poland,Euro Qualification,24 ,1 ,0 ,1 ,0 ,5 ,2016/2017
+210406,Piotr Zieliński,"May 20, 1994",2016, Poland,European Championship,46 ,1 ,1 ,0 ,1 ,4 ,2016/2017
+210406,Piotr Zieliński,"May 20, 1994",2014, Poland,Euro Qualification,0 ,3 ,2 ,1 ,3 ,3 ,2014/2015
+210406,Piotr Zieliński,"May 20, 1994",2012, Poland,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+210406,Piotr Zieliński,"May 20, 1994",2008, Poland,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+210035,Alejandro Grimaldo García,"Sep 20, 1995",2017, Spain U21,Euro U21,90 ,1 ,1 ,0 ,0 ,1 ,2017/2018
+210411,Otávio Edmilson da Silva Monteiro,"Feb 9, 1995",2022/2023, Portugal,UEFA Nations League,185 ,3 ,3 ,0 ,3 ,1 ,2022/2023
+210411,Otávio Edmilson da Silva Monteiro,"Feb 9, 1995",2022, Portugal,WC Qualification Europe,176 ,3 ,2 ,1 ,2 ,2 ,2022/2023
+210411,Otávio Edmilson da Silva Monteiro,"Feb 9, 1995",2016, Portugal,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+210411,Otávio Edmilson da Silva Monteiro,"Feb 9, 1995",2012, Portugal,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+210411,Otávio Edmilson da Silva Monteiro,"Feb 9, 1995",2008, Portugal,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+212194,Julian Brandt,"May 2, 1996",2022/2023, Germany,UEFA Nations League,12 ,1 ,0 ,1 ,0 ,4 ,2022/2023
+212194,Julian Brandt,"May 2, 1996",2022, Germany,WC Qualification Europe,30 ,1 ,0 ,1 ,0 ,2 ,2022/2023
+212194,Julian Brandt,"May 2, 1996",2020/2021, Germany,UEFA Nations League,64 ,2 ,0 ,2 ,0 ,6 ,2020/2021
+212194,Julian Brandt,"May 2, 1996",2020, Germany,Euro Qualification,308 ,6 ,3 ,3 ,1 ,5 ,2020/2021
+212194,Julian Brandt,"May 2, 1996",2018/2019, Germany,UEFA Nations League,0 ,2 ,0 ,2 ,0 ,4 ,2018/2019
+212194,Julian Brandt,"May 2, 1996",2018, Germany,WC Qualification Europe,241 ,3 ,3 ,0 ,3 ,6 ,2018/2019
+212194,Julian Brandt,"May 2, 1996",2017, Germany U21,Euro U21,372 ,7 ,5 ,2 ,5 ,2 ,2017/2018
+212194,Julian Brandt,"May 2, 1996",2017, Germany,Confederations Cup,0 ,3 ,1 ,2 ,1 ,4 ,2017/2018
+212194,Julian Brandt,"May 2, 1996",2016, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+212194,Julian Brandt,"May 2, 1996",2016, Germany U23,Olympic Games,540 ,6 ,6 ,0 ,0 ,0 ,2016/2017
+212194,Julian Brandt,"May 2, 1996",2012, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+212194,Julian Brandt,"May 2, 1996",2008, Germany,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+213661,Andreas Christensen,"Apr 10, 1996",2022/2023, Denmark,UEFA Nations League,360 ,4 ,4 ,0 ,0 ,0 ,2022/2023
+213661,Andreas Christensen,"Apr 10, 1996",2022, Denmark,WC Qualification Europe,810 ,9 ,9 ,0 ,0 ,1 ,2022/2023
+213661,Andreas Christensen,"Apr 10, 1996",2021, Denmark U21,Euro U21,630 ,7 ,7 ,0 ,0 ,0 ,2021/2022
+213661,Andreas Christensen,"Apr 10, 1996",2020/2021, Denmark,UEFA Nations League,406 ,5 ,5 ,0 ,1 ,0 ,2020/2021
+213661,Andreas Christensen,"Apr 10, 1996",2020, Denmark,European Championship,520 ,6 ,6 ,0 ,2 ,0 ,2020/2021
+213661,Andreas Christensen,"Apr 10, 1996",2020, Denmark,Euro Qualification,465 ,7 ,5 ,2 ,1 ,3 ,2020/2021
+213661,Andreas Christensen,"Apr 10, 1996",2019, Denmark U21,Euro U21,630 ,7 ,7 ,0 ,0 ,0 ,2019/2020
+213661,Andreas Christensen,"Apr 10, 1996",2018/2019, Denmark,UEFA Nations League,90 ,2 ,1 ,1 ,0 ,3 ,2018/2019
+213661,Andreas Christensen,"Apr 10, 1996",2018, Denmark,WC Qualification Europe,540 ,6 ,6 ,0 ,0 ,5 ,2018/2019
+213661,Andreas Christensen,"Apr 10, 1996",2017, Denmark U21,Euro U21,180 ,2 ,2 ,0 ,0 ,0 ,2017/2018
+213661,Andreas Christensen,"Apr 10, 1996",2016, Denmark,Euro Qualification,13 ,1 ,0 ,1 ,0 ,5 ,2016/2017
+213661,Andreas Christensen,"Apr 10, 1996",2012, Denmark,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+216354,Andrej Kramarić,"Jun 19, 1991",2022/2023, Croatia,UEFA Nations League,251 ,6 ,3 ,3 ,3 ,3 ,2022/2023
+216354,Andrej Kramarić,"Jun 19, 1991",2022, Croatia,WC Qualification Europe,573 ,9 ,7 ,2 ,7 ,2 ,2022/2023
+216354,Andrej Kramarić,"Jun 19, 1991",2020/2021, Croatia,UEFA Nations League,189 ,4 ,2 ,2 ,1 ,2 ,2020/2021
+216354,Andrej Kramarić,"Jun 19, 1991",2020, Croatia,European Championship,229 ,4 ,2 ,2 ,2 ,2 ,2020/2021
+216354,Andrej Kramarić,"Jun 19, 1991",2020, Croatia,Euro Qualification,270 ,3 ,3 ,0 ,0 ,0 ,2020/2021
+216354,Andrej Kramarić,"Jun 19, 1991",2018/2019, Croatia,UEFA Nations League,0 ,3 ,3 ,0 ,1 ,0 ,2018/2019
+216354,Andrej Kramarić,"Jun 19, 1991",2018, Croatia,WC Qualification Europe,463 ,9 ,5 ,4 ,6 ,6 ,2018/2019
+216354,Andrej Kramarić,"Jun 19, 1991",2016, Croatia,Euro Qualification,175 ,6 ,1 ,5 ,1 ,9 ,2016/2017
+216354,Andrej Kramarić,"Jun 19, 1991",2016, Croatia,European Championship,3 ,1 ,0 ,1 ,0 ,4 ,2016/2017
+216354,Andrej Kramarić,"Jun 19, 1991",2012, Croatia,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+216354,Andrej Kramarić,"Jun 19, 1991",2008, Croatia,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+216547,Rafael A. Ferreira Silva,"May 17, 1993",2022, Portugal,WC Qualification Europe,95 ,3 ,1 ,2 ,1 ,4 ,2022/2023
+216547,Rafael A. Ferreira Silva,"May 17, 1993",2021, Portugal U21,Euro U21,328 ,4 ,4 ,0 ,2 ,0 ,2021/2022
+216547,Rafael A. Ferreira Silva,"May 17, 1993",2020/2021, Portugal,UEFA Nations League,2 ,1 ,0 ,1 ,0 ,1 ,2020/2021
+216547,Rafael A. Ferreira Silva,"May 17, 1993",2020, Portugal,European Championship,60 ,2 ,0 ,2 ,0 ,3 ,2020/2021
+216547,Rafael A. Ferreira Silva,"May 17, 1993",2020, Portugal,Euro Qualification,146 ,3 ,1 ,2 ,1 ,3 ,2020/2021
+216547,Rafael A. Ferreira Silva,"May 17, 1993",2019, Portugal U21,Euro U21,328 ,4 ,4 ,0 ,2 ,0 ,2019/2020
+216547,Rafael A. Ferreira Silva,"May 17, 1993",2018/2019, Portugal,UEFA Nations League,15 ,3 ,2 ,1 ,2 ,3 ,2018/2019
+216547,Rafael A. Ferreira Silva,"May 17, 1993",2017, Portugal U21,Euro U21,328 ,4 ,4 ,0 ,2 ,0 ,2017/2018
+216547,Rafael A. Ferreira Silva,"May 17, 1993",2016, Portugal,European Championship,1 ,1 ,0 ,1 ,0 ,7 ,2016/2017
+219693,Diego Carlos Santos Silva,"Mar 15, 1993",2022, Brazil,WC Qualification South America,0 ,0 ,0 ,0 ,0 ,2 ,2022/2023
+219693,Diego Carlos Santos Silva,"Mar 15, 1993",2020, Brazil U23,Olympic Games,540 ,6 ,6 ,0 ,0 ,0 ,2020/2021
+220697,James Maddison,"Nov 23, 1996",2020, England,Euro Qualification,34 ,1 ,0 ,1 ,0 ,4 ,2020/2021
+220697,James Maddison,"Nov 23, 1996",2019, England U21,Euro U21,415 ,6 ,5 ,1 ,3 ,2 ,2019/2020
+220697,James Maddison,"Nov 23, 1996",2017, England U21,Euro U21,76 ,1 ,1 ,0 ,1 ,0 ,2017/2018
+217870,Giovanni Di Lorenzo,"Aug 4, 1993",2022/2023, Italy,UEFA Nations League,270 ,3 ,3 ,0 ,1 ,2 ,2022/2023
+217870,Giovanni Di Lorenzo,"Aug 4, 1993",2022, Italy,WC Qualification Europe,382 ,5 ,4 ,1 ,0 ,3 ,2022/2023
+217870,Giovanni Di Lorenzo,"Aug 4, 1993",2021, Italy U21,Euro U21,180 ,2 ,2 ,0 ,0 ,0 ,2021/2022
+217870,Giovanni Di Lorenzo,"Aug 4, 1993",2020/2021, Italy,UEFA Nations League,225 ,4 ,2 ,2 ,0 ,4 ,2020/2021
+217870,Giovanni Di Lorenzo,"Aug 4, 1993",2020, Italy,European Championship,497 ,6 ,5 ,1 ,0 ,2 ,2020/2021
+217870,Giovanni Di Lorenzo,"Aug 4, 1993",2020, Italy,Euro Qualification,180 ,2 ,2 ,0 ,0 ,1 ,2020/2021
+217870,Giovanni Di Lorenzo,"Aug 4, 1993",2019, Italy U21,Euro U21,180 ,2 ,2 ,0 ,0 ,0 ,2019/2020
+217870,Giovanni Di Lorenzo,"Aug 4, 1993",2017, Italy U21,Euro U21,180 ,2 ,2 ,0 ,0 ,0 ,2017/2018
+217870,Giovanni Di Lorenzo,"Aug 4, 1993",2016, Italy,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+217870,Giovanni Di Lorenzo,"Aug 4, 1993",2012, Italy,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+217870,Giovanni Di Lorenzo,"Aug 4, 1993",2008, Italy,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+220018,Ante Rebić,"Sep 21, 1993",2020/2021, Croatia,UEFA Nations League,136 ,2 ,2 ,0 ,1 ,0 ,2020/2021
+220018,Ante Rebić,"Sep 21, 1993",2020, Croatia,European Championship,203 ,4 ,3 ,1 ,3 ,1 ,2020/2021
+220018,Ante Rebić,"Sep 21, 1993",2020, Croatia,Euro Qualification,414 ,7 ,5 ,2 ,4 ,2 ,2020/2021
+220018,Ante Rebić,"Sep 21, 1993",2018/2019, Croatia,UEFA Nations League,0 ,3 ,3 ,0 ,3 ,0 ,2018/2019
+220018,Ante Rebić,"Sep 21, 1993",2018, Croatia,WC Qualification Europe,18 ,2 ,0 ,2 ,0 ,2 ,2018/2019
+220018,Ante Rebić,"Sep 21, 1993",2016, Croatia,Euro Qualification,44 ,1 ,0 ,1 ,0 ,4 ,2016/2017
+220018,Ante Rebić,"Sep 21, 1993",2014, Croatia,WC Qualification Europe,18 ,2 ,0 ,2 ,0 ,3 ,2014/2015
+221479,Dominic Calvert-Lewin,"Mar 16, 1997",2022, England,WC Qualification Europe,68 ,2 ,1 ,1 ,1 ,2 ,2022/2023
+221479,Dominic Calvert-Lewin,"Mar 16, 1997",2020/2021, England,UEFA Nations League,110 ,3 ,1 ,2 ,1 ,3 ,2020/2021
+221479,Dominic Calvert-Lewin,"Mar 16, 1997",2020, England,European Championship,17 ,2 ,0 ,2 ,0 ,5 ,2020/2021
+221479,Dominic Calvert-Lewin,"Mar 16, 1997",2019, England U21,Euro U21,657 ,12 ,7 ,5 ,6 ,6 ,2019/2020
+221479,Dominic Calvert-Lewin,"Mar 16, 1997",2017, England U21,Euro U21,152 ,4 ,2 ,2 ,3 ,1 ,2017/2018
+221992,Hirving Lozano,"Jul 30, 1995",2022, Mexico,WC Qualification Concacaf,741 ,10 ,9 ,1 ,5 ,1 ,2022/2023
+221992,Hirving Lozano,"Jul 30, 1995",2021, Mexico,CONCACAF Gold Cup,18 ,1 ,1 ,0 ,1 ,0 ,2021/2022
+221992,Hirving Lozano,"Jul 30, 1995",2018, Mexico,WC Qualification Concacaf,420 ,9 ,3 ,6 ,1 ,7 ,2018/2019
+221992,Hirving Lozano,"Jul 30, 1995",2017, Mexico,Confederations Cup,0 ,3 ,1 ,2 ,0 ,4 ,2017/2018
+221992,Hirving Lozano,"Jul 30, 1995",2016, Mexico U23,Olympic Games,219 ,3 ,2 ,1 ,2 ,1 ,2016/2017
+221992,Hirving Lozano,"Jul 30, 1995",2016, Mexico,Copa America,198 ,4 ,2 ,2 ,1 ,2 ,2016/2017
+224081,Kalvin Phillips,"Dec 2, 1995",2022/2023, England,UEFA Nations League,148 ,4 ,2 ,2 ,1 ,2 ,2022/2023
+224081,Kalvin Phillips,"Dec 2, 1995",2022, England,WC Qualification Europe,540 ,7 ,7 ,0 ,3 ,1 ,2022/2023
+224081,Kalvin Phillips,"Dec 2, 1995",2020/2021, England,UEFA Nations League,195 ,3 ,2 ,1 ,1 ,2 ,2020/2021
+224081,Kalvin Phillips,"Dec 2, 1995",2020, England,European Championship,605 ,7 ,7 ,0 ,1 ,0 ,2020/2021
+224081,Kalvin Phillips,"Dec 2, 1995",2016, England,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+224081,Kalvin Phillips,"Dec 2, 1995",2012, England,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+224411,Gonçalo Manuel Ganchinho Guedes,"Nov 29, 1996",2022/2023, Portugal,UEFA Nations League,167 ,3 ,1 ,2 ,1 ,2 ,2022/2023
+224411,Gonçalo Manuel Ganchinho Guedes,"Nov 29, 1996",2022, Portugal,WC Qualification Europe,86 ,4 ,1 ,3 ,1 ,6 ,2022/2023
+224411,Gonçalo Manuel Ganchinho Guedes,"Nov 29, 1996",2020/2021, Portugal,UEFA Nations League,68 ,1 ,0 ,1 ,0 ,2 ,2020/2021
+224411,Gonçalo Manuel Ganchinho Guedes,"Nov 29, 1996",2020, Portugal,European Championship,0 ,0 ,0 ,0 ,0 ,1 ,2020/2021
+224411,Gonçalo Manuel Ganchinho Guedes,"Nov 29, 1996",2020, Portugal,Euro Qualification,146 ,5 ,2 ,3 ,2 ,3 ,2020/2021
+224411,Gonçalo Manuel Ganchinho Guedes,"Nov 29, 1996",2019, Portugal U21,Euro U21,90 ,1 ,1 ,0 ,1 ,0 ,2019/2020
+224411,Gonçalo Manuel Ganchinho Guedes,"Nov 29, 1996",2018/2019, Portugal,UEFA Nations League,95 ,2 ,1 ,1 ,1 ,4 ,2018/2019
+224411,Gonçalo Manuel Ganchinho Guedes,"Nov 29, 1996",2017, Portugal U21,Euro U21,90 ,1 ,1 ,0 ,0 ,1 ,2017/2018
+224411,Gonçalo Manuel Ganchinho Guedes,"Nov 29, 1996",2016, Portugal,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2016/2017
+224411,Gonçalo Manuel Ganchinho Guedes,"Nov 29, 1996",2012, Portugal,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2012/2013
+224411,Gonçalo Manuel Ganchinho Guedes,"Nov 29, 1996",2008, Portugal,European Championship,0 ,0 ,0 ,0 ,0 ,0 ,2008/2009
+225100,Joe Gomez,"May 23, 1997",2020/2021, England,UEFA Nations League,180 ,2 ,2 ,0 ,0 ,1 ,2020/2021
+225100,Joe Gomez,"May 23, 1997",2020, England,Euro Qualification,20 ,1 ,0 ,1 ,0 ,5 ,2020/2021
+225100,Joe Gomez,"May 23, 1997",2019, England U21,Euro U21,270 ,3 ,3 ,0 ,0 ,1 ,2019/2020
+225100,Joe Gomez,"May 23, 1997",2018/2019, England,UEFA Nations League,90 ,4 ,4 ,0 ,0 ,2 ,2018/2019
+225100,Joe Gomez,"May 23, 1997",2017, England U21,Euro U21,170 ,2 ,2 ,0 ,1 ,0 ,2017/2018
+226491,Kieran Tierney,"Jun 5, 1997",2022/2023, Scotland,UEFA Nations League,127 ,2 ,2 ,0 ,2 ,0 ,2022/2023
+226491,Kieran Tierney,"Jun 5, 1997",2022, Scotland,WC Qualification Europe,886 ,10 ,10 ,0 ,2 ,0 ,2022/2023
+226491,Kieran Tierney,"Jun 5, 1997",2020/2021, Scotland,UEFA Nations League,270 ,3 ,3 ,0 ,0 ,1 ,2020/2021
+226491,Kieran Tierney,"Jun 5, 1997",2020, Scotland,European Championship,180 ,2 ,2 ,0 ,0 ,0 ,2020/2021
+226491,Kieran Tierney,"Jun 5, 1997",2020, Scotland,Euro Qualification,90 ,1 ,1 ,0 ,0 ,0 ,2020/2021
+226491,Kieran Tierney,"Jun 5, 1997",2018/2019, Scotland,UEFA Nations League,0 ,2 ,2 ,0 ,0 ,0 ,2018/2019
+226491,Kieran Tierney,"Jun 5, 1997",2018, Scotland,WC Qualification Europe,612 ,7 ,7 ,0 ,2 ,1 ,2018/2019
+226754,Ismaël Bennacer,"Dec 1, 1997",2022, Algeria,WC Qualification Africa,592 ,8 ,8 ,0 ,6 ,0 ,2022/2023
+226754,Ismaël Bennacer,"Dec 1, 1997",2018, Algeria,WC Qualification Africa,106 ,2 ,1 ,1 ,1 ,2 ,2018/2019
+227928,Nélson Cabral Semedo,"Nov 16, 1993",2022, Portugal,WC Qualification Europe,90 ,1 ,1 ,0 ,0 ,4 ,2022/2023
+227928,Nélson Cabral Semedo,"Nov 16, 1993",2020/2021, Portugal,UEFA Nations League,180 ,2 ,2 ,0 ,0 ,4 ,2020/2021
+227928,Nélson Cabral Semedo,"Nov 16, 1993",2020, Portugal,European Championship,259 ,3 ,3 ,0 ,1 ,1 ,2020/2021
+227928,Nélson Cabral Semedo,"Nov 16, 1993",2020, Portugal,Euro Qualification,245 ,3 ,3 ,0 ,1 ,2 ,2020/2021
+227928,Nélson Cabral Semedo,"Nov 16, 1993",2018/2019, Portugal,UEFA Nations League,180 ,2 ,2 ,0 ,0 ,0 ,2018/2019
+227928,Nélson Cabral Semedo,"Nov 16, 1993",2018, Portugal,WC Qualification Europe,109 ,2 ,1 ,1 ,0 ,6 ,2018/2019
+227928,Nélson Cabral Semedo,"Nov 16, 1993",2017, Portugal,Confederations Cup,180 ,3 ,3 ,0 ,0 ,2 ,2017/2018
+227928,Nélson Cabral Semedo,"Nov 16, 1993",2016, Portugal,Euro Qualification,90 ,1 ,1 ,0 ,0 ,1 ,2016/2017

@@ -1,0 +1,202 @@
+ID,BirthDate,Name,From,To,ID_From,ID_To,Date,Prix,Nature
+175943,"May 6, 1987",Dries Mertens,Napoli,Galatasaray,/team/48/napoli/,/team/325/galatasaray/,"Aug 8, 2022",free,transfert
+175943,"May 6, 1987",Dries Mertens,PSV,Napoli,/team/247/psv/,/team/48/napoli/,"Jul 1, 2013",€ 9M,transfert
+175943,"May 6, 1987",Dries Mertens,FC Utrecht,PSV,/team/1903/fc-utrecht/,/team/247/psv/,"Jul 1, 2011",€ 5.5M,transfert
+175943,"May 6, 1987",Dries Mertens, AGOVV,FC Utrecht,,/team/1903/fc-utrecht/,"Jul 1, 2009",€ 600K,transfert
+207863,"May 16, 1989",Felipe Augusto de Almeida Monteiro,Porto,Atlético Madrid,/team/236/porto/,/team/240/atletico-madrid/,"Jul 1, 2019",€ 20M,transfert
+152729,"Feb 2, 1987",Gerard Piqué Bernabeu,Manchester United,FC Barcelona,/team/11/manchester-united/,/team/241/fc-barcelona/,"Jul 1, 2008",€ 5M,transfert
+143076,"Feb 15, 1988",Alejandro Gómez, Metalist,Atalanta,,/team/39/atalanta/,"Sep 1, 2014",n/a,transfert
+143076,"Feb 15, 1988",Alejandro Gómez,Catania, Metalist,/team/110364/catania/,,"Aug 2, 2013",€ 7M,transfert
+207863,"May 16, 1989",Felipe Augusto de Almeida Monteiro,Corinthians,Porto,/team/1041/corinthians/,/team/236/porto/,"Jul 1, 2016",€ 6.2M,transfert
+207863,"May 16, 1989",Felipe Augusto de Almeida Monteiro,Bragantino,Corinthians,/team/112472/bragantino/,/team/1041/corinthians/,"Dec 8, 2011",n/a,transfert
+152729,"Feb 2, 1987",Gerard Piqué Bernabeu,Manchester United,Real Zaragoza,/team/11/manchester-united/,/team/244/real-zaragoza/,"Aug 4, 2006",loan,loan
+143076,"Feb 15, 1988",Alejandro Gómez,San Lorenzo,Catania,/team/1013/san-lorenzo/,/team/110364/catania/,"Jul 1, 2010",€ 2.5M,transfert
+143076,"Feb 15, 1988",Alejandro Gómez,Arsenal de Sarandi,San Lorenzo,/team/110394/arsenal-de-sarandi/,/team/1013/san-lorenzo/,"Jan 6, 2009",€ 1.6M,transfert
+146536,"Nov 21, 1985",Jesús Navas González,Manchester City,Sevilla,/team/10/manchester-city/,/team/481/sevilla/,"Aug 1, 2017",free,transfert
+199845,"Feb 10, 1988",Francesco Acerbi,Inter,Lazio,/team/44/inter/,/team/46/lazio/,"Jul 1, 2023",n/a,transfert
+199845,"Feb 10, 1988",Francesco Acerbi,Lazio,Inter,/team/46/lazio/,/team/44/inter/,"Sep 1, 2022",loan,loan
+146536,"Nov 21, 1985",Jesús Navas González,Sevilla,Manchester City,/team/481/sevilla/,/team/10/manchester-city/,"Jul 1, 2013",€ 20M,transfert
+168542,"Jan 8, 1986",David Josué Jiménez Silva,Manchester City,Real Sociedad,/team/10/manchester-city/,/team/457/real-sociedad/,"Aug 17, 2020",n/a,transfert
+199845,"Feb 10, 1988",Francesco Acerbi,Sassuolo,Lazio,/team/111974/sassuolo/,/team/46/lazio/,"Jul 11, 2018",€ 10M,transfert
+199845,"Feb 10, 1988",Francesco Acerbi,Genoa,Sassuolo,/team/110556/genoa/,/team/111974/sassuolo/,"Jul 8, 2013",€ 1.7M,transfert
+199845,"Feb 10, 1988",Francesco Acerbi,Chievo,Genoa,/team/192/chievo/,/team/110556/genoa/,"Jul 1, 2013",n/a,transfert
+199845,"Feb 10, 1988",Francesco Acerbi,Genoa,Chievo,/team/110556/genoa/,/team/192/chievo/,"Jan 31, 2013",loan,loan
+199845,"Feb 10, 1988",Francesco Acerbi,Milan,Genoa,/team/47/milan/,/team/110556/genoa/,"Jan 26, 2013",€ 4M,transfert
+199845,"Feb 10, 1988",Francesco Acerbi,Chievo,Milan,/team/192/chievo/,/team/47/milan/,"Jul 1, 2012",€ 4M,transfert
+184134,"Jul 25, 1987",Fernando Reges Mouta,Galatasaray,Sevilla,/team/325/galatasaray/,/team/481/sevilla/,"Jul 12, 2019",€ 4.5M,transfert
+168542,"Jan 8, 1986",David Josué Jiménez Silva,Valencia,Manchester City,/team/461/valencia/,/team/10/manchester-city/,"Jul 1, 2010",€ 28.8M,transfert
+168542,"Jan 8, 1986",David Josué Jiménez Silva,Valencia,Celta de Vigo,/team/461/valencia/,/team/450/celta-de-vigo/,"Aug 1, 2005",loan,loan
+168542,"Jan 8, 1986",David Josué Jiménez Silva,Valencia,SD Eibar,/team/461/valencia/,/team/467/sd-eibar/,"Aug 1, 2004",loan,loan
+199845,"Feb 10, 1988",Francesco Acerbi,Genoa,Chievo,/team/110556/genoa/,/team/192/chievo/,"Jul 4, 2011",€ 2M,transfert
+199845,"Feb 10, 1988",Francesco Acerbi,Reggina,Genoa,/team/203/reggina/,/team/110556/genoa/,"Jul 1, 2011",n/a,transfert
+199845,"Feb 10, 1988",Francesco Acerbi, Pavia,Reggina,,/team/203/reggina/,"Jul 1, 2010",n/a,transfert
+184134,"Jul 25, 1987",Fernando Reges Mouta,Manchester City,Galatasaray,/team/10/manchester-city/,/team/325/galatasaray/,"Aug 10, 2017",€ 4.5M,transfert
+184134,"Jul 25, 1987",Fernando Reges Mouta,Porto,Manchester City,/team/236/porto/,/team/10/manchester-city/,"Jul 1, 2014",€ 15M,transfert
+184134,"Jul 25, 1987",Fernando Reges Mouta,Porto,Porto,/team/236/porto/,/team/236/porto/,"Aug 1, 2007",loan,loan
+184134,"Jul 25, 1987",Fernando Reges Mouta, Vila Nova,Porto,,/team/236/porto/,"Jul 1, 2007",€ 720K,transfert
+189332,"Mar 21, 1989",Jordi Alba Ramos,Valencia,FC Barcelona,/team/461/valencia/,/team/241/fc-barcelona/,"Jul 1, 2012",€ 14M,transfert
+155862,"Mar 30, 1986",Sergio Ramos García,Real Madrid,Paris Saint Germain,/team/243/real-madrid/,/team/73/paris-saint-germain/,"Jul 8, 2021",free,transfert
+178603,"Dec 16, 1988",Mats Hummels,FC Bayern München,Borussia Dortmund,/team/21/fc-bayern-munchen/,/team/22/borussia-dortmund/,"Jul 1, 2019",€ 30.5M,transfert
+189332,"Mar 21, 1989",Jordi Alba Ramos,Valencia,Gimnàstic Tarragona,/team/461/valencia/,/team/15019/gimnastic-tarragona/,"Jul 5, 2008",loan,loan
+155862,"Mar 30, 1986",Sergio Ramos García,Sevilla,Real Madrid,/team/481/sevilla/,/team/243/real-madrid/,"Sep 1, 2005",€ 27M,transfert
+178603,"Dec 16, 1988",Mats Hummels,Borussia Dortmund,FC Bayern München,/team/22/borussia-dortmund/,/team/21/fc-bayern-munchen/,"Jul 1, 2016",€ 35M,transfert
+178603,"Dec 16, 1988",Mats Hummels,FC Bayern München,Borussia Dortmund,/team/21/fc-bayern-munchen/,/team/22/borussia-dortmund/,"Jan 4, 2008",€ 4.2M,transfert
+138956,"Aug 14, 1984",Giorgio Chiellini,Juventus,Los Angeles FC,/team/45/juventus/,/team/112996/los-angeles-fc/,"Jul 7, 2022", n/a,transfert
+180930,"Mar 17, 1986",Edin Džeko,Roma,Inter,/team/52/roma/,/team/44/inter/,"Aug 13, 2021",n/a,transfert
+138956,"Aug 14, 1984",Giorgio Chiellini,Fiorentina,Juventus,/team/110374/fiorentina/,/team/45/juventus/,"Aug 1, 2005",€ 4.3M,transfert
+138956,"Aug 14, 1984",Giorgio Chiellini,Juventus,Fiorentina,/team/45/juventus/,/team/110374/fiorentina/,"Aug 1, 2004",€ 3.5M,transfert
+138956,"Aug 14, 1984",Giorgio Chiellini,Livorno,Juventus,/team/1844/livorno/,/team/45/juventus/,"Jul 1, 2004",€ 6.5M,transfert
+180930,"Mar 17, 1986",Edin Džeko,Manchester City,Roma,/team/10/manchester-city/,/team/52/roma/,"Jul 1, 2016",€ 11M,transfert
+180930,"Mar 17, 1986",Edin Džeko,Manchester City,Roma,/team/10/manchester-city/,/team/52/roma/,"Aug 12, 2015",loan,loan
+180930,"Mar 17, 1986",Edin Džeko,VfL Wolfsburg,Manchester City,/team/175/vfl-wolfsburg/,/team/10/manchester-city/,"Jan 7, 2011",€ 32M,transfert
+180930,"Mar 17, 1986",Edin Džeko,Teplice,VfL Wolfsburg,/team/813/teplice/,/team/175/vfl-wolfsburg/,"Jul 1, 2007",€ 4M,transfert
+180930,"Mar 17, 1986",Edin Džeko, Zeljeznicar,Teplice,,/team/813/teplice/,"Jul 1, 2005",€ 80K,transfert
+192629,"Aug 1, 1987",Iago Aspas Juncal,Sevilla,Celta de Vigo,/team/481/sevilla/,/team/450/celta-de-vigo/,"Jul 7, 2015",€ 5.3M,transfert
+192629,"Aug 1, 1987",Iago Aspas Juncal,Liverpool,Sevilla,/team/9/liverpool/,/team/481/sevilla/,"Jul 1, 2015",€ 6M,transfert
+199434,"Nov 20, 1988",Dušan Tadić,Southampton,Ajax,/team/17/southampton/,/team/245/ajax/,"Jul 3, 2018",€ 11.4M,transfert
+192629,"Aug 1, 1987",Iago Aspas Juncal,Liverpool,Sevilla,/team/9/liverpool/,/team/481/sevilla/,"Jul 15, 2014",loan,loan
+192629,"Aug 1, 1987",Iago Aspas Juncal,Celta de Vigo,Liverpool,/team/450/celta-de-vigo/,/team/9/liverpool/,"Jul 1, 2013",€ 8.2M,transfert
+199434,"Nov 20, 1988",Dušan Tadić,FC Twente,Southampton,/team/1908/fc-twente/,/team/17/southampton/,"Jul 8, 2014",€ 14M,transfert
+199434,"Nov 20, 1988",Dušan Tadić,FC Groningen,FC Twente,/team/1915/fc-groningen/,/team/1908/fc-twente/,"Jul 1, 2012",€ 7.7M,transfert
+199434,"Nov 20, 1988",Dušan Tadić, Vojvodina,FC Groningen,,/team/1915/fc-groningen/,"Jul 1, 2010",€ 1.1M,transfert
+135507,"May 4, 1985",Fernando Luiz Rosa,Manchester City,Athletico PR,/team/10/manchester-city/,/team/1039/athletico-pr/,"Jul 18, 2022",free,transfert
+135507,"May 4, 1985",Fernando Luiz Rosa,Manchester City,Athletico PR,/team/10/manchester-city/,/team/1039/athletico-pr/,"Jul 1, 2022",free,transfert
+135507,"May 4, 1985",Fernando Luiz Rosa,Shakhtar Donetsk,Manchester City,/team/101059/shakhtar-donetsk/,/team/10/manchester-city/,"Jul 1, 2013",€ 40M,transfert
+153244,"Dec 5, 1985",André-Pierre Gignac,Olympique Marseille,Tigres UANL,/team/219/olympique-marseille/,/team/1970/tigres-uanl/,"Jun 20, 2015",free,transfert
+153244,"Dec 5, 1985",André-Pierre Gignac,Toulouse,Olympique Marseille,/team/1809/toulouse/,/team/219/olympique-marseille/,"Aug 16, 2010",€ 16M,transfert
+153244,"Dec 5, 1985",André-Pierre Gignac,Lorient,Toulouse,/team/217/lorient/,/team/1809/toulouse/,"Aug 1, 2007",€ 4.5M,transfert
+50632,"Jan 3, 1982",Peter Clarke,Walsall,Oldham Athletic,/team/1803/walsall/,/team/1920/oldham-athletic/,"Nov 11, 2022",free,transfert
+50632,"Jan 3, 1982",Peter Clarke,Tranmere Rovers,Walsall,/team/15048/tranmere-rovers/,/team/1803/walsall/,"Jul 1, 2022",free,transfert
+50632,"Jan 3, 1982",Peter Clarke,Fleetwood Town,Tranmere Rovers,/team/112260/fleetwood-town/,/team/15048/tranmere-rovers/,"Jan 1, 2020",free,transfert
+50632,"Jan 3, 1982",Peter Clarke,Oldham Athletic,Fleetwood Town,/team/1920/oldham-athletic/,/team/112260/fleetwood-town/,"Aug 1, 2019",free,transfert
+50632,"Jan 3, 1982",Peter Clarke,Bury,Oldham Athletic,/team/1945/bury/,/team/1920/oldham-athletic/,"Jul 1, 2018",n/a,transfert
+50632,"Jan 3, 1982",Peter Clarke,Oldham Athletic,Bury,/team/1920/oldham-athletic/,/team/1945/bury/,"Jan 3, 2018",loan,loan
+50632,"Jan 3, 1982",Peter Clarke,Bury,Oldham Athletic,/team/1945/bury/,/team/1920/oldham-athletic/,"Jul 20, 2016",free,transfert
+50632,"Jan 3, 1982",Peter Clarke,Blackpool,Bury,/team/1926/blackpool/,/team/1945/bury/,"Jul 1, 2015",free,transfert
+50632,"Jan 3, 1982",Peter Clarke,Huddersfield Town,Blackpool,/team/1939/huddersfield-town/,/team/1926/blackpool/,"Jul 28, 2014",free,transfert
+50632,"Jan 3, 1982",Peter Clarke,Southend United,Huddersfield Town,/team/1954/southend-united/,/team/1939/huddersfield-town/,"Jul 1, 2009",free,transfert
+23823,"Mar 10, 1982",Andreas Johansson,Norrköping,Halmstad,/team/702/norrkoping/,/team/321/halmstad/,"Jan 8, 2019",free,transfert
+23823,"Mar 10, 1982",Andreas Johansson,VfL Bochum 1848,Norrköping,/team/160/vfl-bochum-1848/,/team/702/norrkoping/,"Jan 23, 2012",€ 200K,transfert
+157481,"Sep 4, 1985",Raúl Albiol Tortajada,Napoli,Villarreal,/team/48/napoli/,/team/483/villarreal/,"Jul 4, 2019",€ 4M,transfert
+110606,"May 19, 1982",Alan Mannus,St. Johnstone,Shamrock Rovers,/team/100804/st-johnstone/,/team/306/shamrock-rovers/,"Jul 1, 2018",n/a,transfert
+110606,"May 19, 1982",Alan Mannus,Shamrock Rovers,St. Johnstone,/team/306/shamrock-rovers/,/team/100804/st-johnstone/,"Jul 21, 2011",free,transfert
+181872,"May 22, 1987",Arturo Vidal,Inter,Flamengo,/team/44/inter/,/team/1043/flamengo/,"Jul 14, 2022",free,transfert
+178509,"Sep 30, 1986",Olivier Giroud,Chelsea,Milan,/team/5/chelsea/,/team/47/milan/,"Jul 17, 2021",€ 1M,transfert
+157481,"Sep 4, 1985",Raúl Albiol Tortajada,Real Madrid,Napoli,/team/243/real-madrid/,/team/48/napoli/,"Jul 21, 2013",€ 12M,transfert
+157481,"Sep 4, 1985",Raúl Albiol Tortajada,Valencia,Real Madrid,/team/461/valencia/,/team/243/real-madrid/,"Jul 1, 2009",€ 15M,transfert
+157481,"Sep 4, 1985",Raúl Albiol Tortajada,Valencia,Getafe,/team/461/valencia/,/team/1860/getafe/,"Aug 1, 2004",loan,loan
+181872,"May 22, 1987",Arturo Vidal,FC Bayern München,FC Barcelona,/team/21/fc-bayern-munchen/,/team/241/fc-barcelona/,"Aug 3, 2018",€ 18M,transfert
+181872,"May 22, 1987",Arturo Vidal,Juventus,FC Bayern München,/team/45/juventus/,/team/21/fc-bayern-munchen/,"Jul 28, 2015",€ 35M,transfert
+181872,"May 22, 1987",Arturo Vidal,Bayer 04 Leverkusen,Juventus,/team/32/bayer-04-leverkusen/,/team/45/juventus/,"Jul 21, 2011",€ 10.2M,transfert
+181872,"May 22, 1987",Arturo Vidal,Colo-Colo,Bayer 04 Leverkusen,/team/110980/colo-colo/,/team/32/bayer-04-leverkusen/,"Jul 1, 2007",€ 5.2M,transfert
+178509,"Sep 30, 1986",Olivier Giroud,Arsenal,Chelsea,/team/1/arsenal/,/team/5/chelsea/,"Jan 31, 2018",€ 21M,transfert
+178509,"Sep 30, 1986",Olivier Giroud,Montpellier,Arsenal,/team/70/montpellier/,/team/1/arsenal/,"Jul 1, 2012",€ 12M,transfert
+178509,"Sep 30, 1986",Olivier Giroud,Tours,Montpellier,/team/110326/tours/,/team/70/montpellier/,"Jul 1, 2010",€ 2M,transfert
+178509,"Sep 30, 1986",Olivier Giroud,Grenoble Foot 38,Istres,/team/1805/grenoble-foot-38/,/team/1820/istres/,"Jul 1, 2007",loan,loan
+172871,"Apr 24, 1987",Jan Vertonghen,Benfica,Anderlecht,/team/234/benfica/,/team/229/anderlecht/,"Sep 2, 2022", n/a,transfert
+149791,"May 20, 1982",Wes Hoolahan,Newcastle Jets,Cambridge United,/team/111398/newcastle-jets/,/team/1944/cambridge-united/,"Jul 28, 2020",free,transfert
+149791,"May 20, 1982",Wes Hoolahan,Norwich City,West Bromwich Albion,/team/1792/norwich-city/,/team/109/west-bromwich-albion/,"Sep 14, 2018",free,transfert
+218867,"Jan 22, 1982",Rodrigo Muñoz,Libertad,Cerro Porteño,/team/111008/libertad/,/team/112716/cerro-porteno/,"Jan 7, 2019",free,transfert
+218867,"Jan 22, 1982",Rodrigo Muñoz,Nacional,Libertad,/team/111325/nacional/,/team/111008/libertad/,"Jan 11, 2012",n/a,transfert
+172871,"Apr 24, 1987",Jan Vertonghen,Tottenham Hotspur,Benfica,/team/18/tottenham-hotspur/,/team/234/benfica/,"Aug 14, 2020",free,transfert
+172871,"Apr 24, 1987",Jan Vertonghen,Ajax,Tottenham Hotspur,/team/245/ajax/,/team/18/tottenham-hotspur/,"Jul 10, 2012",€ 12M,transfert
+172871,"Apr 24, 1987",Jan Vertonghen,Ajax,RKC Waalwijk,/team/245/ajax/,/team/1905/rkc-waalwijk/,"Jan 1, 2007",loan,loan
+149791,"May 20, 1982",Wes Hoolahan,Blackpool,Norwich City,/team/1926/blackpool/,/team/1792/norwich-city/,"Aug 1, 2008",€ 375K,transfert
+149791,"May 20, 1982",Wes Hoolahan,Livingston,Blackpool,/team/621/livingston/,/team/1926/blackpool/,"Aug 1, 2006",free,transfert
+218867,"Jan 22, 1982",Rodrigo Muñoz, Cerro,Nacional,,/team/111325/nacional/,"Jan 10, 2009",n/a,transfert
+169416,"Mar 1, 1989",Carlos Vela,Real Sociedad,Los Angeles FC,/team/457/real-sociedad/,/team/112996/los-angeles-fc/,"Jan 1, 2018",€ 5M,transfert
+169416,"Mar 1, 1989",Carlos Vela,Arsenal,Real Sociedad,/team/1/arsenal/,/team/457/real-sociedad/,"Jul 18, 2012",€ 3.8M,transfert
+178086,"May 13, 1987",Antonio Adán Garrido,Real Betis,Atlético Madrid,/team/449/real-betis/,/team/240/atletico-madrid/,"Jul 10, 2018",n/a,transfert
+178086,"May 13, 1987",Antonio Adán Garrido,Cagliari,Real Betis,/team/1842/cagliari/,/team/449/real-betis/,"Jan 27, 2014",free,transfert
+178086,"May 13, 1987",Antonio Adán Garrido,Real Madrid,Cagliari,/team/243/real-madrid/,/team/1842/cagliari/,"Nov 19, 2013",free,transfert
+184200,"Apr 19, 1989",Marko Arnautović,Shanghai SIPG,Bologna,/team/112540/shanghai-sipg/,/team/189/bologna/,"Aug 1, 2021",€ 2.7M,transfert
+162347,"Sep 8, 1986",João Filipe Moutinho,Monaco,Wolverhampton Wanderers,/team/69/monaco/,/team/110/wolverhampton-wanderers/,"Jul 24, 2018",€ 5.6M,transfert
+169416,"Mar 1, 1989",Carlos Vela,Arsenal,Real Sociedad,/team/1/arsenal/,/team/457/real-sociedad/,"Aug 17, 2011",loan,loan
+169416,"Mar 1, 1989",Carlos Vela,Arsenal,West Bromwich Albion,/team/1/arsenal/,/team/109/west-bromwich-albion/,"Jan 28, 2011",loan,loan
+169416,"Mar 1, 1989",Carlos Vela,Osasuna,Arsenal,/team/479/osasuna/,/team/1/arsenal/,"Jul 1, 2008",n/a,transfert
+169416,"Mar 1, 1989",Carlos Vela,Arsenal,Osasuna,/team/1/arsenal/,/team/479/osasuna/,"Jul 1, 2007",loan,loan
+169416,"Mar 1, 1989",Carlos Vela,Arsenal,Salamanca,/team/1/arsenal/,/team/1856/salamanca/,"Jul 1, 2006",loan,loan
+169416,"Mar 1, 1989",Carlos Vela,Guadalajara,Arsenal,/team/1880/guadalajara/,/team/1/arsenal/,"Nov 10, 2005",€ 3M,transfert
+184200,"Apr 19, 1989",Marko Arnautović,West Ham United,Shanghai SIPG,/team/19/west-ham-united/,/team/112540/shanghai-sipg/,"Jul 8, 2019",€ 25M,transfert
+184200,"Apr 19, 1989",Marko Arnautović,Stoke City,West Ham United,/team/1806/stoke-city/,/team/19/west-ham-united/,"Jul 22, 2017",€ 22.3M,transfert
+184200,"Apr 19, 1989",Marko Arnautović,Werder Bremen,Stoke City,/team/38/werder-bremen/,/team/1806/stoke-city/,"Sep 2, 2013",€ 2.8M,transfert
+184200,"Apr 19, 1989",Marko Arnautović,FC Twente,Werder Bremen,/team/1908/fc-twente/,/team/38/werder-bremen/,"Jul 1, 2010",€ 6.2M,transfert
+184200,"Apr 19, 1989",Marko Arnautović,FC Twente,Inter,/team/1908/fc-twente/,/team/44/inter/,"Aug 6, 2009",loan,loan
+162347,"Sep 8, 1986",João Filipe Moutinho,Porto,Monaco,/team/236/porto/,/team/69/monaco/,"Jul 1, 2013",€ 25M,transfert
+162347,"Sep 8, 1986",João Filipe Moutinho,Sporting CP,Porto,/team/237/sporting-cp/,/team/236/porto/,"Jul 1, 2010",€ 11M,transfert
+192366,"Feb 12, 1988",Nicolás Otamendi,Manchester City,Benfica,/team/10/manchester-city/,/team/234/benfica/,"Sep 29, 2020",€ 14.8M,transfert
+192366,"Feb 12, 1988",Nicolás Otamendi,Valencia,Manchester City,/team/461/valencia/,/team/10/manchester-city/,"Aug 20, 2015",€ 48M,transfert
+192366,"Feb 12, 1988",Nicolás Otamendi,Atlético Mineiro,Valencia,/team/1035/atletico-mineiro/,/team/461/valencia/,"Jul 1, 2014",n/a,transfert
+192366,"Feb 12, 1988",Nicolás Otamendi,Valencia,Atlético Mineiro,/team/461/valencia/,/team/1035/atletico-mineiro/,"Feb 7, 2014",loan,loan
+192366,"Feb 12, 1988",Nicolás Otamendi,Porto,Valencia,/team/236/porto/,/team/461/valencia/,"Jan 30, 2014",€ 12M,transfert
+192366,"Feb 12, 1988",Nicolás Otamendi,Vélez Sarsfield,Porto,/team/101088/velez-sarsfield/,/team/236/porto/,"Aug 31, 2010",€ 8M,transfert
+257345,"Aug 18, 2002",Amar Dedić,Wolfsberger AC,Salzburg,/team/111822/wolfsberger-ac/,/team/191/salzburg/,"Jul 1, 2022",n/a,transfert
+257345,"Aug 18, 2002",Amar Dedić,Wolfsberger AC,Salzburg,/team/111822/wolfsberger-ac/,/team/191/salzburg/,"Jun 30, 2022",n/a,transfert
+257345,"Aug 18, 2002",Amar Dedić,Salzburg,Wolfsberger AC,/team/191/salzburg/,/team/111822/wolfsberger-ac/,"Jul 1, 2021",loan,loan
+258467,"Nov 18, 2004",Luka Romero,Mallorca,Lazio,/team/453/mallorca/,/team/46/lazio/,"Jul 20, 2021",€ 200K,transfert
+258092,"Jul 26, 2002",Daan Huisman,VVV-Venlo,Vitesse,/team/100651/vvv-venlo/,/team/1909/vitesse/,"Jul 1, 2023",n/a,transfert
+258092,"Jul 26, 2002",Daan Huisman,Vitesse,VVV-Venlo,/team/1909/vitesse/,/team/100651/vvv-venlo/,"Aug 31, 2022",loan,loan
+258167,"Mar 28, 2003",Ronnie Edwards,Barnet,Peterborough United,/team/135/barnet/,/team/1938/peterborough-united/,"Aug 10, 2020",n/a,transfert
+258498,"Aug 18, 2002",Bart Verbruggen,NAC Breda,Anderlecht,/team/1904/nac-breda/,/team/229/anderlecht/,"Sep 11, 2020",n/a,transfert
+259848,"Jul 23, 2002",Jon Aramburu,Deportivo La Guaira,Real Unión,/team/112853/deportivo-la-guaira/,/team/100882/real-union/,"Jul 20, 2022",n/a,transfert
+259584,"Jul 11, 2002",Matteo Ruggeri,Salernitana,Atalanta,/team/110373/salernitana/,/team/39/atalanta/,"Jul 1, 2022",n/a,transfert
+259584,"Jul 11, 2002",Matteo Ruggeri,Atalanta,Salernitana,/team/39/atalanta/,/team/110373/salernitana/,"Jul 27, 2021",loan,loan
+259714,"Jul 5, 2002",Merlin Röhl,Ingolstadt,SC Freiburg,/team/111239/ingolstadt/,/team/25/sc-freiburg/,"Aug 17, 2022",€ 2.9M,transfert
+259399,"Feb 4, 2003",Rasmus Højlund,Sturm Graz,Atalanta,/team/209/sturm-graz/,/team/39/atalanta/,"Aug 27, 2022",€ 17M,transfert
+265459,"Oct 31, 2002",Tyler Morton,Blackburn Rovers,Liverpool,/team/3/blackburn-rovers/,/team/9/liverpool/,"Jul 1, 2023",n/a,transfert
+265459,"Oct 31, 2002",Tyler Morton,Liverpool,Blackburn Rovers,/team/9/liverpool/,/team/3/blackburn-rovers/,"Aug 1, 2022",loan,loan
+265595,"Feb 24, 2004",Samuele Vignato,Chievo,Monza,/team/192/chievo/,/team/111811/monza/,"Aug 11, 2021",free,transfert
+265588,"Nov 3, 2003",Alexis Tibidi,Rheindorf Altach,VfB Stuttgart,/team/15009/rheindorf-altach/,/team/36/vfb-stuttgart/,"Jul 1, 2023",n/a,transfert
+265588,"Nov 3, 2003",Alexis Tibidi,VfB Stuttgart,Rheindorf Altach,/team/36/vfb-stuttgart/,/team/15009/rheindorf-altach/,"Jul 11, 2022",loan,loan
+266118,"Sep 1, 2003",Jonathan Germán Gómez, Louisville City,Real Sociedad,,/team/457/real-sociedad/,"Mar 1, 2022",n/a,transfert
+266118,"Sep 1, 2003",Jonathan Germán Gómez, Louisville City,Real Sociedad II,,/team/110711/real-sociedad-ii/,"Oct 1, 2021",n/a,transfert
+265793,"Nov 4, 2002",Luke Plange, RWDM,Crystal Palace,,/team/1799/crystal-palace/,"Jul 1, 2023",n/a,transfert
+265793,"Nov 4, 2002",Luke Plange,Crystal Palace, RWDM,/team/1799/crystal-palace/,,"Aug 26, 2022",loan,loan
+265793,"Nov 4, 2002",Luke Plange,Derby County,Crystal Palace,/team/91/derby-county/,/team/1799/crystal-palace/,"Jul 1, 2022",n/a,transfert
+265793,"Nov 4, 2002",Luke Plange,Crystal Palace,Derby County,/team/1799/crystal-palace/,/team/91/derby-county/,"Feb 1, 2022",loan,loan
+265793,"Nov 4, 2002",Luke Plange,Derby County,Crystal Palace,/team/91/derby-county/,/team/1799/crystal-palace/,"Jan 31, 2022", n/a,transfert
+263943,"Jan 16, 2003",Javier Serrano Martínez, Atlético Madrid U19,Mirandés,,/team/110069/mirandes/,"Aug 26, 2022",n/a,transfert
+266257,"Jun 1, 2004",Emirhan İlkhan,Beşiktaş,Torino,/team/327/besiktas/,/team/54/torino/,"Aug 10, 2022",€ 4.5M,transfert
+259633,"May 10, 2003",Giannis Konstantelias,AS Eupen,PAOK,/team/2013/as-eupen/,/team/393/paok/,"Jul 20, 2022",n/a,transfert
+259633,"May 10, 2003",Giannis Konstantelias,PAOK,AS Eupen,/team/393/paok/,/team/2013/as-eupen/,"Jan 20, 2022",loan,loan
+267611,"Sep 4, 2003",Malcolm Ebiowei,Derby County,Crystal Palace,/team/91/derby-county/,/team/1799/crystal-palace/,"Jul 1, 2022",free,transfert
+267628,"Jan 15, 2004",Kevin Pereira, Deportivo Capiatá,Talleres Córdoba,,/team/112670/talleres-cordoba/,"Jan 19, 2022", n/a,transfert
+253452,"Sep 20, 2002",Miguel Azeez,UD Ibiza,Arsenal,/team/113981/ud-ibiza/,/team/1/arsenal/,"Jul 1, 2023",n/a,transfert
+253452,"Sep 20, 2002",Miguel Azeez,Arsenal,UD Ibiza,/team/1/arsenal/,/team/113981/ud-ibiza/,"Sep 1, 2022",loan,loan
+253452,"Sep 20, 2002",Miguel Azeez,Portsmouth,Arsenal,/team/1790/portsmouth/,/team/1/arsenal/,"Jun 1, 2022",n/a,transfert
+253452,"Sep 20, 2002",Miguel Azeez,Portsmouth,Arsenal,/team/1790/portsmouth/,/team/1/arsenal/,"Jan 18, 2022",n/a,transfert
+253452,"Sep 20, 2002",Miguel Azeez,Arsenal,Portsmouth,/team/1/arsenal/,/team/1790/portsmouth/,"Aug 30, 2021",loan,loan
+253497,"Feb 13, 2003",Pépé Bonet,Rennes,Red Star,/team/74/rennes/,/team/111273/red-star/,"Jul 1, 2022",free,transfert
+252897,"Jul 31, 2003",Calvin Ramsay,Aberdeen,Liverpool,/team/77/aberdeen/,/team/9/liverpool/,"Jun 19, 2022",€ 4.9M,transfert
+255174,"Apr 18, 2003",Lisandru Tramoni,Cagliari,Pisa,/team/1842/cagliari/,/team/110738/pisa/,"Aug 20, 2022",free,transfert
+255174,"Apr 18, 2003",Lisandru Tramoni,Ajaccio, Cagliari U19,/team/614/ajaccio/,,"Sep 23, 2020",n/a,transfert
+253969,"Aug 26, 2003",Leo Hjelde,Celtic,Ross County,/team/78/celtic/,/team/631/ross-county/,"Jan 22, 2021",n/a,transfert
+254820,"Jul 23, 2002",Dawid Kocyła,Nieciecza,Wisła Płock,/team/112510/nieciecza/,/team/1569/wisla-plock/,"Jun 30, 2022",n/a,transfert
+254820,"Jul 23, 2002",Dawid Kocyła,Wisła Płock,Nieciecza,/team/1569/wisla-plock/,/team/112510/nieciecza/,"Jan 21, 2022",loan,loan
+254820,"Jul 23, 2002",Dawid Kocyła,Bełchatów,Wisła Płock,/team/110744/belchatow/,/team/1569/wisla-plock/,"Jan 1, 2020",n/a,transfert
+258352,"Jan 13, 2003",Ahmet Gülay,Alanyaspor,Beşiktaş,/team/113142/alanyaspor/,/team/327/besiktas/,"Jul 1, 2024",n/a,transfert
+258352,"Jan 13, 2003",Ahmet Gülay,Alanyaspor,Beşiktaş,/team/113142/alanyaspor/,/team/327/besiktas/,"Jul 1, 2022",n/a,transfert
+258352,"Jan 13, 2003",Ahmet Gülay,Alanyaspor,Beşiktaş,/team/113142/alanyaspor/,/team/327/besiktas/,"Jul 1, 2021",n/a,transfert
+258352,"Jan 13, 2003",Ahmet Gülay,Beşiktaş,Alanyaspor,/team/327/besiktas/,/team/113142/alanyaspor/,"Aug 27, 2020",loan,loan
+258315,"Mar 26, 2003",Bright Akwo Arrey-Mbi,Hannover 96,FC Bayern München,/team/485/hannover-96/,/team/21/fc-bayern-munchen/,"Jul 1, 2023",n/a,transfert
+258315,"Mar 26, 2003",Bright Akwo Arrey-Mbi,FC Bayern München,Hannover 96,/team/21/fc-bayern-munchen/,/team/485/hannover-96/,"Aug 30, 2022",loan,loan
+258315,"Mar 26, 2003",Bright Akwo Arrey-Mbi,FC Köln,FC Bayern München,/team/31/fc-koln/,/team/21/fc-bayern-munchen/,"Aug 29, 2022",n/a,transfert
+258315,"Mar 26, 2003",Bright Akwo Arrey-Mbi,FC Bayern München, Köln II,/team/21/fc-bayern-munchen/,,"Feb 22, 2022",n/a,transfert
+258315,"Mar 26, 2003",Bright Akwo Arrey-Mbi,FC Bayern München,FC Köln,/team/21/fc-bayern-munchen/,/team/31/fc-koln/,"Jan 31, 2022",loan,loan
+260236,"Dec 23, 2002",Nene Dorgeles, Liefering,Westerlo,,/team/681/westerlo/,"Jul 1, 2022",loan,loan
+260236,"Dec 23, 2002",Nene Dorgeles, Liefering,Ried,,/team/780/ried/,"Jan 27, 2022",loan,loan
+260236,"Dec 23, 2002",Nene Dorgeles, Liefering,Salzburg,,/team/191/salzburg/,"Jan 1, 2022",n/a,transfert
+260236,"Dec 23, 2002",Nene Dorgeles,Salzburg, Liefering,/team/191/salzburg/,,"Jan 5, 2021",loan,loan
+260638,"Feb 19, 2003",Bartuğ Elmaz,Galatasaray,Olympique Marseille,/team/325/galatasaray/,/team/219/olympique-marseille/,"Jul 30, 2022",free,transfert
+258139,"Dec 5, 2002",Raúl Moro Prescoli,Ternana,Lazio,/team/570/ternana/,/team/46/lazio/,"Jul 1, 2023",n/a,transfert
+258139,"Dec 5, 2002",Raúl Moro Prescoli,Lazio,Ternana,/team/46/lazio/,/team/570/ternana/,"Aug 23, 2022",loan,loan
+260562,"Jan 22, 2003",Lucas Besozzi,Central Cordoba SdE,Lanús,/team/112965/central-cordoba-sde/,/team/110395/lanus/,"Jan 1, 2023",n/a,transfert
+260562,"Jan 22, 2003",Lucas Besozzi,Lanús,Central Cordoba SdE,/team/110395/lanus/,/team/112965/central-cordoba-sde/,"Feb 10, 2022",loan,loan
+265431,"Jul 30, 2004",Eduard Radaslavescu,SSC Farul,FCSB,/team/110075/ssc-farul/,/team/100761/fcsb/,"Aug 5, 2022",free,transfert
+264059,"Jan 2, 2003",Redwan Bourlès,Lorient, Rennes II,/team/217/lorient/,,"Jul 1, 2022",free,transfert
+264026,"Dec 10, 2002",Nathan Bitumazala,Paris Saint Germain,AS Eupen,/team/73/paris-saint-germain/,/team/2013/as-eupen/,"Aug 17, 2022",free,transfert
+255115,"Oct 29, 2002",Jesús Rivas,Pumas UNAM, Pumas Tabasco,/team/1881/pumas-unam/,,"Feb 2, 2021",n/a,transfert
+262096,"Nov 4, 2002",Amari Miller,Birmingham City,Leeds United,/team/88/birmingham-city/,/team/8/leeds-united/,"Jun 28, 2021",n/a,transfert
+262888,"Oct 17, 2002",Dildar Atmaca,Würzburger Kickers,Preußen Münster,/team/110197/wurzburger-kickers/,/team/531/preussen-munster/,"Sep 19, 2022",free,transfert
+263397,"May 14, 2003",Alan Minda, Independiente Juniors,Independiente del Valle,,/team/112908/independiente-del-valle/,"May 21, 2021",n/a,transfert
+268093,"Apr 6, 2003",Yoann Beaka,Paris, Troyes II,/team/111817/paris/,,"Jul 1, 2022",free,transfert
